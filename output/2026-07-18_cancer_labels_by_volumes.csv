@@ -1,0 +1,307 @@
+Cancer_Label,CI5-VIII,CI5-IX,CI5-X,CI5-XI,CI5-XII
+Accessory sinuses,YES,YES,YES,,
+Acute (C91.0),,YES,YES,,
+"Acute (C92.0, C93.0, C94.0,C94.2,C94.4-5)",,YES,YES,,
+Acute (C95.0),,YES,YES,,
+"Acute leukaemia, cell unspecified",YES,,,,
+Acute lymphoid leukaemia,YES,,,,
+Acute myeloid leukaemia,YES,,,,
+Adenocarcinoma,,YES,YES,,
+Adrenal gland,YES,YES,YES,YES,YES
+All sites,YES,YES,YES,YES,YES
+All sites but skin,,,,YES,YES
+All sites but skin (C00-96 but C44),,YES,YES,,
+Anaplastic carcinoma,,YES,YES,,
+Anus,YES,YES,YES,YES,YES
+Astrocytic tumours,,YES,YES,,
+Base of tongue,,YES,YES,,
+Bladder,YES,YES,YES,YES,YES
+Body (C16.2),,YES,YES,,
+Bone,YES,YES,YES,YES,YES
+Bone of limbs,YES,YES,YES,,
+Brain,YES,YES,YES,,
+"Brain, central nervous system",YES,,,,
+"Brain, nervous system",,,,YES,YES
+Breast,YES,YES,YES,YES,YES
+Burkitt lymphoma,YES,,,,
+Burkitt lymphoma (C83.7),,YES,YES,,
+Cardia (C16.0),,YES,YES,,
+Central nervous system,,YES,YES,,
+Cervix uteri,YES,YES,YES,YES,YES
+Cholangiocarcinoma,,YES,YES,,
+Chondrosarcoma,,YES,YES,,
+Chronic (C91.1),,YES,YES,,
+"Chronic (C92.1, C93.1, C94.1)",,YES,YES,,
+Chronic (C95.1),,YES,YES,,
+"Chronic leukaemia, cell unspecified",YES,,,,
+Chronic lymphoid leukaemia,YES,,,,
+Chronic myeloid leukaemia,YES,,,,
+Classical lymphocyte-rich,,YES,YES,,
+Clear cell carcinoma,,YES,YES,,
+Colon,YES,YES,YES,YES,YES
+"Colon, descending",YES,,,,
+"Colon, other and unspecified parts",YES,,,,
+"Colon, right",YES,,,,
+"Colon, sigmoid",YES,,,,
+"Colon, transverse and flexures",YES,,,,
+Connective and soft tissue,YES,YES,YES,YES,YES
+Corpus uteri,YES,YES,YES,YES,YES
+Cranial nerves,YES,,,,
+Cranial nerves (C72.2-5),,YES,YES,,
+Descending (C18.6),,YES,YES,,
+Digestive organs,YES,YES,YES,,
+Endometrioid carcinoma,,YES,YES,,
+Ependymal tumours,,YES,YES,,
+Ewing sarcoma,YES,YES,YES,,
+Eye,YES,YES,YES,YES,YES
+"Eye, brain and central nervous system",YES,YES,YES,,
+Fallopian tube,YES,,,,
+Fallopian tube (C57.0),,YES,YES,,
+Female genital organs,YES,YES,YES,,
+Follicular carcinoma,,YES,YES,,
+Fundus (C16.1),,YES,YES,,
+Gallbladder,YES,YES,YES,,
+Gallbladder etc.,,,,YES,YES
+Germ cell tumour,,YES,YES,,
+Gliomas of uncertain origin,,YES,YES,,
+Haemagiosarcoma,,YES,YES,,
+Head (C43.0-4),,YES,YES,,
+"Heart, mediastinum and pleura",YES,YES,YES,,
+Hepatoblastoma,,YES,YES,,
+Hepatocellular carcinoma,,YES,YES,,
+Hodgkin disease,YES,YES,YES,YES,YES
+"Hodgkin disease, lymphocytic depletion",YES,,,,
+"Hodgkin disease, lymphocytic predominance",YES,,,,
+"Hodgkin disease, mixed cellularity",YES,,,,
+"Hodgkin disease, nodular sclerosis",YES,,,,
+"Hodgkin disease, other and unspecified",YES,,,,
+Hypopharynx,YES,YES,YES,YES,YES
+Immunoproliferative diseases,YES,YES,YES,YES,YES
+Kaposi sarcoma,YES,YES,YES,YES,YES
+Kidney,YES,YES,YES,YES,YES
+Large cell carcinoma,,YES,YES,,
+Larynx,YES,YES,YES,YES,YES
+Leukaemia,YES,YES,YES,,
+Leukaemia unspecified,,,,YES,YES
+"Leukaemia, cell unspecified",YES,YES,YES,,
+Lip,YES,YES,YES,YES,YES
+Liver,YES,YES,YES,YES,YES
+Lower limb (C43.7),,YES,YES,,
+"Lower third (C15.2,5)",,YES,YES,,
+Lung,YES,YES,YES,,
+Lung (incl. trachea and bronchus),,,,YES,YES
+Lymphocytic depletion,,YES,YES,,
+Lymphoid and haematopoietic tissues,YES,,,,
+Lymphoid leukaemia,YES,YES,YES,YES,YES
+Lymphoid tissues,,YES,YES,,
+Male genital organs,YES,YES,YES,,
+Medullary carcinoma,,YES,YES,,
+Medulloblastoma,,YES,YES,,
+Melanoma,,YES,YES,,
+Melanoma of skin,YES,YES,YES,YES,YES
+"Melanoma of skin, head",YES,,,,
+"Melanoma of skin, lower limb",YES,,,,
+"Melanoma of skin, other and unspecified",YES,,,,
+"Melanoma of skin, trunk",YES,,,,
+"Melanoma of skin, upper limb",YES,,,,
+Meninges,YES,YES,YES,,
+Mesothelial and soft tissues,YES,YES,YES,,
+Mesothelioma,YES,YES,YES,YES,YES
+"Middle third (C15.1,4)",,YES,YES,,
+Mixed cellularity,,YES,YES,,
+Mouth,YES,YES,YES,YES,YES
+"Mouth, floor of",YES,YES,YES,,
+"Mouth, gum",YES,YES,YES,,
+"Mouth, other and unspecified parts",YES,YES,YES,,
+"Mouth, palate",YES,YES,YES,,
+Mucinous carcinoma,,YES,YES,,
+Multiple myeloma,YES,YES,YES,YES,YES
+Mycosis fungoides,YES,,,,
+Mycosis fungoides (C84.0),,YES,YES,,
+Myelodysplastic syndromes,,YES,YES,YES,YES
+Myeloid leukaemia,YES,YES,YES,YES,YES
+Myeloproliferative disorders,,YES,YES,YES,YES
+Nasal cavity and middle ear,YES,YES,YES,,
+Nasopharynx,YES,YES,YES,YES,YES
+"Nervous system, NOS",YES,,,,
+"Nervous system, NOS (C72.8-9)",,YES,YES,,
+Nodular lymphocytic predominance,,YES,YES,,
+Nodular sclerosis,,YES,YES,,
+Non-Hodgkin lymphoma,YES,,,YES,YES
+"Non-Hodgkin lymphoma (C82-85,C96)",,YES,YES,,
+"Non-Hodgkin lymphoma, other and unspecified",YES,,,,
+Non-seminomatous germ cell tumours,,YES,YES,,
+"Nose, sinuses etc.",,,,YES,YES
+Oesophagus,YES,YES,YES,YES,YES
+"Oesophagus, lower third",YES,,,,
+"Oesophagus, middle third",YES,,,,
+"Oesophagus, other and unspecified parts",YES,,,,
+"Oesophagus, upper third",YES,,,,
+Oligodendroglial tumours and mixed gliomas,,YES,YES,,
+Oral cavity and pharynx,YES,YES,YES,,
+Oropharynx,YES,YES,YES,,
+Osteosarcoma,,YES,YES,,
+"Other (C92.2-7, C93.2-7,C94.3,C94.7)",,YES,YES,,
+Other (C95.2-7),,YES,YES,,
+Other and ill-defined digestive organs,YES,YES,YES,,
+Other and unspecified,YES,,,YES,YES
+Other and unspecified (C43.8-9),,YES,YES,,
+Other and unspecified cancers,,YES,YES,,
+Other and unspecified female genital organs (C57.1-9),,YES,YES,,
+Other and unspecified non-Hodgkin lymphoma,,YES,YES,,
+Other and unspecified parts (C15.8-9),,YES,YES,,
+Other and unspecified parts (C16.5-9),,YES,YES,,
+Other and unspecified parts (C18.8-9),,YES,YES,,
+Other and unspecified parts of biliary tract,YES,YES,YES,,
+Other and unspecified respiratory and intrathoracic organs,YES,YES,YES,,
+Other bones,YES,YES,YES,,
+Other embryonal tumours,,YES,YES,,
+Other endocrine,YES,YES,YES,YES,YES
+Other female genital,YES,,,,
+Other female genital organs,YES,YES,YES,YES,YES
+"Other leukaemia, cell unspecified",YES,,,,
+Other male genital organs,YES,YES,YES,YES,YES
+Other morphology,,YES,YES,,
+Other myeloid leukaemia,YES,,,,
+Other neuroepithelial tumours,,YES,YES,,
+Other oropharynx,,,,YES,YES
+Other parts of central nervous system,YES,YES,YES,,
+Other skin,YES,YES,YES,YES,YES
+Other specified (C91.2-7),,YES,YES,,
+Other specified carcinoma,,YES,YES,,
+Other specified lymphoid leukaemia,YES,,,,
+Other specified morphology,,YES,YES,,
+Other specified sarcoma,,YES,YES,,
+Other specified sarcomas,,YES,YES,,
+Other thoracic organs,,,,YES,YES
+Other urinary organs,YES,YES,YES,YES,YES
+Ovary,YES,YES,YES,YES,YES
+Pancreas,YES,YES,YES,YES,YES
+Papillary carcinoma,,YES,YES,,
+Parotid gland,YES,YES,YES,,
+Penis,YES,YES,YES,YES,YES
+Peripheral nerves,YES,YES,YES,,
+Peritoneum and retroperitoneum,YES,YES,YES,,
+Pharynx unspecified,YES,YES,YES,YES,YES
+Placenta,YES,YES,YES,YES,YES
+Prostate,YES,YES,YES,YES,YES
+Pylorus and antrum (C16.3-4),,YES,YES,,
+Pyriform sinus,YES,YES,YES,,
+Rectosigmoid junction,YES,YES,YES,,
+Rectum,YES,YES,YES,YES,YES
+Renal pelvis,YES,YES,YES,YES,YES
+Respiratory organs,YES,YES,YES,,
+Retinoblastoma,,YES,YES,,
+Right (C18.0-2),,YES,YES,,
+Salivary glands,YES,YES,YES,YES,YES
+"Salivary glands, other and unspecified",YES,YES,YES,,
+Sarcoma,,YES,YES,,
+Seminoma,,YES,YES,,
+Serous carcinoma,,YES,YES,,
+Sex cord-stromal tumour,,YES,YES,,
+Sigmoid (C18.7),,YES,YES,,
+Skin,YES,YES,YES,,
+Small cell carcinoma,,YES,YES,,
+Small intestine,YES,YES,YES,YES,YES
+Spermatocytic seminoma,,YES,YES,,
+"Spinal cord, cauda equina",YES,,,,
+"Spinal cord, cauda equina (C72.0,1)",,YES,YES,,
+Squamous cell carcinoma,,YES,YES,,
+Stomach,YES,YES,YES,YES,YES
+"Stomach, body",YES,,,,
+"Stomach, cardia",YES,,,,
+"Stomach, fundus",YES,,,,
+"Stomach, other and unspecified parts",YES,,,,
+"Stomach, pylorus and antrum",YES,,,,
+Testis,YES,YES,YES,YES,YES
+Thymus,YES,YES,YES,,
+Thyroid,YES,YES,YES,YES,YES
+Thyroid and other endocrine glands,YES,YES,YES,,
+Tongue,YES,YES,YES,YES,YES
+"Tongue, base of",YES,,,,
+"Tongue, other and unspecified parts",YES,YES,YES,,
+Tonsil,YES,YES,YES,YES,YES
+Trachea,YES,YES,YES,,
+Transitional cell carcinoma,,YES,YES,,
+Transverse and flexures (C18.3-5),,YES,YES,,
+Trunk (C43.5),,YES,YES,,
+Unspecified,,YES,YES,,
+Unspecified (C91.9),,YES,YES,,
+"Unspecified (C92.9, C93.9)",,YES,YES,,
+Unspecified (C95.9),,YES,YES,,
+Unspecified carcinoma,,YES,YES,,
+"Unspecified leukaemia, cell unspecified",YES,,,,
+Unspecified lymphoid leukaemia,YES,,,,
+Unspecified morphology,,YES,YES,,
+Unspecified myeloid leukaemia,YES,,,,
+Unspecified sarcoma,,YES,YES,,
+Upper limb (C43.6),,YES,YES,,
+"Upper third (C15.0,3)",,YES,YES,,
+Ureter,YES,YES,YES,YES,YES
+Urinary tract,YES,YES,YES,,
+Uterus unspecified,YES,YES,YES,YES,YES
+Vagina,YES,YES,YES,YES,YES
+Vulva,YES,YES,YES,YES,YES
+adenocarcinoma,YES,,,,
+anaplastic carcinoma,YES,,,,
+basaloid and cloacogenic carcinoma,YES,,,,
+but C44 All sites but skin,YES,,,,
+"central nervous system, astrocytic tumours",YES,,,,
+"central nervous system, choroid plexus tumours",YES,,,,
+"central nervous system, cranial nerves tumours",YES,,,,
+"central nervous system, ependymal tumours",YES,,,,
+"central nervous system, germinoma",YES,,,,
+"central nervous system, gliomas of uncertain origin",YES,,,,
+"central nervous system, medulloblastoma",YES,,,,
+"central nervous system, melanoma",YES,,,,
+"central nervous system, meningioma",YES,,,,
+"central nervous system, neuronal and mixed neuronal-glial tumours",YES,,,,
+"central nervous system, oligodendroglial tumours and mixed gliomas",YES,,,,
+"central nervous system, other embryonal tumours",YES,,,,
+"central nervous system, other germ cell tumours",YES,,,,
+"central nervous system, other specified morphology",YES,,,,
+"central nervous system, soft tissue tumours",YES,,,,
+"central nervous system, unspecified morphology",YES,,,,
+cholangiocarcinoma,YES,,,,
+chondrosarcoma,YES,,,,
+choriocarcinoma,YES,,,,
+clear cell carcinoma,YES,,,,
+embryonal carcinoma,YES,,,,
+endometrioid carcinoma,YES,,,,
+fibrosarcoma,YES,,,,
+follicular carcinoma,YES,,,,
+germ cell tumour,YES,,,,
+haemagiosarcoma,YES,,,,
+hepatoblastoma,YES,,,,
+hepatocellular carcinoma,YES,,,,
+large and undifferentiated cell carcinoma,YES,,,,
+medullary carcinoma,YES,,,,
+melanoma,YES,,,,
+mucinous carcinoma,YES,,,,
+osteosarcoma,YES,,,,
+other carcinoma,YES,,,,
+other morphology,YES,,,,
+other sarcoma,YES,,,,
+other specified carcinomas,YES,,,,
+other specified morphology,YES,,,,
+other specified sarcomas,YES,,,,
+papillary carcinoma,YES,,,,
+retinoblastoma,YES,,,,
+sarcoma,YES,,,,
+seminoma,YES,,,,
+serous carcinoma,YES,,,,
+sex cord-stromal tumour,YES,,,,
+small cell carcinoma,YES,,,,
+squamous cell carcinoma,YES,,,,
+teratoma,YES,,,,
+transitional cell carcinoma,YES,,,,
+unspecified carcinoma,YES,,,,
+unspecified morphology,YES,,,,
+unspecified sarcoma,YES,,,,
+"uteri, adenocarcinoma",YES,,,,
+"uteri, other carcinoma",YES,,,,
+"uteri, other morphology",YES,,,,
+"uteri, sarcoma",YES,,,,
+"uteri, squamous cell carcinoma",YES,,,,
+"uteri, unspecified carcinoma",YES,,,,
+"uteri, unspecified morphology",YES,,,,

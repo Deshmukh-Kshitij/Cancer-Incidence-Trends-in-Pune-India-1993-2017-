@@ -1,0 +1,2269 @@
+Volume,Period,Year_Midpoint,Registry,Sex,Age_Group,Age_Group_Sort,Cancer_Code,Cancer_Label,Cases,Population,Rate_per_100k
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,1,Lip,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,1,Lip,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,1,Lip,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,1,Lip,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,1,Lip,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,1,Lip,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,1,Lip,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,1,Lip,2,810974,0.2466
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,1,Lip,1,720791,0.1387
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,1,Lip,4,596503,0.6706
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,1,Lip,4,537176,0.7446
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,1,Lip,3,345999,0.8671
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,1,Lip,5,243451,2.0538
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,1,Lip,3,210311,1.4265
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,1,Lip,2,131185,1.5246
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,1,Lip,1,172552,0.5795
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,1,Lip,1,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,1,Lip,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,2,Tongue,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,2,Tongue,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,2,Tongue,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,2,Tongue,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,2,Tongue,2,1437551,0.1391
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,2,Tongue,8,1271128,0.6294
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,2,Tongue,24,1026110,2.3389
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,2,Tongue,32,810974,3.9459
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,2,Tongue,45,720791,6.2431
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,2,Tongue,25,596503,4.1911
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,2,Tongue,29,537176,5.3986
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,2,Tongue,42,345999,12.1388
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,2,Tongue,37,243451,15.1981
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,2,Tongue,27,210311,12.8381
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,2,Tongue,20,131185,15.2456
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,2,Tongue,15,172552,8.693
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,2,Tongue,6,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,2,Tongue,9,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,3,Mouth,1,998887,0.1001
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,3,Mouth,1,807911,0.1238
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,3,Mouth,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,3,Mouth,1,1270231,0.0787
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,3,Mouth,2,1437551,0.1391
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,3,Mouth,8,1271128,0.6294
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,3,Mouth,29,1026110,2.8262
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,3,Mouth,41,810974,5.0556
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,3,Mouth,64,720791,8.8791
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,3,Mouth,71,596503,11.9027
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,3,Mouth,65,537176,12.1003
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,3,Mouth,69,345999,19.9423
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,3,Mouth,91,243451,37.3792
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,3,Mouth,74,210311,35.186
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,3,Mouth,39,131185,29.729
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,3,Mouth,16,172552,9.2726
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,3,Mouth,12,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,3,Mouth,12,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,4,Salivary glands,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,4,Salivary glands,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,4,Salivary glands,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,4,Salivary glands,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,4,Salivary glands,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,4,Salivary glands,2,1271128,0.1573
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,4,Salivary glands,2,1026110,0.1949
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,4,Salivary glands,3,810974,0.3699
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,4,Salivary glands,2,720791,0.2775
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,4,Salivary glands,3,596503,0.5029
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,4,Salivary glands,2,537176,0.3723
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,4,Salivary glands,2,345999,0.578
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,4,Salivary glands,2,243451,0.8215
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,4,Salivary glands,7,210311,3.3284
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,4,Salivary glands,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,4,Salivary glands,4,172552,2.3181
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,4,Salivary glands,1,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,4,Salivary glands,1,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,5,Tonsil,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,5,Tonsil,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,5,Tonsil,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,5,Tonsil,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,5,Tonsil,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,5,Tonsil,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,5,Tonsil,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,5,Tonsil,2,810974,0.2466
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,5,Tonsil,4,720791,0.5549
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,5,Tonsil,3,596503,0.5029
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,5,Tonsil,3,537176,0.5585
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,5,Tonsil,5,345999,1.4451
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,5,Tonsil,5,243451,2.0538
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,5,Tonsil,2,210311,0.951
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,5,Tonsil,1,131185,0.7623
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,5,Tonsil,2,172552,1.1591
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,5,Tonsil,4,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,5,Tonsil,3,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,6,Other oropharynx,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,6,Other oropharynx,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,6,Other oropharynx,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,6,Other oropharynx,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,6,Other oropharynx,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,6,Other oropharynx,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,6,Other oropharynx,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,6,Other oropharynx,1,810974,0.1233
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,6,Other oropharynx,1,720791,0.1387
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,6,Other oropharynx,3,596503,0.5029
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,6,Other oropharynx,3,537176,0.5585
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,6,Other oropharynx,9,345999,2.6012
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,6,Other oropharynx,4,243451,1.643
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,6,Other oropharynx,7,210311,3.3284
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,6,Other oropharynx,2,131185,1.5246
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,6,Other oropharynx,3,172552,1.7386
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,6,Other oropharynx,1,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,6,Other oropharynx,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,7,Nasopharynx,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,7,Nasopharynx,2,807911,0.2476
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,7,Nasopharynx,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,7,Nasopharynx,3,1270231,0.2362
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,7,Nasopharynx,3,1437551,0.2087
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,7,Nasopharynx,2,1271128,0.1573
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,7,Nasopharynx,3,1026110,0.2924
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,7,Nasopharynx,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,7,Nasopharynx,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,7,Nasopharynx,3,596503,0.5029
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,7,Nasopharynx,2,537176,0.3723
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,7,Nasopharynx,2,345999,0.578
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,7,Nasopharynx,1,243451,0.4108
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,7,Nasopharynx,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,7,Nasopharynx,3,131185,2.2868
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,7,Nasopharynx,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,7,Nasopharynx,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,7,Nasopharynx,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,8,Hypopharynx,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,8,Hypopharynx,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,8,Hypopharynx,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,8,Hypopharynx,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,8,Hypopharynx,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,8,Hypopharynx,1,1271128,0.0787
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,8,Hypopharynx,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,8,Hypopharynx,3,810974,0.3699
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,8,Hypopharynx,3,720791,0.4162
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,8,Hypopharynx,5,596503,0.8382
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,8,Hypopharynx,17,537176,3.1647
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,8,Hypopharynx,9,345999,2.6012
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,8,Hypopharynx,19,243451,7.8044
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,8,Hypopharynx,16,210311,7.6078
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,8,Hypopharynx,15,131185,11.4342
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,8,Hypopharynx,9,172552,5.2158
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,8,Hypopharynx,5,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,8,Hypopharynx,2,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,9,Pharynx unspecified,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,9,Pharynx unspecified,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,9,Pharynx unspecified,1,1245851,0.0803
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,9,Pharynx unspecified,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,9,Pharynx unspecified,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,9,Pharynx unspecified,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,9,Pharynx unspecified,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,9,Pharynx unspecified,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,9,Pharynx unspecified,1,720791,0.1387
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,9,Pharynx unspecified,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,9,Pharynx unspecified,3,537176,0.5585
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,9,Pharynx unspecified,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,9,Pharynx unspecified,5,243451,2.0538
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,9,Pharynx unspecified,4,210311,1.9019
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,9,Pharynx unspecified,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,9,Pharynx unspecified,1,172552,0.5795
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,9,Pharynx unspecified,1,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,9,Pharynx unspecified,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,10,Oesophagus,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,10,Oesophagus,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,10,Oesophagus,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,10,Oesophagus,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,10,Oesophagus,1,1437551,0.0696
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,10,Oesophagus,1,1271128,0.0787
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,10,Oesophagus,5,1026110,0.4873
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,10,Oesophagus,5,810974,0.6165
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,10,Oesophagus,12,720791,1.6648
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,10,Oesophagus,15,596503,2.5147
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,10,Oesophagus,30,537176,5.5848
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,10,Oesophagus,35,345999,10.1156
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,10,Oesophagus,46,243451,18.895
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,10,Oesophagus,53,210311,25.2008
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,10,Oesophagus,36,131185,27.4422
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,10,Oesophagus,35,172552,20.2837
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,10,Oesophagus,24,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,10,Oesophagus,18,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,11,Stomach,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,11,Stomach,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,11,Stomach,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,11,Stomach,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,11,Stomach,1,1437551,0.0696
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,11,Stomach,4,1271128,0.3147
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,11,Stomach,9,1026110,0.8771
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,11,Stomach,7,810974,0.8632
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,11,Stomach,18,720791,2.4973
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,11,Stomach,14,596503,2.347
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,11,Stomach,27,537176,5.0263
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,11,Stomach,28,345999,8.0925
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,11,Stomach,31,243451,12.7336
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,11,Stomach,39,210311,18.544
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,11,Stomach,23,131185,17.5325
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,11,Stomach,21,172552,12.1702
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,11,Stomach,20,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,11,Stomach,8,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,12,Small intestine,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,12,Small intestine,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,12,Small intestine,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,12,Small intestine,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,12,Small intestine,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,12,Small intestine,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,12,Small intestine,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,12,Small intestine,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,12,Small intestine,1,720791,0.1387
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,12,Small intestine,3,596503,0.5029
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,12,Small intestine,1,537176,0.1862
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,12,Small intestine,1,345999,0.289
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,12,Small intestine,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,12,Small intestine,2,210311,0.951
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,12,Small intestine,3,131185,2.2868
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,12,Small intestine,2,172552,1.1591
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,12,Small intestine,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,12,Small intestine,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,13,Colon,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,13,Colon,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,13,Colon,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,13,Colon,4,1270231,0.3149
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,13,Colon,1,1437551,0.0696
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,13,Colon,3,1271128,0.236
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,13,Colon,4,1026110,0.3898
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,13,Colon,7,810974,0.8632
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,13,Colon,13,720791,1.8036
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,13,Colon,12,596503,2.0117
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,13,Colon,17,537176,3.1647
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,13,Colon,26,345999,7.5145
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,13,Colon,32,243451,13.1443
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,13,Colon,36,210311,17.1175
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,13,Colon,29,131185,22.1062
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,13,Colon,25,172552,14.4884
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,13,Colon,7,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,13,Colon,12,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,14,Rectum,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,14,Rectum,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,14,Rectum,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,14,Rectum,1,1270231,0.0787
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,14,Rectum,3,1437551,0.2087
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,14,Rectum,9,1271128,0.708
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,14,Rectum,4,1026110,0.3898
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,14,Rectum,9,810974,1.1098
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,14,Rectum,12,720791,1.6648
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,14,Rectum,16,596503,2.6823
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,14,Rectum,27,537176,5.0263
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,14,Rectum,27,345999,7.8035
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,14,Rectum,28,243451,11.5013
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,14,Rectum,33,210311,15.691
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,14,Rectum,16,131185,12.1965
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,14,Rectum,21,172552,12.1702
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,14,Rectum,6,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,14,Rectum,7,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,15,Anus,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,15,Anus,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,15,Anus,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,15,Anus,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,15,Anus,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,15,Anus,1,1271128,0.0787
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,15,Anus,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,15,Anus,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,15,Anus,1,720791,0.1387
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,15,Anus,3,596503,0.5029
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,15,Anus,5,537176,0.9308
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,15,Anus,2,345999,0.578
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,15,Anus,3,243451,1.2323
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,15,Anus,4,210311,1.9019
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,15,Anus,1,131185,0.7623
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,15,Anus,2,172552,1.1591
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,15,Anus,2,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,15,Anus,2,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,16,Liver,2,998887,0.2002
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,16,Liver,1,807911,0.1238
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,16,Liver,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,16,Liver,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,16,Liver,2,1437551,0.1391
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,16,Liver,2,1271128,0.1573
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,16,Liver,3,1026110,0.2924
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,16,Liver,7,810974,0.8632
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,16,Liver,9,720791,1.2486
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,16,Liver,14,596503,2.347
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,16,Liver,21,537176,3.9093
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,16,Liver,28,345999,8.0925
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,16,Liver,38,243451,15.6089
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,16,Liver,41,210311,19.4949
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,16,Liver,30,131185,22.8685
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,16,Liver,22,172552,12.7498
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,16,Liver,21,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,16,Liver,14,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,17,Gallbladder etc.,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,17,Gallbladder etc.,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,17,Gallbladder etc.,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,17,Gallbladder etc.,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,17,Gallbladder etc.,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,17,Gallbladder etc.,1,1271128,0.0787
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,17,Gallbladder etc.,3,1026110,0.2924
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,17,Gallbladder etc.,5,810974,0.6165
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,17,Gallbladder etc.,2,720791,0.2775
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,17,Gallbladder etc.,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,17,Gallbladder etc.,5,537176,0.9308
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,17,Gallbladder etc.,8,345999,2.3121
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,17,Gallbladder etc.,5,243451,2.0538
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,17,Gallbladder etc.,10,210311,4.7549
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,17,Gallbladder etc.,11,131185,8.3851
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,17,Gallbladder etc.,3,172552,1.7386
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,17,Gallbladder etc.,7,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,17,Gallbladder etc.,2,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,18,Pancreas,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,18,Pancreas,1,807911,0.1238
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,18,Pancreas,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,18,Pancreas,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,18,Pancreas,1,1437551,0.0696
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,18,Pancreas,1,1271128,0.0787
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,18,Pancreas,1,1026110,0.0975
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,18,Pancreas,2,810974,0.2466
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,18,Pancreas,6,720791,0.8324
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,18,Pancreas,7,596503,1.1735
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,18,Pancreas,18,537176,3.3509
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,18,Pancreas,17,345999,4.9133
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,18,Pancreas,34,243451,13.9658
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,18,Pancreas,17,210311,8.0833
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,18,Pancreas,14,131185,10.672
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,18,Pancreas,14,172552,8.1135
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,18,Pancreas,6,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,18,Pancreas,7,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,19,"Nose, sinuses etc.",0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,19,"Nose, sinuses etc.",0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,19,"Nose, sinuses etc.",0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,19,"Nose, sinuses etc.",0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,19,"Nose, sinuses etc.",1,1437551,0.0696
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,19,"Nose, sinuses etc.",0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,19,"Nose, sinuses etc.",1,1026110,0.0975
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,19,"Nose, sinuses etc.",4,810974,0.4932
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,19,"Nose, sinuses etc.",4,720791,0.5549
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,19,"Nose, sinuses etc.",1,596503,0.1676
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,19,"Nose, sinuses etc.",6,537176,1.117
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,19,"Nose, sinuses etc.",5,345999,1.4451
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,19,"Nose, sinuses etc.",9,243451,3.6968
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,19,"Nose, sinuses etc.",6,210311,2.8529
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,19,"Nose, sinuses etc.",2,131185,1.5246
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,19,"Nose, sinuses etc.",2,172552,1.1591
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,19,"Nose, sinuses etc.",0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,19,"Nose, sinuses etc.",2,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,20,Larynx,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,20,Larynx,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,20,Larynx,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,20,Larynx,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,20,Larynx,1,1437551,0.0696
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,20,Larynx,3,1271128,0.236
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,20,Larynx,2,1026110,0.1949
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,20,Larynx,5,810974,0.6165
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,20,Larynx,10,720791,1.3874
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,20,Larynx,22,596503,3.6882
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,20,Larynx,25,537176,4.654
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,20,Larynx,51,345999,14.7399
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,20,Larynx,74,243451,30.3963
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,20,Larynx,49,210311,23.2988
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,20,Larynx,42,131185,32.0159
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,20,Larynx,18,172552,10.4316
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,20,Larynx,13,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,20,Larynx,11,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,21,Lung (incl. trachea and bronchus),0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,21,Lung (incl. trachea and bronchus),0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,21,Lung (incl. trachea and bronchus),0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,21,Lung (incl. trachea and bronchus),2,1270231,0.1575
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,21,Lung (incl. trachea and bronchus),2,1437551,0.1391
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,21,Lung (incl. trachea and bronchus),2,1271128,0.1573
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,21,Lung (incl. trachea and bronchus),7,1026110,0.6822
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,21,Lung (incl. trachea and bronchus),11,810974,1.3564
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,21,Lung (incl. trachea and bronchus),8,720791,1.1099
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,21,Lung (incl. trachea and bronchus),21,596503,3.5205
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,21,Lung (incl. trachea and bronchus),41,537176,7.6325
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,21,Lung (incl. trachea and bronchus),60,345999,17.3411
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,21,Lung (incl. trachea and bronchus),45,243451,18.4842
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,21,Lung (incl. trachea and bronchus),57,210311,27.1027
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,21,Lung (incl. trachea and bronchus),55,131185,41.9255
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,21,Lung (incl. trachea and bronchus),34,172552,19.7042
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,21,Lung (incl. trachea and bronchus),20,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,21,Lung (incl. trachea and bronchus),9,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,22,Other thoracic organs,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,22,Other thoracic organs,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,22,Other thoracic organs,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,22,Other thoracic organs,1,1270231,0.0787
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,22,Other thoracic organs,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,22,Other thoracic organs,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,22,Other thoracic organs,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,22,Other thoracic organs,3,810974,0.3699
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,22,Other thoracic organs,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,22,Other thoracic organs,1,596503,0.1676
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,22,Other thoracic organs,2,537176,0.3723
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,22,Other thoracic organs,1,345999,0.289
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,22,Other thoracic organs,1,243451,0.4108
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,22,Other thoracic organs,1,210311,0.4755
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,22,Other thoracic organs,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,22,Other thoracic organs,2,172552,1.1591
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,22,Other thoracic organs,1,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,22,Other thoracic organs,1,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,23,Bone,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,23,Bone,1,807911,0.1238
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,23,Bone,3,1245851,0.2408
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,23,Bone,8,1270231,0.6298
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,23,Bone,6,1437551,0.4174
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,23,Bone,2,1271128,0.1573
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,23,Bone,3,1026110,0.2924
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,23,Bone,1,810974,0.1233
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,23,Bone,2,720791,0.2775
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,23,Bone,5,596503,0.8382
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,23,Bone,2,537176,0.3723
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,23,Bone,4,345999,1.1561
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,23,Bone,3,243451,1.2323
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,23,Bone,3,210311,1.4265
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,23,Bone,4,131185,3.0491
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,23,Bone,2,172552,1.1591
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,23,Bone,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,23,Bone,1,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,24,Melanoma of skin,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,24,Melanoma of skin,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,24,Melanoma of skin,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,24,Melanoma of skin,1,1270231,0.0787
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,24,Melanoma of skin,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,24,Melanoma of skin,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,24,Melanoma of skin,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,24,Melanoma of skin,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,24,Melanoma of skin,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,24,Melanoma of skin,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,24,Melanoma of skin,2,537176,0.3723
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,24,Melanoma of skin,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,24,Melanoma of skin,3,243451,1.2323
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,24,Melanoma of skin,1,210311,0.4755
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,24,Melanoma of skin,3,131185,2.2868
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,24,Melanoma of skin,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,24,Melanoma of skin,2,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,24,Melanoma of skin,1,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,25,Other skin,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,25,Other skin,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,25,Other skin,1,1245851,0.0803
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,25,Other skin,2,1270231,0.1575
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,25,Other skin,5,1437551,0.3478
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,25,Other skin,2,1271128,0.1573
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,25,Other skin,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,25,Other skin,2,810974,0.2466
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,25,Other skin,2,720791,0.2775
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,25,Other skin,1,596503,0.1676
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,25,Other skin,5,537176,0.9308
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,25,Other skin,6,345999,1.7341
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,25,Other skin,6,243451,2.4646
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,25,Other skin,7,210311,3.3284
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,25,Other skin,7,131185,5.336
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,25,Other skin,5,172552,2.8977
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,25,Other skin,2,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,25,Other skin,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,26,Mesothelioma,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,26,Mesothelioma,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,26,Mesothelioma,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,26,Mesothelioma,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,26,Mesothelioma,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,26,Mesothelioma,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,26,Mesothelioma,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,26,Mesothelioma,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,26,Mesothelioma,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,26,Mesothelioma,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,26,Mesothelioma,1,537176,0.1862
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,26,Mesothelioma,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,26,Mesothelioma,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,26,Mesothelioma,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,26,Mesothelioma,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,26,Mesothelioma,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,26,Mesothelioma,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,26,Mesothelioma,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,27,Kaposi sarcoma,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,27,Kaposi sarcoma,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,27,Kaposi sarcoma,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,27,Kaposi sarcoma,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,27,Kaposi sarcoma,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,27,Kaposi sarcoma,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,27,Kaposi sarcoma,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,27,Kaposi sarcoma,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,27,Kaposi sarcoma,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,27,Kaposi sarcoma,1,596503,0.1676
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,27,Kaposi sarcoma,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,27,Kaposi sarcoma,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,27,Kaposi sarcoma,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,27,Kaposi sarcoma,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,27,Kaposi sarcoma,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,27,Kaposi sarcoma,1,172552,0.5795
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,27,Kaposi sarcoma,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,27,Kaposi sarcoma,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,28,Connective and soft tissue,1,998887,0.1001
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,28,Connective and soft tissue,2,807911,0.2476
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,28,Connective and soft tissue,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,28,Connective and soft tissue,3,1270231,0.2362
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,28,Connective and soft tissue,11,1437551,0.7652
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,28,Connective and soft tissue,5,1271128,0.3934
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,28,Connective and soft tissue,6,1026110,0.5847
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,28,Connective and soft tissue,10,810974,1.2331
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,28,Connective and soft tissue,3,720791,0.4162
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,28,Connective and soft tissue,5,596503,0.8382
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,28,Connective and soft tissue,6,537176,1.117
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,28,Connective and soft tissue,11,345999,3.1792
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,28,Connective and soft tissue,8,243451,3.2861
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,28,Connective and soft tissue,15,210311,7.1323
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,28,Connective and soft tissue,3,131185,2.2868
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,28,Connective and soft tissue,5,172552,2.8977
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,28,Connective and soft tissue,2,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,28,Connective and soft tissue,3,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,29,Breast,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,29,Breast,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,29,Breast,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,29,Breast,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,29,Breast,1,1437551,0.0696
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,29,Breast,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,29,Breast,4,1026110,0.3898
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,29,Breast,4,810974,0.4932
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,29,Breast,5,720791,0.6937
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,29,Breast,5,596503,0.8382
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,29,Breast,13,537176,2.4201
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,29,Breast,8,345999,2.3121
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,29,Breast,11,243451,4.5184
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,29,Breast,12,210311,5.7058
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,29,Breast,12,131185,9.1474
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,29,Breast,6,172552,3.4772
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,29,Breast,1,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,29,Breast,3,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,30,Vulva,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,30,Vulva,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,30,Vulva,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,30,Vulva,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,30,Vulva,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,30,Vulva,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,30,Vulva,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,30,Vulva,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,30,Vulva,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,30,Vulva,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,30,Vulva,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,30,Vulva,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,30,Vulva,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,30,Vulva,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,30,Vulva,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,30,Vulva,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,30,Vulva,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,30,Vulva,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,31,Vagina,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,31,Vagina,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,31,Vagina,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,31,Vagina,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,31,Vagina,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,31,Vagina,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,31,Vagina,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,31,Vagina,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,31,Vagina,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,31,Vagina,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,31,Vagina,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,31,Vagina,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,31,Vagina,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,31,Vagina,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,31,Vagina,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,31,Vagina,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,31,Vagina,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,31,Vagina,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,32,Cervix uteri,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,32,Cervix uteri,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,32,Cervix uteri,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,32,Cervix uteri,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,32,Cervix uteri,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,32,Cervix uteri,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,32,Cervix uteri,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,32,Cervix uteri,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,32,Cervix uteri,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,32,Cervix uteri,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,32,Cervix uteri,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,32,Cervix uteri,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,32,Cervix uteri,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,32,Cervix uteri,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,32,Cervix uteri,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,32,Cervix uteri,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,32,Cervix uteri,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,32,Cervix uteri,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,33,Corpus uteri,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,33,Corpus uteri,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,33,Corpus uteri,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,33,Corpus uteri,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,33,Corpus uteri,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,33,Corpus uteri,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,33,Corpus uteri,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,33,Corpus uteri,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,33,Corpus uteri,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,33,Corpus uteri,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,33,Corpus uteri,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,33,Corpus uteri,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,33,Corpus uteri,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,33,Corpus uteri,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,33,Corpus uteri,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,33,Corpus uteri,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,33,Corpus uteri,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,33,Corpus uteri,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,34,Uterus unspecified,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,34,Uterus unspecified,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,34,Uterus unspecified,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,34,Uterus unspecified,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,34,Uterus unspecified,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,34,Uterus unspecified,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,34,Uterus unspecified,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,34,Uterus unspecified,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,34,Uterus unspecified,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,34,Uterus unspecified,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,34,Uterus unspecified,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,34,Uterus unspecified,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,34,Uterus unspecified,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,34,Uterus unspecified,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,34,Uterus unspecified,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,34,Uterus unspecified,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,34,Uterus unspecified,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,34,Uterus unspecified,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,35,Ovary,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,35,Ovary,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,35,Ovary,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,35,Ovary,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,35,Ovary,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,35,Ovary,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,35,Ovary,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,35,Ovary,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,35,Ovary,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,35,Ovary,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,35,Ovary,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,35,Ovary,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,35,Ovary,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,35,Ovary,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,35,Ovary,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,35,Ovary,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,35,Ovary,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,35,Ovary,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,36,Other female genital organs,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,36,Other female genital organs,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,36,Other female genital organs,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,36,Other female genital organs,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,36,Other female genital organs,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,36,Other female genital organs,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,36,Other female genital organs,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,36,Other female genital organs,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,36,Other female genital organs,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,36,Other female genital organs,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,36,Other female genital organs,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,36,Other female genital organs,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,36,Other female genital organs,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,36,Other female genital organs,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,36,Other female genital organs,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,36,Other female genital organs,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,36,Other female genital organs,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,36,Other female genital organs,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,37,Placenta,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,37,Placenta,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,37,Placenta,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,37,Placenta,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,37,Placenta,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,37,Placenta,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,37,Placenta,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,37,Placenta,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,37,Placenta,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,37,Placenta,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,37,Placenta,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,37,Placenta,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,37,Placenta,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,37,Placenta,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,37,Placenta,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,37,Placenta,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,37,Placenta,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,37,Placenta,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,38,Penis,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,38,Penis,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,38,Penis,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,38,Penis,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,38,Penis,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,38,Penis,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,38,Penis,1,1026110,0.0975
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,38,Penis,2,810974,0.2466
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,38,Penis,5,720791,0.6937
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,38,Penis,6,596503,1.0059
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,38,Penis,7,537176,1.3031
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,38,Penis,6,345999,1.7341
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,38,Penis,6,243451,2.4646
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,38,Penis,11,210311,5.2303
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,38,Penis,7,131185,5.336
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,38,Penis,3,172552,1.7386
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,38,Penis,2,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,38,Penis,1,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,39,Prostate,1,998887,0.1001
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,39,Prostate,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,39,Prostate,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,39,Prostate,1,1270231,0.0787
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,39,Prostate,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,39,Prostate,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,39,Prostate,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,39,Prostate,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,39,Prostate,2,720791,0.2775
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,39,Prostate,7,596503,1.1735
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,39,Prostate,6,537176,1.117
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,39,Prostate,26,345999,7.5145
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,39,Prostate,55,243451,22.5918
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,39,Prostate,80,210311,38.0389
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,39,Prostate,87,131185,66.3186
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,39,Prostate,97,172552,56.2149
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,39,Prostate,70,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,39,Prostate,57,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,40,Testis,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,40,Testis,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,40,Testis,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,40,Testis,1,1270231,0.0787
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,40,Testis,4,1437551,0.2783
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,40,Testis,1,1271128,0.0787
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,40,Testis,3,1026110,0.2924
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,40,Testis,3,810974,0.3699
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,40,Testis,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,40,Testis,1,596503,0.1676
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,40,Testis,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,40,Testis,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,40,Testis,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,40,Testis,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,40,Testis,1,131185,0.7623
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,40,Testis,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,40,Testis,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,40,Testis,1,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,41,Other male genital organs,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,41,Other male genital organs,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,41,Other male genital organs,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,41,Other male genital organs,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,41,Other male genital organs,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,41,Other male genital organs,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,41,Other male genital organs,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,41,Other male genital organs,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,41,Other male genital organs,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,41,Other male genital organs,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,41,Other male genital organs,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,41,Other male genital organs,1,345999,0.289
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,41,Other male genital organs,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,41,Other male genital organs,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,41,Other male genital organs,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,41,Other male genital organs,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,41,Other male genital organs,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,41,Other male genital organs,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,42,Kidney,7,998887,0.7008
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,42,Kidney,1,807911,0.1238
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,42,Kidney,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,42,Kidney,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,42,Kidney,2,1437551,0.1391
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,42,Kidney,1,1271128,0.0787
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,42,Kidney,3,1026110,0.2924
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,42,Kidney,6,810974,0.7399
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,42,Kidney,4,720791,0.5549
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,42,Kidney,11,596503,1.8441
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,42,Kidney,10,537176,1.8616
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,42,Kidney,20,345999,5.7804
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,42,Kidney,14,243451,5.7506
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,42,Kidney,26,210311,12.3626
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,42,Kidney,11,131185,8.3851
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,42,Kidney,10,172552,5.7954
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,42,Kidney,4,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,42,Kidney,3,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,43,Renal pelvis,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,43,Renal pelvis,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,43,Renal pelvis,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,43,Renal pelvis,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,43,Renal pelvis,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,43,Renal pelvis,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,43,Renal pelvis,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,43,Renal pelvis,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,43,Renal pelvis,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,43,Renal pelvis,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,43,Renal pelvis,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,43,Renal pelvis,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,43,Renal pelvis,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,43,Renal pelvis,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,43,Renal pelvis,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,43,Renal pelvis,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,43,Renal pelvis,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,43,Renal pelvis,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,44,Ureter,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,44,Ureter,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,44,Ureter,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,44,Ureter,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,44,Ureter,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,44,Ureter,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,44,Ureter,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,44,Ureter,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,44,Ureter,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,44,Ureter,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,44,Ureter,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,44,Ureter,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,44,Ureter,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,44,Ureter,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,44,Ureter,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,44,Ureter,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,44,Ureter,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,44,Ureter,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,45,Bladder,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,45,Bladder,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,45,Bladder,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,45,Bladder,1,1270231,0.0787
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,45,Bladder,1,1437551,0.0696
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,45,Bladder,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,45,Bladder,4,1026110,0.3898
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,45,Bladder,5,810974,0.6165
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,45,Bladder,5,720791,0.6937
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,45,Bladder,10,596503,1.6764
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,45,Bladder,12,537176,2.2339
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,45,Bladder,25,345999,7.2255
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,45,Bladder,21,243451,8.626
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,45,Bladder,27,210311,12.8381
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,45,Bladder,19,131185,14.4834
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,45,Bladder,23,172552,13.3293
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,45,Bladder,11,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,45,Bladder,13,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,46,Other urinary organs,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,46,Other urinary organs,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,46,Other urinary organs,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,46,Other urinary organs,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,46,Other urinary organs,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,46,Other urinary organs,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,46,Other urinary organs,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,46,Other urinary organs,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,46,Other urinary organs,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,46,Other urinary organs,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,46,Other urinary organs,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,46,Other urinary organs,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,46,Other urinary organs,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,46,Other urinary organs,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,46,Other urinary organs,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,46,Other urinary organs,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,46,Other urinary organs,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,46,Other urinary organs,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,47,Eye,2,998887,0.2002
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,47,Eye,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,47,Eye,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,47,Eye,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,47,Eye,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,47,Eye,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,47,Eye,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,47,Eye,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,47,Eye,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,47,Eye,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,47,Eye,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,47,Eye,1,345999,0.289
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,47,Eye,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,47,Eye,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,47,Eye,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,47,Eye,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,47,Eye,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,47,Eye,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,48,"Brain, nervous system",5,998887,0.5006
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,48,"Brain, nervous system",11,807911,1.3615
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,48,"Brain, nervous system",4,1245851,0.3211
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,48,"Brain, nervous system",14,1270231,1.1022
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,48,"Brain, nervous system",14,1437551,0.9739
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,48,"Brain, nervous system",20,1271128,1.5734
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,48,"Brain, nervous system",17,1026110,1.6567
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,48,"Brain, nervous system",25,810974,3.0827
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,48,"Brain, nervous system",19,720791,2.636
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,48,"Brain, nervous system",27,596503,4.5264
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,48,"Brain, nervous system",17,537176,3.1647
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,48,"Brain, nervous system",36,345999,10.4047
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,48,"Brain, nervous system",27,243451,11.0905
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,48,"Brain, nervous system",26,210311,12.3626
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,48,"Brain, nervous system",14,131185,10.672
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,48,"Brain, nervous system",3,172552,1.7386
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,48,"Brain, nervous system",2,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,48,"Brain, nervous system",3,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,49,Thyroid,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,49,Thyroid,1,807911,0.1238
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,49,Thyroid,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,49,Thyroid,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,49,Thyroid,3,1437551,0.2087
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,49,Thyroid,3,1271128,0.236
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,49,Thyroid,5,1026110,0.4873
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,49,Thyroid,1,810974,0.1233
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,49,Thyroid,3,720791,0.4162
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,49,Thyroid,3,596503,0.5029
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,49,Thyroid,6,537176,1.117
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,49,Thyroid,4,345999,1.1561
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,49,Thyroid,8,243451,3.2861
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,49,Thyroid,7,210311,3.3284
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,49,Thyroid,5,131185,3.8114
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,49,Thyroid,4,172552,2.3181
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,49,Thyroid,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,49,Thyroid,2,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,50,Adrenal gland,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,50,Adrenal gland,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,50,Adrenal gland,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,50,Adrenal gland,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,50,Adrenal gland,1,1437551,0.0696
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,50,Adrenal gland,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,50,Adrenal gland,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,50,Adrenal gland,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,50,Adrenal gland,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,50,Adrenal gland,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,50,Adrenal gland,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,50,Adrenal gland,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,50,Adrenal gland,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,50,Adrenal gland,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,50,Adrenal gland,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,50,Adrenal gland,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,50,Adrenal gland,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,50,Adrenal gland,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,51,Other endocrine,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,51,Other endocrine,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,51,Other endocrine,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,51,Other endocrine,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,51,Other endocrine,1,1437551,0.0696
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,51,Other endocrine,1,1271128,0.0787
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,51,Other endocrine,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,51,Other endocrine,1,810974,0.1233
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,51,Other endocrine,1,720791,0.1387
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,51,Other endocrine,1,596503,0.1676
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,51,Other endocrine,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,51,Other endocrine,1,345999,0.289
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,51,Other endocrine,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,51,Other endocrine,1,210311,0.4755
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,51,Other endocrine,1,131185,0.7623
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,51,Other endocrine,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,51,Other endocrine,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,51,Other endocrine,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,52,Hodgkin disease,2,998887,0.2002
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,52,Hodgkin disease,3,807911,0.3713
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,52,Hodgkin disease,2,1245851,0.1605
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,52,Hodgkin disease,5,1270231,0.3936
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,52,Hodgkin disease,1,1437551,0.0696
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,52,Hodgkin disease,2,1271128,0.1573
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,52,Hodgkin disease,5,1026110,0.4873
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,52,Hodgkin disease,6,810974,0.7399
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,52,Hodgkin disease,3,720791,0.4162
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,52,Hodgkin disease,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,52,Hodgkin disease,3,537176,0.5585
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,52,Hodgkin disease,2,345999,0.578
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,52,Hodgkin disease,8,243451,3.2861
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,52,Hodgkin disease,2,210311,0.951
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,52,Hodgkin disease,5,131185,3.8114
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,52,Hodgkin disease,1,172552,0.5795
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,52,Hodgkin disease,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,52,Hodgkin disease,1,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,53,Non-Hodgkin lymphoma,1,998887,0.1001
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,53,Non-Hodgkin lymphoma,6,807911,0.7427
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,53,Non-Hodgkin lymphoma,7,1245851,0.5619
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,53,Non-Hodgkin lymphoma,8,1270231,0.6298
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,53,Non-Hodgkin lymphoma,3,1437551,0.2087
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,53,Non-Hodgkin lymphoma,5,1271128,0.3934
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,53,Non-Hodgkin lymphoma,18,1026110,1.7542
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,53,Non-Hodgkin lymphoma,25,810974,3.0827
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,53,Non-Hodgkin lymphoma,18,720791,2.4973
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,53,Non-Hodgkin lymphoma,18,596503,3.0176
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,53,Non-Hodgkin lymphoma,27,537176,5.0263
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,53,Non-Hodgkin lymphoma,20,345999,5.7804
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,53,Non-Hodgkin lymphoma,27,243451,11.0905
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,53,Non-Hodgkin lymphoma,37,210311,17.593
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,53,Non-Hodgkin lymphoma,31,131185,23.6308
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,53,Non-Hodgkin lymphoma,21,172552,12.1702
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,53,Non-Hodgkin lymphoma,20,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,53,Non-Hodgkin lymphoma,7,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,54,Immunoproliferative diseases,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,54,Immunoproliferative diseases,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,54,Immunoproliferative diseases,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,54,Immunoproliferative diseases,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,54,Immunoproliferative diseases,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,54,Immunoproliferative diseases,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,54,Immunoproliferative diseases,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,54,Immunoproliferative diseases,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,54,Immunoproliferative diseases,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,54,Immunoproliferative diseases,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,54,Immunoproliferative diseases,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,54,Immunoproliferative diseases,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,54,Immunoproliferative diseases,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,54,Immunoproliferative diseases,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,54,Immunoproliferative diseases,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,54,Immunoproliferative diseases,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,54,Immunoproliferative diseases,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,54,Immunoproliferative diseases,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,55,Multiple myeloma,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,55,Multiple myeloma,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,55,Multiple myeloma,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,55,Multiple myeloma,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,55,Multiple myeloma,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,55,Multiple myeloma,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,55,Multiple myeloma,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,55,Multiple myeloma,3,810974,0.3699
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,55,Multiple myeloma,7,720791,0.9712
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,55,Multiple myeloma,5,596503,0.8382
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,55,Multiple myeloma,8,537176,1.4893
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,55,Multiple myeloma,5,345999,1.4451
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,55,Multiple myeloma,8,243451,3.2861
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,55,Multiple myeloma,13,210311,6.1813
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,55,Multiple myeloma,9,131185,6.8605
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,55,Multiple myeloma,3,172552,1.7386
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,55,Multiple myeloma,4,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,55,Multiple myeloma,1,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,56,Lymphoid leukaemia,3,998887,0.3003
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,56,Lymphoid leukaemia,19,807911,2.3517
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,56,Lymphoid leukaemia,8,1245851,0.6421
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,56,Lymphoid leukaemia,4,1270231,0.3149
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,56,Lymphoid leukaemia,6,1437551,0.4174
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,56,Lymphoid leukaemia,6,1271128,0.472
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,56,Lymphoid leukaemia,3,1026110,0.2924
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,56,Lymphoid leukaemia,1,810974,0.1233
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,56,Lymphoid leukaemia,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,56,Lymphoid leukaemia,5,596503,0.8382
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,56,Lymphoid leukaemia,3,537176,0.5585
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,56,Lymphoid leukaemia,5,345999,1.4451
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,56,Lymphoid leukaemia,2,243451,0.8215
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,56,Lymphoid leukaemia,4,210311,1.9019
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,56,Lymphoid leukaemia,1,131185,0.7623
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,56,Lymphoid leukaemia,1,172552,0.5795
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,56,Lymphoid leukaemia,2,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,56,Lymphoid leukaemia,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,57,Myeloid leukaemia,3,998887,0.3003
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,57,Myeloid leukaemia,3,807911,0.3713
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,57,Myeloid leukaemia,5,1245851,0.4013
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,57,Myeloid leukaemia,3,1270231,0.2362
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,57,Myeloid leukaemia,3,1437551,0.2087
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,57,Myeloid leukaemia,2,1271128,0.1573
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,57,Myeloid leukaemia,7,1026110,0.6822
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,57,Myeloid leukaemia,6,810974,0.7399
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,57,Myeloid leukaemia,3,720791,0.4162
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,57,Myeloid leukaemia,8,596503,1.3412
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,57,Myeloid leukaemia,6,537176,1.117
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,57,Myeloid leukaemia,6,345999,1.7341
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,57,Myeloid leukaemia,6,243451,2.4646
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,57,Myeloid leukaemia,9,210311,4.2794
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,57,Myeloid leukaemia,6,131185,4.5737
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,57,Myeloid leukaemia,6,172552,3.4772
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,57,Myeloid leukaemia,4,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,57,Myeloid leukaemia,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,58,Leukaemia unspecified,2,998887,0.2002
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,58,Leukaemia unspecified,2,807911,0.2476
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,58,Leukaemia unspecified,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,58,Leukaemia unspecified,1,1270231,0.0787
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,58,Leukaemia unspecified,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,58,Leukaemia unspecified,1,1271128,0.0787
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,58,Leukaemia unspecified,1,1026110,0.0975
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,58,Leukaemia unspecified,2,810974,0.2466
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,58,Leukaemia unspecified,2,720791,0.2775
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,58,Leukaemia unspecified,1,596503,0.1676
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,58,Leukaemia unspecified,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,58,Leukaemia unspecified,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,58,Leukaemia unspecified,1,243451,0.4108
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,58,Leukaemia unspecified,1,210311,0.4755
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,58,Leukaemia unspecified,4,131185,3.0491
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,58,Leukaemia unspecified,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,58,Leukaemia unspecified,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,58,Leukaemia unspecified,1,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,59,Myeloproliferative disorders,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,59,Myeloproliferative disorders,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,59,Myeloproliferative disorders,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,59,Myeloproliferative disorders,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,59,Myeloproliferative disorders,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,59,Myeloproliferative disorders,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,59,Myeloproliferative disorders,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,59,Myeloproliferative disorders,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,59,Myeloproliferative disorders,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,59,Myeloproliferative disorders,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,59,Myeloproliferative disorders,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,59,Myeloproliferative disorders,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,59,Myeloproliferative disorders,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,59,Myeloproliferative disorders,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,59,Myeloproliferative disorders,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,59,Myeloproliferative disorders,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,59,Myeloproliferative disorders,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,59,Myeloproliferative disorders,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,60,Myelodysplastic syndromes,0,998887,0.0
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,60,Myelodysplastic syndromes,0,807911,0.0
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,60,Myelodysplastic syndromes,0,1245851,0.0
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,60,Myelodysplastic syndromes,0,1270231,0.0
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,60,Myelodysplastic syndromes,0,1437551,0.0
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,60,Myelodysplastic syndromes,0,1271128,0.0
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,60,Myelodysplastic syndromes,0,1026110,0.0
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,60,Myelodysplastic syndromes,0,810974,0.0
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,60,Myelodysplastic syndromes,0,720791,0.0
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,60,Myelodysplastic syndromes,0,596503,0.0
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,60,Myelodysplastic syndromes,0,537176,0.0
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,60,Myelodysplastic syndromes,0,345999,0.0
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,60,Myelodysplastic syndromes,0,243451,0.0
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,60,Myelodysplastic syndromes,0,210311,0.0
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,60,Myelodysplastic syndromes,0,131185,0.0
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,60,Myelodysplastic syndromes,0,172552,0.0
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,60,Myelodysplastic syndromes,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,60,Myelodysplastic syndromes,0,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,61,Other and unspecified,1,998887,0.1001
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,61,Other and unspecified,2,807911,0.2476
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,61,Other and unspecified,1,1245851,0.0803
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,61,Other and unspecified,1,1270231,0.0787
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,61,Other and unspecified,4,1437551,0.2783
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,61,Other and unspecified,2,1271128,0.1573
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,61,Other and unspecified,9,1026110,0.8771
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,61,Other and unspecified,9,810974,1.1098
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,61,Other and unspecified,12,720791,1.6648
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,61,Other and unspecified,13,596503,2.1794
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,61,Other and unspecified,27,537176,5.0263
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,61,Other and unspecified,28,345999,8.0925
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,61,Other and unspecified,25,243451,10.269
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,61,Other and unspecified,34,210311,16.1665
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,61,Other and unspecified,31,131185,23.6308
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,61,Other and unspecified,19,172552,11.0112
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,61,Other and unspecified,6,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,61,Other and unspecified,8,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,62,All sites,31,998887,3.1035
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,62,All sites,56,807911,6.9315
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,62,All sites,32,1245851,2.5685
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,62,All sites,65,1270231,5.1172
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,62,All sites,86,1437551,5.9824
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,62,All sites,101,1271128,7.9457
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,62,All sites,186,1026110,18.1267
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,62,All sites,261,810974,32.1835
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,62,All sites,313,720791,43.4245
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,62,All sites,379,596503,63.537
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,62,All sites,514,537176,95.6856
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,62,All sites,645,345999,186.4167
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,62,All sites,754,243451,309.7132
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,62,All sites,804,210311,382.291
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,62,All sites,605,131185,461.1808
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,62,All sites,462,172552,267.7454
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,62,All sites,290,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,62,All sites,226,0,
+XI,2008-2011,2010,Pune (Poona),Male,0-4,1,63,All sites but skin,31,998887,3.1035
+XI,2008-2011,2010,Pune (Poona),Male,5-9,2,63,All sites but skin,56,807911,6.9315
+XI,2008-2011,2010,Pune (Poona),Male,10-14,3,63,All sites but skin,31,1245851,2.4883
+XI,2008-2011,2010,Pune (Poona),Male,15-19,4,63,All sites but skin,63,1270231,4.9597
+XI,2008-2011,2010,Pune (Poona),Male,20-24,5,63,All sites but skin,81,1437551,5.6346
+XI,2008-2011,2010,Pune (Poona),Male,25-29,6,63,All sites but skin,99,1271128,7.7884
+XI,2008-2011,2010,Pune (Poona),Male,30-34,7,63,All sites but skin,186,1026110,18.1267
+XI,2008-2011,2010,Pune (Poona),Male,35-39,8,63,All sites but skin,259,810974,31.9369
+XI,2008-2011,2010,Pune (Poona),Male,40-44,9,63,All sites but skin,311,720791,43.147
+XI,2008-2011,2010,Pune (Poona),Male,45-49,10,63,All sites but skin,378,596503,63.3693
+XI,2008-2011,2010,Pune (Poona),Male,50-54,11,63,All sites but skin,509,537176,94.7548
+XI,2008-2011,2010,Pune (Poona),Male,55-59,12,63,All sites but skin,639,345999,184.6826
+XI,2008-2011,2010,Pune (Poona),Male,60-64,13,63,All sites but skin,748,243451,307.2487
+XI,2008-2011,2010,Pune (Poona),Male,65-69,14,63,All sites but skin,797,210311,378.9626
+XI,2008-2011,2010,Pune (Poona),Male,70-74,15,63,All sites but skin,598,131185,455.8448
+XI,2008-2011,2010,Pune (Poona),Male,75-79,16,63,All sites but skin,457,172552,264.8477
+XI,2008-2011,2010,Pune (Poona),Male,80-84,17,63,All sites but skin,288,0,
+XI,2008-2011,2010,Pune (Poona),Male,85+,18,63,All sites but skin,226,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,1,Lip,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,1,Lip,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,1,Lip,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,1,Lip,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,1,Lip,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,1,Lip,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,1,Lip,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,1,Lip,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,1,Lip,1,637887,0.1568
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,1,Lip,2,618364,0.3234
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,1,Lip,1,452736,0.2209
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,1,Lip,1,301253,0.3319
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,1,Lip,3,259687,1.1552
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,1,Lip,3,256286,1.1706
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,1,Lip,2,160934,1.2427
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,1,Lip,1,186746,0.5355
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,1,Lip,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,1,Lip,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,2,Tongue,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,2,Tongue,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,2,Tongue,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,2,Tongue,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,2,Tongue,1,1128163,0.0886
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,2,Tongue,6,1115926,0.5377
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,2,Tongue,6,901495,0.6656
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,2,Tongue,8,804982,0.9938
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,2,Tongue,11,637887,1.7244
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,2,Tongue,16,618364,2.5875
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,2,Tongue,16,452736,3.5341
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,2,Tongue,19,301253,6.307
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,2,Tongue,9,259687,3.4657
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,2,Tongue,9,256286,3.5117
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,2,Tongue,9,160934,5.5924
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,2,Tongue,4,186746,2.1419
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,2,Tongue,3,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,2,Tongue,2,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,3,Mouth,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,3,Mouth,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,3,Mouth,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,3,Mouth,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,3,Mouth,1,1128163,0.0886
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,3,Mouth,3,1115926,0.2688
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,3,Mouth,4,901495,0.4437
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,3,Mouth,14,804982,1.7392
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,3,Mouth,18,637887,2.8218
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,3,Mouth,34,618364,5.4984
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,3,Mouth,44,452736,9.7187
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,3,Mouth,37,301253,12.282
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,3,Mouth,51,259687,19.639
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,3,Mouth,42,256286,16.3879
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,3,Mouth,27,160934,16.7771
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,3,Mouth,14,186746,7.4968
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,3,Mouth,8,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,3,Mouth,9,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,4,Salivary glands,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,4,Salivary glands,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,4,Salivary glands,1,1094154,0.0914
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,4,Salivary glands,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,4,Salivary glands,1,1128163,0.0886
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,4,Salivary glands,2,1115926,0.1792
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,4,Salivary glands,1,901495,0.1109
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,4,Salivary glands,3,804982,0.3727
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,4,Salivary glands,2,637887,0.3135
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,4,Salivary glands,2,618364,0.3234
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,4,Salivary glands,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,4,Salivary glands,1,301253,0.3319
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,4,Salivary glands,1,259687,0.3851
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,4,Salivary glands,3,256286,1.1706
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,4,Salivary glands,1,160934,0.6214
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,4,Salivary glands,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,4,Salivary glands,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,4,Salivary glands,1,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,5,Tonsil,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,5,Tonsil,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,5,Tonsil,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,5,Tonsil,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,5,Tonsil,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,5,Tonsil,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,5,Tonsil,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,5,Tonsil,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,5,Tonsil,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,5,Tonsil,4,618364,0.6469
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,5,Tonsil,2,452736,0.4418
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,5,Tonsil,1,301253,0.3319
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,5,Tonsil,1,259687,0.3851
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,5,Tonsil,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,5,Tonsil,2,160934,1.2427
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,5,Tonsil,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,5,Tonsil,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,5,Tonsil,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,6,Other oropharynx,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,6,Other oropharynx,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,6,Other oropharynx,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,6,Other oropharynx,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,6,Other oropharynx,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,6,Other oropharynx,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,6,Other oropharynx,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,6,Other oropharynx,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,6,Other oropharynx,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,6,Other oropharynx,1,618364,0.1617
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,6,Other oropharynx,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,6,Other oropharynx,3,301253,0.9958
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,6,Other oropharynx,1,259687,0.3851
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,6,Other oropharynx,2,256286,0.7804
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,6,Other oropharynx,0,160934,0.0
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,6,Other oropharynx,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,6,Other oropharynx,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,6,Other oropharynx,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,7,Nasopharynx,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,7,Nasopharynx,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,7,Nasopharynx,1,1094154,0.0914
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,7,Nasopharynx,2,1006524,0.1987
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,7,Nasopharynx,1,1128163,0.0886
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,7,Nasopharynx,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,7,Nasopharynx,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,7,Nasopharynx,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,7,Nasopharynx,2,637887,0.3135
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,7,Nasopharynx,0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,7,Nasopharynx,2,452736,0.4418
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,7,Nasopharynx,1,301253,0.3319
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,7,Nasopharynx,0,259687,0.0
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,7,Nasopharynx,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,7,Nasopharynx,1,160934,0.6214
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,7,Nasopharynx,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,7,Nasopharynx,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,7,Nasopharynx,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,8,Hypopharynx,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,8,Hypopharynx,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,8,Hypopharynx,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,8,Hypopharynx,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,8,Hypopharynx,1,1128163,0.0886
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,8,Hypopharynx,2,1115926,0.1792
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,8,Hypopharynx,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,8,Hypopharynx,2,804982,0.2485
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,8,Hypopharynx,5,637887,0.7838
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,8,Hypopharynx,10,618364,1.6172
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,8,Hypopharynx,6,452736,1.3253
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,8,Hypopharynx,10,301253,3.3195
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,8,Hypopharynx,8,259687,3.0806
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,8,Hypopharynx,4,256286,1.5608
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,8,Hypopharynx,2,160934,1.2427
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,8,Hypopharynx,1,186746,0.5355
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,8,Hypopharynx,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,8,Hypopharynx,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,9,Pharynx unspecified,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,9,Pharynx unspecified,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,9,Pharynx unspecified,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,9,Pharynx unspecified,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,9,Pharynx unspecified,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,9,Pharynx unspecified,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,9,Pharynx unspecified,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,9,Pharynx unspecified,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,9,Pharynx unspecified,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,9,Pharynx unspecified,1,618364,0.1617
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,9,Pharynx unspecified,1,452736,0.2209
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,9,Pharynx unspecified,0,301253,0.0
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,9,Pharynx unspecified,3,259687,1.1552
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,9,Pharynx unspecified,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,9,Pharynx unspecified,1,160934,0.6214
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,9,Pharynx unspecified,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,9,Pharynx unspecified,2,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,9,Pharynx unspecified,2,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,10,Oesophagus,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,10,Oesophagus,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,10,Oesophagus,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,10,Oesophagus,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,10,Oesophagus,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,10,Oesophagus,1,1115926,0.0896
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,10,Oesophagus,3,901495,0.3328
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,10,Oesophagus,6,804982,0.7454
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,10,Oesophagus,12,637887,1.8812
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,10,Oesophagus,22,618364,3.5578
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,10,Oesophagus,16,452736,3.5341
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,10,Oesophagus,24,301253,7.9667
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,10,Oesophagus,36,259687,13.8628
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,10,Oesophagus,29,256286,11.3155
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,10,Oesophagus,26,160934,16.1557
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,10,Oesophagus,27,186746,14.4581
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,10,Oesophagus,10,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,10,Oesophagus,16,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,11,Stomach,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,11,Stomach,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,11,Stomach,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,11,Stomach,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,11,Stomach,1,1128163,0.0886
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,11,Stomach,5,1115926,0.4481
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,11,Stomach,6,901495,0.6656
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,11,Stomach,8,804982,0.9938
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,11,Stomach,3,637887,0.4703
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,11,Stomach,5,618364,0.8086
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,11,Stomach,13,452736,2.8714
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,11,Stomach,18,301253,5.975
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,11,Stomach,20,259687,7.7016
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,11,Stomach,17,256286,6.6332
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,11,Stomach,17,160934,10.5633
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,11,Stomach,9,186746,4.8194
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,11,Stomach,5,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,11,Stomach,2,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,12,Small intestine,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,12,Small intestine,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,12,Small intestine,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,12,Small intestine,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,12,Small intestine,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,12,Small intestine,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,12,Small intestine,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,12,Small intestine,1,804982,0.1242
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,12,Small intestine,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,12,Small intestine,0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,12,Small intestine,1,452736,0.2209
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,12,Small intestine,1,301253,0.3319
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,12,Small intestine,1,259687,0.3851
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,12,Small intestine,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,12,Small intestine,1,160934,0.6214
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,12,Small intestine,1,186746,0.5355
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,12,Small intestine,1,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,12,Small intestine,1,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,13,Colon,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,13,Colon,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,13,Colon,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,13,Colon,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,13,Colon,2,1128163,0.1773
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,13,Colon,2,1115926,0.1792
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,13,Colon,3,901495,0.3328
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,13,Colon,3,804982,0.3727
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,13,Colon,8,637887,1.2541
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,13,Colon,5,618364,0.8086
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,13,Colon,11,452736,2.4297
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,13,Colon,21,301253,6.9709
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,13,Colon,14,259687,5.3911
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,13,Colon,17,256286,6.6332
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,13,Colon,26,160934,16.1557
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,13,Colon,14,186746,7.4968
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,13,Colon,6,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,13,Colon,13,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,14,Rectum,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,14,Rectum,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,14,Rectum,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,14,Rectum,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,14,Rectum,1,1128163,0.0886
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,14,Rectum,6,1115926,0.5377
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,14,Rectum,3,901495,0.3328
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,14,Rectum,7,804982,0.8696
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,14,Rectum,10,637887,1.5677
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,14,Rectum,11,618364,1.7789
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,14,Rectum,8,452736,1.767
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,14,Rectum,21,301253,6.9709
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,14,Rectum,25,259687,9.627
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,14,Rectum,19,256286,7.4136
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,14,Rectum,11,160934,6.8351
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,14,Rectum,10,186746,5.3549
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,14,Rectum,5,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,14,Rectum,1,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,15,Anus,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,15,Anus,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,15,Anus,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,15,Anus,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,15,Anus,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,15,Anus,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,15,Anus,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,15,Anus,1,804982,0.1242
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,15,Anus,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,15,Anus,2,618364,0.3234
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,15,Anus,3,452736,0.6626
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,15,Anus,2,301253,0.6639
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,15,Anus,3,259687,1.1552
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,15,Anus,2,256286,0.7804
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,15,Anus,1,160934,0.6214
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,15,Anus,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,15,Anus,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,15,Anus,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,16,Liver,1,829911,0.1205
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,16,Liver,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,16,Liver,1,1094154,0.0914
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,16,Liver,1,1006524,0.0994
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,16,Liver,2,1128163,0.1773
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,16,Liver,2,1115926,0.1792
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,16,Liver,2,901495,0.2219
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,16,Liver,5,804982,0.6211
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,16,Liver,3,637887,0.4703
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,16,Liver,4,618364,0.6469
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,16,Liver,7,452736,1.5462
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,16,Liver,11,301253,3.6514
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,16,Liver,14,259687,5.3911
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,16,Liver,13,256286,5.0725
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,16,Liver,9,160934,5.5924
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,16,Liver,12,186746,6.4258
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,16,Liver,8,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,16,Liver,7,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,17,Gallbladder etc.,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,17,Gallbladder etc.,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,17,Gallbladder etc.,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,17,Gallbladder etc.,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,17,Gallbladder etc.,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,17,Gallbladder etc.,2,1115926,0.1792
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,17,Gallbladder etc.,4,901495,0.4437
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,17,Gallbladder etc.,2,804982,0.2485
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,17,Gallbladder etc.,4,637887,0.6271
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,17,Gallbladder etc.,8,618364,1.2937
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,17,Gallbladder etc.,5,452736,1.1044
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,17,Gallbladder etc.,11,301253,3.6514
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,17,Gallbladder etc.,13,259687,5.006
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,17,Gallbladder etc.,8,256286,3.1215
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,17,Gallbladder etc.,6,160934,3.7282
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,17,Gallbladder etc.,5,186746,2.6774
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,17,Gallbladder etc.,5,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,17,Gallbladder etc.,7,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,18,Pancreas,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,18,Pancreas,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,18,Pancreas,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,18,Pancreas,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,18,Pancreas,1,1128163,0.0886
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,18,Pancreas,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,18,Pancreas,1,901495,0.1109
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,18,Pancreas,2,804982,0.2485
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,18,Pancreas,3,637887,0.4703
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,18,Pancreas,6,618364,0.9703
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,18,Pancreas,10,452736,2.2088
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,18,Pancreas,8,301253,2.6556
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,18,Pancreas,10,259687,3.8508
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,18,Pancreas,14,256286,5.4626
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,18,Pancreas,13,160934,8.0778
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,18,Pancreas,14,186746,7.4968
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,18,Pancreas,4,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,18,Pancreas,5,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,19,"Nose, sinuses etc.",0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,19,"Nose, sinuses etc.",0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,19,"Nose, sinuses etc.",0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,19,"Nose, sinuses etc.",1,1006524,0.0994
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,19,"Nose, sinuses etc.",0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,19,"Nose, sinuses etc.",0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,19,"Nose, sinuses etc.",1,901495,0.1109
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,19,"Nose, sinuses etc.",0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,19,"Nose, sinuses etc.",3,637887,0.4703
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,19,"Nose, sinuses etc.",0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,19,"Nose, sinuses etc.",1,452736,0.2209
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,19,"Nose, sinuses etc.",1,301253,0.3319
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,19,"Nose, sinuses etc.",3,259687,1.1552
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,19,"Nose, sinuses etc.",4,256286,1.5608
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,19,"Nose, sinuses etc.",2,160934,1.2427
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,19,"Nose, sinuses etc.",3,186746,1.6065
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,19,"Nose, sinuses etc.",1,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,19,"Nose, sinuses etc.",2,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,20,Larynx,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,20,Larynx,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,20,Larynx,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,20,Larynx,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,20,Larynx,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,20,Larynx,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,20,Larynx,2,901495,0.2219
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,20,Larynx,2,804982,0.2485
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,20,Larynx,4,637887,0.6271
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,20,Larynx,1,618364,0.1617
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,20,Larynx,2,452736,0.4418
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,20,Larynx,5,301253,1.6597
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,20,Larynx,8,259687,3.0806
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,20,Larynx,10,256286,3.9019
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,20,Larynx,5,160934,3.1069
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,20,Larynx,7,186746,3.7484
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,20,Larynx,2,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,20,Larynx,4,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,21,Lung (incl. trachea and bronchus),0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,21,Lung (incl. trachea and bronchus),0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,21,Lung (incl. trachea and bronchus),0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,21,Lung (incl. trachea and bronchus),0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,21,Lung (incl. trachea and bronchus),0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,21,Lung (incl. trachea and bronchus),0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,21,Lung (incl. trachea and bronchus),4,901495,0.4437
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,21,Lung (incl. trachea and bronchus),10,804982,1.2423
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,21,Lung (incl. trachea and bronchus),19,637887,2.9786
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,21,Lung (incl. trachea and bronchus),16,618364,2.5875
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,21,Lung (incl. trachea and bronchus),27,452736,5.9637
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,21,Lung (incl. trachea and bronchus),31,301253,10.2904
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,21,Lung (incl. trachea and bronchus),28,259687,10.7822
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,21,Lung (incl. trachea and bronchus),31,256286,12.0959
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,21,Lung (incl. trachea and bronchus),25,160934,15.5343
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,21,Lung (incl. trachea and bronchus),18,186746,9.6388
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,21,Lung (incl. trachea and bronchus),13,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,21,Lung (incl. trachea and bronchus),7,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,22,Other thoracic organs,1,829911,0.1205
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,22,Other thoracic organs,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,22,Other thoracic organs,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,22,Other thoracic organs,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,22,Other thoracic organs,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,22,Other thoracic organs,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,22,Other thoracic organs,1,901495,0.1109
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,22,Other thoracic organs,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,22,Other thoracic organs,1,637887,0.1568
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,22,Other thoracic organs,0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,22,Other thoracic organs,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,22,Other thoracic organs,1,301253,0.3319
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,22,Other thoracic organs,1,259687,0.3851
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,22,Other thoracic organs,3,256286,1.1706
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,22,Other thoracic organs,1,160934,0.6214
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,22,Other thoracic organs,2,186746,1.071
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,22,Other thoracic organs,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,22,Other thoracic organs,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,23,Bone,1,829911,0.1205
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,23,Bone,3,761063,0.3942
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,23,Bone,4,1094154,0.3656
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,23,Bone,7,1006524,0.6955
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,23,Bone,4,1128163,0.3546
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,23,Bone,3,1115926,0.2688
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,23,Bone,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,23,Bone,1,804982,0.1242
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,23,Bone,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,23,Bone,2,618364,0.3234
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,23,Bone,4,452736,0.8835
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,23,Bone,3,301253,0.9958
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,23,Bone,2,259687,0.7702
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,23,Bone,1,256286,0.3902
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,23,Bone,1,160934,0.6214
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,23,Bone,1,186746,0.5355
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,23,Bone,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,23,Bone,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,24,Melanoma of skin,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,24,Melanoma of skin,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,24,Melanoma of skin,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,24,Melanoma of skin,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,24,Melanoma of skin,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,24,Melanoma of skin,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,24,Melanoma of skin,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,24,Melanoma of skin,1,804982,0.1242
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,24,Melanoma of skin,1,637887,0.1568
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,24,Melanoma of skin,1,618364,0.1617
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,24,Melanoma of skin,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,24,Melanoma of skin,2,301253,0.6639
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,24,Melanoma of skin,2,259687,0.7702
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,24,Melanoma of skin,2,256286,0.7804
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,24,Melanoma of skin,1,160934,0.6214
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,24,Melanoma of skin,1,186746,0.5355
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,24,Melanoma of skin,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,24,Melanoma of skin,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,25,Other skin,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,25,Other skin,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,25,Other skin,1,1094154,0.0914
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,25,Other skin,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,25,Other skin,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,25,Other skin,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,25,Other skin,6,901495,0.6656
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,25,Other skin,3,804982,0.3727
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,25,Other skin,3,637887,0.4703
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,25,Other skin,1,618364,0.1617
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,25,Other skin,2,452736,0.4418
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,25,Other skin,2,301253,0.6639
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,25,Other skin,10,259687,3.8508
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,25,Other skin,9,256286,3.5117
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,25,Other skin,8,160934,4.971
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,25,Other skin,4,186746,2.1419
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,25,Other skin,4,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,25,Other skin,3,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,26,Mesothelioma,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,26,Mesothelioma,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,26,Mesothelioma,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,26,Mesothelioma,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,26,Mesothelioma,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,26,Mesothelioma,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,26,Mesothelioma,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,26,Mesothelioma,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,26,Mesothelioma,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,26,Mesothelioma,0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,26,Mesothelioma,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,26,Mesothelioma,0,301253,0.0
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,26,Mesothelioma,1,259687,0.3851
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,26,Mesothelioma,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,26,Mesothelioma,0,160934,0.0
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,26,Mesothelioma,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,26,Mesothelioma,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,26,Mesothelioma,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,27,Kaposi sarcoma,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,27,Kaposi sarcoma,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,27,Kaposi sarcoma,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,27,Kaposi sarcoma,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,27,Kaposi sarcoma,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,27,Kaposi sarcoma,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,27,Kaposi sarcoma,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,27,Kaposi sarcoma,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,27,Kaposi sarcoma,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,27,Kaposi sarcoma,0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,27,Kaposi sarcoma,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,27,Kaposi sarcoma,0,301253,0.0
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,27,Kaposi sarcoma,0,259687,0.0
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,27,Kaposi sarcoma,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,27,Kaposi sarcoma,0,160934,0.0
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,27,Kaposi sarcoma,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,27,Kaposi sarcoma,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,27,Kaposi sarcoma,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,28,Connective and soft tissue,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,28,Connective and soft tissue,1,761063,0.1314
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,28,Connective and soft tissue,3,1094154,0.2742
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,28,Connective and soft tissue,1,1006524,0.0994
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,28,Connective and soft tissue,3,1128163,0.2659
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,28,Connective and soft tissue,4,1115926,0.3584
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,28,Connective and soft tissue,2,901495,0.2219
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,28,Connective and soft tissue,5,804982,0.6211
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,28,Connective and soft tissue,4,637887,0.6271
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,28,Connective and soft tissue,6,618364,0.9703
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,28,Connective and soft tissue,7,452736,1.5462
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,28,Connective and soft tissue,6,301253,1.9917
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,28,Connective and soft tissue,8,259687,3.0806
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,28,Connective and soft tissue,5,256286,1.9509
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,28,Connective and soft tissue,6,160934,3.7282
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,28,Connective and soft tissue,6,186746,3.2129
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,28,Connective and soft tissue,2,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,28,Connective and soft tissue,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,29,Breast,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,29,Breast,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,29,Breast,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,29,Breast,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,29,Breast,8,1128163,0.7091
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,29,Breast,35,1115926,3.1364
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,29,Breast,72,901495,7.9867
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,29,Breast,103,804982,12.7953
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,29,Breast,200,637887,31.3535
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,29,Breast,259,618364,41.8847
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,29,Breast,287,452736,63.3924
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,29,Breast,265,301253,87.9659
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,29,Breast,240,259687,92.419
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,29,Breast,180,256286,70.234
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,29,Breast,119,160934,73.9434
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,29,Breast,93,186746,49.8003
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,29,Breast,57,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,29,Breast,32,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,30,Vulva,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,30,Vulva,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,30,Vulva,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,30,Vulva,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,30,Vulva,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,30,Vulva,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,30,Vulva,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,30,Vulva,3,804982,0.3727
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,30,Vulva,1,637887,0.1568
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,30,Vulva,1,618364,0.1617
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,30,Vulva,2,452736,0.4418
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,30,Vulva,2,301253,0.6639
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,30,Vulva,4,259687,1.5403
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,30,Vulva,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,30,Vulva,3,160934,1.8641
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,30,Vulva,1,186746,0.5355
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,30,Vulva,1,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,30,Vulva,1,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,31,Vagina,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,31,Vagina,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,31,Vagina,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,31,Vagina,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,31,Vagina,1,1128163,0.0886
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,31,Vagina,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,31,Vagina,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,31,Vagina,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,31,Vagina,4,637887,0.6271
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,31,Vagina,3,618364,0.4852
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,31,Vagina,6,452736,1.3253
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,31,Vagina,4,301253,1.3278
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,31,Vagina,4,259687,1.5403
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,31,Vagina,3,256286,1.1706
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,31,Vagina,4,160934,2.4855
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,31,Vagina,2,186746,1.071
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,31,Vagina,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,31,Vagina,1,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,32,Cervix uteri,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,32,Cervix uteri,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,32,Cervix uteri,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,32,Cervix uteri,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,32,Cervix uteri,2,1128163,0.1773
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,32,Cervix uteri,10,1115926,0.8961
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,32,Cervix uteri,18,901495,1.9967
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,32,Cervix uteri,62,804982,7.702
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,32,Cervix uteri,99,637887,15.52
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,32,Cervix uteri,110,618364,17.7889
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,32,Cervix uteri,128,452736,28.2725
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,32,Cervix uteri,114,301253,37.8419
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,32,Cervix uteri,128,259687,49.2901
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,32,Cervix uteri,89,256286,34.7268
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,32,Cervix uteri,66,160934,41.0106
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,32,Cervix uteri,29,186746,15.5291
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,32,Cervix uteri,14,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,32,Cervix uteri,16,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,33,Corpus uteri,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,33,Corpus uteri,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,33,Corpus uteri,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,33,Corpus uteri,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,33,Corpus uteri,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,33,Corpus uteri,2,1115926,0.1792
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,33,Corpus uteri,3,901495,0.3328
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,33,Corpus uteri,7,804982,0.8696
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,33,Corpus uteri,7,637887,1.0974
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,33,Corpus uteri,20,618364,3.2343
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,33,Corpus uteri,33,452736,7.289
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,33,Corpus uteri,36,301253,11.9501
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,33,Corpus uteri,44,259687,16.9435
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,33,Corpus uteri,36,256286,14.0468
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,33,Corpus uteri,19,160934,11.8061
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,33,Corpus uteri,10,186746,5.3549
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,33,Corpus uteri,5,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,33,Corpus uteri,7,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,34,Uterus unspecified,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,34,Uterus unspecified,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,34,Uterus unspecified,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,34,Uterus unspecified,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,34,Uterus unspecified,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,34,Uterus unspecified,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,34,Uterus unspecified,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,34,Uterus unspecified,2,804982,0.2485
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,34,Uterus unspecified,2,637887,0.3135
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,34,Uterus unspecified,4,618364,0.6469
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,34,Uterus unspecified,2,452736,0.4418
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,34,Uterus unspecified,0,301253,0.0
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,34,Uterus unspecified,6,259687,2.3105
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,34,Uterus unspecified,4,256286,1.5608
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,34,Uterus unspecified,7,160934,4.3496
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,34,Uterus unspecified,1,186746,0.5355
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,34,Uterus unspecified,2,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,34,Uterus unspecified,2,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,35,Ovary,1,829911,0.1205
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,35,Ovary,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,35,Ovary,2,1094154,0.1828
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,35,Ovary,2,1006524,0.1987
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,35,Ovary,4,1128163,0.3546
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,35,Ovary,10,1115926,0.8961
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,35,Ovary,9,901495,0.9983
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,35,Ovary,24,804982,2.9814
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,35,Ovary,41,637887,6.4275
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,35,Ovary,49,618364,7.9241
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,35,Ovary,41,452736,9.0561
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,35,Ovary,56,301253,18.589
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,35,Ovary,41,259687,15.7882
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,35,Ovary,47,256286,18.3389
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,35,Ovary,26,160934,16.1557
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,35,Ovary,23,186746,12.3162
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,35,Ovary,13,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,35,Ovary,11,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,36,Other female genital organs,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,36,Other female genital organs,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,36,Other female genital organs,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,36,Other female genital organs,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,36,Other female genital organs,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,36,Other female genital organs,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,36,Other female genital organs,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,36,Other female genital organs,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,36,Other female genital organs,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,36,Other female genital organs,0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,36,Other female genital organs,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,36,Other female genital organs,1,301253,0.3319
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,36,Other female genital organs,0,259687,0.0
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,36,Other female genital organs,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,36,Other female genital organs,0,160934,0.0
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,36,Other female genital organs,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,36,Other female genital organs,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,36,Other female genital organs,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,37,Placenta,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,37,Placenta,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,37,Placenta,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,37,Placenta,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,37,Placenta,1,1128163,0.0886
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,37,Placenta,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,37,Placenta,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,37,Placenta,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,37,Placenta,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,37,Placenta,0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,37,Placenta,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,37,Placenta,0,301253,0.0
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,37,Placenta,0,259687,0.0
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,37,Placenta,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,37,Placenta,0,160934,0.0
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,37,Placenta,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,37,Placenta,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,37,Placenta,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,38,Penis,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,38,Penis,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,38,Penis,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,38,Penis,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,38,Penis,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,38,Penis,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,38,Penis,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,38,Penis,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,38,Penis,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,38,Penis,0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,38,Penis,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,38,Penis,0,301253,0.0
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,38,Penis,0,259687,0.0
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,38,Penis,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,38,Penis,0,160934,0.0
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,38,Penis,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,38,Penis,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,38,Penis,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,39,Prostate,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,39,Prostate,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,39,Prostate,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,39,Prostate,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,39,Prostate,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,39,Prostate,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,39,Prostate,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,39,Prostate,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,39,Prostate,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,39,Prostate,0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,39,Prostate,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,39,Prostate,0,301253,0.0
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,39,Prostate,0,259687,0.0
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,39,Prostate,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,39,Prostate,0,160934,0.0
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,39,Prostate,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,39,Prostate,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,39,Prostate,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,40,Testis,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,40,Testis,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,40,Testis,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,40,Testis,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,40,Testis,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,40,Testis,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,40,Testis,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,40,Testis,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,40,Testis,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,40,Testis,0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,40,Testis,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,40,Testis,0,301253,0.0
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,40,Testis,0,259687,0.0
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,40,Testis,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,40,Testis,0,160934,0.0
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,40,Testis,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,40,Testis,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,40,Testis,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,41,Other male genital organs,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,41,Other male genital organs,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,41,Other male genital organs,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,41,Other male genital organs,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,41,Other male genital organs,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,41,Other male genital organs,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,41,Other male genital organs,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,41,Other male genital organs,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,41,Other male genital organs,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,41,Other male genital organs,0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,41,Other male genital organs,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,41,Other male genital organs,0,301253,0.0
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,41,Other male genital organs,0,259687,0.0
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,41,Other male genital organs,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,41,Other male genital organs,0,160934,0.0
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,41,Other male genital organs,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,41,Other male genital organs,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,41,Other male genital organs,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,42,Kidney,4,829911,0.482
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,42,Kidney,2,761063,0.2628
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,42,Kidney,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,42,Kidney,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,42,Kidney,2,1128163,0.1773
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,42,Kidney,2,1115926,0.1792
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,42,Kidney,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,42,Kidney,3,804982,0.3727
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,42,Kidney,3,637887,0.4703
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,42,Kidney,5,618364,0.8086
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,42,Kidney,9,452736,1.9879
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,42,Kidney,13,301253,4.3153
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,42,Kidney,6,259687,2.3105
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,42,Kidney,11,256286,4.2921
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,42,Kidney,6,160934,3.7282
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,42,Kidney,1,186746,0.5355
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,42,Kidney,3,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,42,Kidney,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,43,Renal pelvis,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,43,Renal pelvis,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,43,Renal pelvis,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,43,Renal pelvis,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,43,Renal pelvis,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,43,Renal pelvis,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,43,Renal pelvis,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,43,Renal pelvis,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,43,Renal pelvis,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,43,Renal pelvis,0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,43,Renal pelvis,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,43,Renal pelvis,0,301253,0.0
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,43,Renal pelvis,0,259687,0.0
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,43,Renal pelvis,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,43,Renal pelvis,0,160934,0.0
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,43,Renal pelvis,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,43,Renal pelvis,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,43,Renal pelvis,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,44,Ureter,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,44,Ureter,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,44,Ureter,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,44,Ureter,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,44,Ureter,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,44,Ureter,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,44,Ureter,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,44,Ureter,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,44,Ureter,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,44,Ureter,0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,44,Ureter,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,44,Ureter,0,301253,0.0
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,44,Ureter,1,259687,0.3851
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,44,Ureter,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,44,Ureter,0,160934,0.0
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,44,Ureter,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,44,Ureter,1,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,44,Ureter,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,45,Bladder,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,45,Bladder,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,45,Bladder,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,45,Bladder,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,45,Bladder,1,1128163,0.0886
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,45,Bladder,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,45,Bladder,2,901495,0.2219
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,45,Bladder,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,45,Bladder,4,637887,0.6271
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,45,Bladder,1,618364,0.1617
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,45,Bladder,7,452736,1.5462
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,45,Bladder,6,301253,1.9917
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,45,Bladder,8,259687,3.0806
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,45,Bladder,7,256286,2.7313
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,45,Bladder,10,160934,6.2137
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,45,Bladder,7,186746,3.7484
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,45,Bladder,5,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,45,Bladder,5,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,46,Other urinary organs,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,46,Other urinary organs,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,46,Other urinary organs,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,46,Other urinary organs,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,46,Other urinary organs,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,46,Other urinary organs,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,46,Other urinary organs,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,46,Other urinary organs,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,46,Other urinary organs,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,46,Other urinary organs,0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,46,Other urinary organs,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,46,Other urinary organs,0,301253,0.0
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,46,Other urinary organs,0,259687,0.0
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,46,Other urinary organs,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,46,Other urinary organs,0,160934,0.0
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,46,Other urinary organs,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,46,Other urinary organs,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,46,Other urinary organs,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,47,Eye,1,829911,0.1205
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,47,Eye,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,47,Eye,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,47,Eye,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,47,Eye,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,47,Eye,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,47,Eye,1,901495,0.1109
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,47,Eye,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,47,Eye,1,637887,0.1568
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,47,Eye,0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,47,Eye,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,47,Eye,0,301253,0.0
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,47,Eye,0,259687,0.0
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,47,Eye,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,47,Eye,0,160934,0.0
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,47,Eye,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,47,Eye,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,47,Eye,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,48,"Brain, nervous system",4,829911,0.482
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,48,"Brain, nervous system",3,761063,0.3942
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,48,"Brain, nervous system",6,1094154,0.5484
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,48,"Brain, nervous system",7,1006524,0.6955
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,48,"Brain, nervous system",8,1128163,0.7091
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,48,"Brain, nervous system",6,1115926,0.5377
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,48,"Brain, nervous system",14,901495,1.553
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,48,"Brain, nervous system",15,804982,1.8634
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,48,"Brain, nervous system",9,637887,1.4109
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,48,"Brain, nervous system",19,618364,3.0726
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,48,"Brain, nervous system",21,452736,4.6385
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,48,"Brain, nervous system",18,301253,5.975
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,48,"Brain, nervous system",15,259687,5.7762
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,48,"Brain, nervous system",8,256286,3.1215
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,48,"Brain, nervous system",7,160934,4.3496
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,48,"Brain, nervous system",5,186746,2.6774
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,48,"Brain, nervous system",1,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,48,"Brain, nervous system",3,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,49,Thyroid,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,49,Thyroid,1,761063,0.1314
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,49,Thyroid,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,49,Thyroid,2,1006524,0.1987
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,49,Thyroid,5,1128163,0.4432
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,49,Thyroid,8,1115926,0.7169
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,49,Thyroid,8,901495,0.8874
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,49,Thyroid,10,804982,1.2423
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,49,Thyroid,11,637887,1.7244
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,49,Thyroid,7,618364,1.132
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,49,Thyroid,5,452736,1.1044
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,49,Thyroid,3,301253,0.9958
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,49,Thyroid,8,259687,3.0806
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,49,Thyroid,8,256286,3.1215
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,49,Thyroid,5,160934,3.1069
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,49,Thyroid,7,186746,3.7484
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,49,Thyroid,3,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,49,Thyroid,3,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,50,Adrenal gland,1,829911,0.1205
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,50,Adrenal gland,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,50,Adrenal gland,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,50,Adrenal gland,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,50,Adrenal gland,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,50,Adrenal gland,1,1115926,0.0896
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,50,Adrenal gland,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,50,Adrenal gland,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,50,Adrenal gland,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,50,Adrenal gland,1,618364,0.1617
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,50,Adrenal gland,1,452736,0.2209
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,50,Adrenal gland,0,301253,0.0
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,50,Adrenal gland,0,259687,0.0
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,50,Adrenal gland,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,50,Adrenal gland,0,160934,0.0
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,50,Adrenal gland,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,50,Adrenal gland,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,50,Adrenal gland,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,51,Other endocrine,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,51,Other endocrine,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,51,Other endocrine,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,51,Other endocrine,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,51,Other endocrine,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,51,Other endocrine,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,51,Other endocrine,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,51,Other endocrine,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,51,Other endocrine,3,637887,0.4703
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,51,Other endocrine,0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,51,Other endocrine,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,51,Other endocrine,0,301253,0.0
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,51,Other endocrine,0,259687,0.0
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,51,Other endocrine,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,51,Other endocrine,0,160934,0.0
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,51,Other endocrine,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,51,Other endocrine,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,51,Other endocrine,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,52,Hodgkin disease,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,52,Hodgkin disease,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,52,Hodgkin disease,1,1094154,0.0914
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,52,Hodgkin disease,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,52,Hodgkin disease,4,1128163,0.3546
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,52,Hodgkin disease,1,1115926,0.0896
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,52,Hodgkin disease,1,901495,0.1109
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,52,Hodgkin disease,1,804982,0.1242
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,52,Hodgkin disease,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,52,Hodgkin disease,1,618364,0.1617
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,52,Hodgkin disease,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,52,Hodgkin disease,2,301253,0.6639
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,52,Hodgkin disease,3,259687,1.1552
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,52,Hodgkin disease,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,52,Hodgkin disease,6,160934,3.7282
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,52,Hodgkin disease,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,52,Hodgkin disease,1,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,52,Hodgkin disease,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,53,Non-Hodgkin lymphoma,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,53,Non-Hodgkin lymphoma,3,761063,0.3942
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,53,Non-Hodgkin lymphoma,3,1094154,0.2742
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,53,Non-Hodgkin lymphoma,1,1006524,0.0994
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,53,Non-Hodgkin lymphoma,2,1128163,0.1773
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,53,Non-Hodgkin lymphoma,7,1115926,0.6273
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,53,Non-Hodgkin lymphoma,7,901495,0.7765
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,53,Non-Hodgkin lymphoma,9,804982,1.118
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,53,Non-Hodgkin lymphoma,8,637887,1.2541
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,53,Non-Hodgkin lymphoma,8,618364,1.2937
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,53,Non-Hodgkin lymphoma,22,452736,4.8593
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,53,Non-Hodgkin lymphoma,20,301253,6.6389
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,53,Non-Hodgkin lymphoma,16,259687,6.1613
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,53,Non-Hodgkin lymphoma,19,256286,7.4136
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,53,Non-Hodgkin lymphoma,18,160934,11.1847
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,53,Non-Hodgkin lymphoma,10,186746,5.3549
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,53,Non-Hodgkin lymphoma,2,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,53,Non-Hodgkin lymphoma,1,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,54,Immunoproliferative diseases,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,54,Immunoproliferative diseases,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,54,Immunoproliferative diseases,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,54,Immunoproliferative diseases,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,54,Immunoproliferative diseases,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,54,Immunoproliferative diseases,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,54,Immunoproliferative diseases,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,54,Immunoproliferative diseases,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,54,Immunoproliferative diseases,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,54,Immunoproliferative diseases,0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,54,Immunoproliferative diseases,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,54,Immunoproliferative diseases,0,301253,0.0
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,54,Immunoproliferative diseases,0,259687,0.0
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,54,Immunoproliferative diseases,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,54,Immunoproliferative diseases,0,160934,0.0
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,54,Immunoproliferative diseases,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,54,Immunoproliferative diseases,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,54,Immunoproliferative diseases,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,55,Multiple myeloma,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,55,Multiple myeloma,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,55,Multiple myeloma,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,55,Multiple myeloma,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,55,Multiple myeloma,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,55,Multiple myeloma,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,55,Multiple myeloma,1,901495,0.1109
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,55,Multiple myeloma,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,55,Multiple myeloma,1,637887,0.1568
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,55,Multiple myeloma,4,618364,0.6469
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,55,Multiple myeloma,2,452736,0.4418
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,55,Multiple myeloma,13,301253,4.3153
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,55,Multiple myeloma,7,259687,2.6956
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,55,Multiple myeloma,5,256286,1.9509
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,55,Multiple myeloma,3,160934,1.8641
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,55,Multiple myeloma,2,186746,1.071
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,55,Multiple myeloma,1,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,55,Multiple myeloma,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,56,Lymphoid leukaemia,4,829911,0.482
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,56,Lymphoid leukaemia,4,761063,0.5256
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,56,Lymphoid leukaemia,4,1094154,0.3656
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,56,Lymphoid leukaemia,4,1006524,0.3974
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,56,Lymphoid leukaemia,2,1128163,0.1773
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,56,Lymphoid leukaemia,2,1115926,0.1792
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,56,Lymphoid leukaemia,2,901495,0.2219
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,56,Lymphoid leukaemia,1,804982,0.1242
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,56,Lymphoid leukaemia,1,637887,0.1568
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,56,Lymphoid leukaemia,2,618364,0.3234
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,56,Lymphoid leukaemia,2,452736,0.4418
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,56,Lymphoid leukaemia,1,301253,0.3319
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,56,Lymphoid leukaemia,0,259687,0.0
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,56,Lymphoid leukaemia,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,56,Lymphoid leukaemia,2,160934,1.2427
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,56,Lymphoid leukaemia,1,186746,0.5355
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,56,Lymphoid leukaemia,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,56,Lymphoid leukaemia,1,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,57,Myeloid leukaemia,2,829911,0.241
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,57,Myeloid leukaemia,2,761063,0.2628
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,57,Myeloid leukaemia,2,1094154,0.1828
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,57,Myeloid leukaemia,1,1006524,0.0994
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,57,Myeloid leukaemia,3,1128163,0.2659
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,57,Myeloid leukaemia,7,1115926,0.6273
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,57,Myeloid leukaemia,1,901495,0.1109
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,57,Myeloid leukaemia,5,804982,0.6211
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,57,Myeloid leukaemia,6,637887,0.9406
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,57,Myeloid leukaemia,7,618364,1.132
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,57,Myeloid leukaemia,3,452736,0.6626
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,57,Myeloid leukaemia,8,301253,2.6556
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,57,Myeloid leukaemia,2,259687,0.7702
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,57,Myeloid leukaemia,5,256286,1.9509
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,57,Myeloid leukaemia,3,160934,1.8641
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,57,Myeloid leukaemia,4,186746,2.1419
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,57,Myeloid leukaemia,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,57,Myeloid leukaemia,3,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,58,Leukaemia unspecified,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,58,Leukaemia unspecified,2,761063,0.2628
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,58,Leukaemia unspecified,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,58,Leukaemia unspecified,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,58,Leukaemia unspecified,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,58,Leukaemia unspecified,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,58,Leukaemia unspecified,1,901495,0.1109
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,58,Leukaemia unspecified,1,804982,0.1242
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,58,Leukaemia unspecified,2,637887,0.3135
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,58,Leukaemia unspecified,1,618364,0.1617
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,58,Leukaemia unspecified,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,58,Leukaemia unspecified,1,301253,0.3319
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,58,Leukaemia unspecified,0,259687,0.0
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,58,Leukaemia unspecified,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,58,Leukaemia unspecified,1,160934,0.6214
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,58,Leukaemia unspecified,1,186746,0.5355
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,58,Leukaemia unspecified,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,58,Leukaemia unspecified,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,59,Myeloproliferative disorders,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,59,Myeloproliferative disorders,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,59,Myeloproliferative disorders,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,59,Myeloproliferative disorders,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,59,Myeloproliferative disorders,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,59,Myeloproliferative disorders,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,59,Myeloproliferative disorders,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,59,Myeloproliferative disorders,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,59,Myeloproliferative disorders,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,59,Myeloproliferative disorders,0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,59,Myeloproliferative disorders,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,59,Myeloproliferative disorders,0,301253,0.0
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,59,Myeloproliferative disorders,0,259687,0.0
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,59,Myeloproliferative disorders,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,59,Myeloproliferative disorders,0,160934,0.0
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,59,Myeloproliferative disorders,0,186746,0.0
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,59,Myeloproliferative disorders,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,59,Myeloproliferative disorders,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,60,Myelodysplastic syndromes,0,829911,0.0
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,60,Myelodysplastic syndromes,0,761063,0.0
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,60,Myelodysplastic syndromes,0,1094154,0.0
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,60,Myelodysplastic syndromes,0,1006524,0.0
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,60,Myelodysplastic syndromes,0,1128163,0.0
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,60,Myelodysplastic syndromes,0,1115926,0.0
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,60,Myelodysplastic syndromes,0,901495,0.0
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,60,Myelodysplastic syndromes,0,804982,0.0
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,60,Myelodysplastic syndromes,0,637887,0.0
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,60,Myelodysplastic syndromes,0,618364,0.0
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,60,Myelodysplastic syndromes,0,452736,0.0
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,60,Myelodysplastic syndromes,0,301253,0.0
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,60,Myelodysplastic syndromes,0,259687,0.0
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,60,Myelodysplastic syndromes,0,256286,0.0
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,60,Myelodysplastic syndromes,0,160934,0.0
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,60,Myelodysplastic syndromes,1,186746,0.5355
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,60,Myelodysplastic syndromes,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,60,Myelodysplastic syndromes,0,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,61,Other and unspecified,2,829911,0.241
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,61,Other and unspecified,1,761063,0.1314
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,61,Other and unspecified,2,1094154,0.1828
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,61,Other and unspecified,2,1006524,0.1987
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,61,Other and unspecified,2,1128163,0.1773
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,61,Other and unspecified,5,1115926,0.4481
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,61,Other and unspecified,5,901495,0.5546
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,61,Other and unspecified,8,804982,0.9938
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,61,Other and unspecified,10,637887,1.5677
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,61,Other and unspecified,14,618364,2.264
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,61,Other and unspecified,12,452736,2.6506
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,61,Other and unspecified,23,301253,7.6348
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,61,Other and unspecified,22,259687,8.4717
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,61,Other and unspecified,28,256286,10.9253
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,61,Other and unspecified,23,160934,14.2916
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,61,Other and unspecified,15,186746,8.0323
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,61,Other and unspecified,3,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,61,Other and unspecified,8,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,62,All sites,22,829911,2.6509
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,62,All sites,22,761063,2.8907
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,62,All sites,31,1094154,2.8332
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,62,All sites,31,1006524,3.0799
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,62,All sites,64,1128163,5.6729
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,62,All sites,134,1115926,12.008
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,62,All sites,194,901495,21.5198
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,62,All sites,338,804982,41.9885
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,62,All sites,530,637887,83.0868
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,62,All sites,676,618364,109.3207
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,62,All sites,772,452736,170.5188
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,62,All sites,827,301253,274.5201
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,62,All sites,831,259687,320.0006
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,62,All sites,697,256286,271.9618
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,62,All sites,532,160934,330.5703
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,62,All sites,367,186746,196.5236
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,62,All sites,191,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,62,All sites,176,0,
+XI,2008-2011,2010,Pune (Poona),Female,0-4,1,63,All sites but skin,22,829911,2.6509
+XI,2008-2011,2010,Pune (Poona),Female,5-9,2,63,All sites but skin,22,761063,2.8907
+XI,2008-2011,2010,Pune (Poona),Female,10-14,3,63,All sites but skin,30,1094154,2.7418
+XI,2008-2011,2010,Pune (Poona),Female,15-19,4,63,All sites but skin,31,1006524,3.0799
+XI,2008-2011,2010,Pune (Poona),Female,20-24,5,63,All sites but skin,64,1128163,5.6729
+XI,2008-2011,2010,Pune (Poona),Female,25-29,6,63,All sites but skin,134,1115926,12.008
+XI,2008-2011,2010,Pune (Poona),Female,30-34,7,63,All sites but skin,188,901495,20.8542
+XI,2008-2011,2010,Pune (Poona),Female,35-39,8,63,All sites but skin,335,804982,41.6158
+XI,2008-2011,2010,Pune (Poona),Female,40-44,9,63,All sites but skin,527,637887,82.6165
+XI,2008-2011,2010,Pune (Poona),Female,45-49,10,63,All sites but skin,675,618364,109.159
+XI,2008-2011,2010,Pune (Poona),Female,50-54,11,63,All sites but skin,770,452736,170.077
+XI,2008-2011,2010,Pune (Poona),Female,55-59,12,63,All sites but skin,825,301253,273.8562
+XI,2008-2011,2010,Pune (Poona),Female,60-64,13,63,All sites but skin,821,259687,316.1498
+XI,2008-2011,2010,Pune (Poona),Female,65-69,14,63,All sites but skin,688,256286,268.4501
+XI,2008-2011,2010,Pune (Poona),Female,70-74,15,63,All sites but skin,524,160934,325.5993
+XI,2008-2011,2010,Pune (Poona),Female,75-79,16,63,All sites but skin,363,186746,194.3817
+XI,2008-2011,2010,Pune (Poona),Female,80-84,17,63,All sites but skin,187,0,
+XI,2008-2011,2010,Pune (Poona),Female,85+,18,63,All sites but skin,173,0,

@@ -1,0 +1,2269 @@
+Volume,Period,Year_Midpoint,Registry,Sex,Age_Group,Age_Group_Sort,Cancer_Code,Cancer_Label,Cases,Population,Rate_per_100k
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,1,Lip,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,1,Lip,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,1,Lip,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,1,Lip,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,1,Lip,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,1,Lip,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,1,Lip,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,1,Lip,4,1224909,0.3266
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,1,Lip,2,964181,0.2074
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,1,Lip,8,760050,1.0526
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,1,Lip,5,641815,0.779
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,1,Lip,7,536567,1.3046
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,1,Lip,7,456396,1.5338
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,1,Lip,7,299347,2.3384
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,1,Lip,4,197559,2.0247
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,1,Lip,1,237704,0.4207
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,1,Lip,3,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,1,Lip,1,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,2,Tongue,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,2,Tongue,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,2,Tongue,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,2,Tongue,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,2,Tongue,1,1686156,0.0593
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,2,Tongue,8,1790878,0.4467
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,2,Tongue,28,1506026,1.8592
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,2,Tongue,59,1224909,4.8167
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,2,Tongue,86,964181,8.9195
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,2,Tongue,89,760050,11.7098
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,2,Tongue,71,641815,11.0624
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,2,Tongue,67,536567,12.4868
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,2,Tongue,56,456396,12.27
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,2,Tongue,46,299347,15.3668
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,2,Tongue,30,197559,15.1853
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,2,Tongue,20,237704,8.4138
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,2,Tongue,11,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,2,Tongue,6,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,3,Mouth,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,3,Mouth,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,3,Mouth,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,3,Mouth,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,3,Mouth,1,1686156,0.0593
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,3,Mouth,15,1790878,0.8376
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,3,Mouth,36,1506026,2.3904
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,3,Mouth,112,1224909,9.1435
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,3,Mouth,110,964181,11.4086
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,3,Mouth,132,760050,17.3673
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,3,Mouth,111,641815,17.2947
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,3,Mouth,160,536567,29.8192
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,3,Mouth,140,456396,30.6751
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,3,Mouth,136,299347,45.4322
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,3,Mouth,65,197559,32.9016
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,3,Mouth,39,237704,16.407
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,3,Mouth,20,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,3,Mouth,18,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,4,Salivary glands,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,4,Salivary glands,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,4,Salivary glands,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,4,Salivary glands,1,1142065,0.0876
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,4,Salivary glands,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,4,Salivary glands,1,1790878,0.0558
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,4,Salivary glands,4,1506026,0.2656
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,4,Salivary glands,3,1224909,0.2449
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,4,Salivary glands,2,964181,0.2074
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,4,Salivary glands,3,760050,0.3947
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,4,Salivary glands,7,641815,1.0907
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,4,Salivary glands,13,536567,2.4228
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,4,Salivary glands,2,456396,0.4382
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,4,Salivary glands,5,299347,1.6703
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,4,Salivary glands,3,197559,1.5185
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,4,Salivary glands,5,237704,2.1035
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,4,Salivary glands,2,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,4,Salivary glands,2,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,5,Tonsil,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,5,Tonsil,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,5,Tonsil,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,5,Tonsil,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,5,Tonsil,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,5,Tonsil,2,1790878,0.1117
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,5,Tonsil,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,5,Tonsil,2,1224909,0.1633
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,5,Tonsil,2,964181,0.2074
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,5,Tonsil,1,760050,0.1316
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,5,Tonsil,0,641815,0.0
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,5,Tonsil,9,536567,1.6773
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,5,Tonsil,4,456396,0.8764
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,5,Tonsil,5,299347,1.6703
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,5,Tonsil,5,197559,2.5309
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,5,Tonsil,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,5,Tonsil,2,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,5,Tonsil,2,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,6,Other oropharynx,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,6,Other oropharynx,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,6,Other oropharynx,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,6,Other oropharynx,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,6,Other oropharynx,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,6,Other oropharynx,1,1790878,0.0558
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,6,Other oropharynx,1,1506026,0.0664
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,6,Other oropharynx,1,1224909,0.0816
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,6,Other oropharynx,3,964181,0.3111
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,6,Other oropharynx,2,760050,0.2631
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,6,Other oropharynx,11,641815,1.7139
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,6,Other oropharynx,15,536567,2.7956
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,6,Other oropharynx,18,456396,3.9439
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,6,Other oropharynx,7,299347,2.3384
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,6,Other oropharynx,12,197559,6.0741
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,6,Other oropharynx,4,237704,1.6828
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,6,Other oropharynx,3,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,6,Other oropharynx,2,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,7,Nasopharynx,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,7,Nasopharynx,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,7,Nasopharynx,1,1031264,0.097
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,7,Nasopharynx,2,1142065,0.1751
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,7,Nasopharynx,1,1686156,0.0593
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,7,Nasopharynx,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,7,Nasopharynx,2,1506026,0.1328
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,7,Nasopharynx,4,1224909,0.3266
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,7,Nasopharynx,6,964181,0.6223
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,7,Nasopharynx,6,760050,0.7894
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,7,Nasopharynx,4,641815,0.6232
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,7,Nasopharynx,2,536567,0.3727
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,7,Nasopharynx,0,456396,0.0
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,7,Nasopharynx,6,299347,2.0044
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,7,Nasopharynx,2,197559,1.0124
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,7,Nasopharynx,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,7,Nasopharynx,1,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,7,Nasopharynx,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,8,Hypopharynx,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,8,Hypopharynx,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,8,Hypopharynx,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,8,Hypopharynx,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,8,Hypopharynx,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,8,Hypopharynx,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,8,Hypopharynx,2,1506026,0.1328
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,8,Hypopharynx,1,1224909,0.0816
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,8,Hypopharynx,5,964181,0.5186
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,8,Hypopharynx,9,760050,1.1841
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,8,Hypopharynx,9,641815,1.4023
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,8,Hypopharynx,16,536567,2.9819
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,8,Hypopharynx,26,456396,5.6968
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,8,Hypopharynx,24,299347,8.0175
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,8,Hypopharynx,25,197559,12.6544
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,8,Hypopharynx,18,237704,7.5724
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,8,Hypopharynx,8,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,8,Hypopharynx,9,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,9,Pharynx unspecified,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,9,Pharynx unspecified,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,9,Pharynx unspecified,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,9,Pharynx unspecified,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,9,Pharynx unspecified,2,1686156,0.1186
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,9,Pharynx unspecified,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,9,Pharynx unspecified,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,9,Pharynx unspecified,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,9,Pharynx unspecified,1,964181,0.1037
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,9,Pharynx unspecified,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,9,Pharynx unspecified,6,641815,0.9348
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,9,Pharynx unspecified,3,536567,0.5591
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,9,Pharynx unspecified,7,456396,1.5338
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,9,Pharynx unspecified,5,299347,1.6703
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,9,Pharynx unspecified,8,197559,4.0494
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,9,Pharynx unspecified,2,237704,0.8414
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,9,Pharynx unspecified,4,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,9,Pharynx unspecified,1,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,10,Oesophagus,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,10,Oesophagus,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,10,Oesophagus,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,10,Oesophagus,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,10,Oesophagus,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,10,Oesophagus,2,1790878,0.1117
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,10,Oesophagus,4,1506026,0.2656
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,10,Oesophagus,3,1224909,0.2449
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,10,Oesophagus,9,964181,0.9334
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,10,Oesophagus,19,760050,2.4998
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,10,Oesophagus,24,641815,3.7394
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,10,Oesophagus,51,536567,9.5049
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,10,Oesophagus,82,456396,17.9669
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,10,Oesophagus,70,299347,23.3842
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,10,Oesophagus,65,197559,32.9016
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,10,Oesophagus,34,237704,14.3035
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,10,Oesophagus,31,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,10,Oesophagus,15,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,11,Stomach,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,11,Stomach,1,1112778,0.0899
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,11,Stomach,2,1031264,0.1939
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,11,Stomach,1,1142065,0.0876
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,11,Stomach,3,1686156,0.1779
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,11,Stomach,5,1790878,0.2792
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,11,Stomach,8,1506026,0.5312
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,11,Stomach,12,1224909,0.9797
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,11,Stomach,17,964181,1.7632
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,11,Stomach,24,760050,3.1577
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,11,Stomach,39,641815,6.0765
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,11,Stomach,54,536567,10.064
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,11,Stomach,55,456396,12.0509
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,11,Stomach,67,299347,22.3821
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,11,Stomach,49,197559,24.8027
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,11,Stomach,35,237704,14.7242
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,11,Stomach,21,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,11,Stomach,15,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,12,Small intestine,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,12,Small intestine,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,12,Small intestine,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,12,Small intestine,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,12,Small intestine,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,12,Small intestine,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,12,Small intestine,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,12,Small intestine,1,1224909,0.0816
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,12,Small intestine,0,964181,0.0
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,12,Small intestine,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,12,Small intestine,1,641815,0.1558
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,12,Small intestine,2,536567,0.3727
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,12,Small intestine,11,456396,2.4102
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,12,Small intestine,5,299347,1.6703
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,12,Small intestine,3,197559,1.5185
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,12,Small intestine,1,237704,0.4207
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,12,Small intestine,2,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,12,Small intestine,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,13,Colon,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,13,Colon,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,13,Colon,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,13,Colon,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,13,Colon,5,1686156,0.2965
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,13,Colon,4,1790878,0.2234
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,13,Colon,13,1506026,0.8632
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,13,Colon,14,1224909,1.1429
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,13,Colon,16,964181,1.6594
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,13,Colon,25,760050,3.2893
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,13,Colon,51,641815,7.9462
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,13,Colon,38,536567,7.0821
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,13,Colon,66,456396,14.4611
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,13,Colon,72,299347,24.0524
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,13,Colon,47,197559,23.7904
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,13,Colon,44,237704,18.5104
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,13,Colon,27,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,13,Colon,25,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,14,Rectum,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,14,Rectum,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,14,Rectum,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,14,Rectum,4,1142065,0.3502
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,14,Rectum,4,1686156,0.2372
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,14,Rectum,13,1790878,0.7259
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,14,Rectum,17,1506026,1.1288
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,14,Rectum,25,1224909,2.041
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,14,Rectum,22,964181,2.2817
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,14,Rectum,31,760050,4.0787
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,14,Rectum,35,641815,5.4533
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,14,Rectum,59,536567,10.9958
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,14,Rectum,69,456396,15.1184
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,14,Rectum,61,299347,20.3777
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,14,Rectum,47,197559,23.7904
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,14,Rectum,25,237704,10.5173
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,14,Rectum,25,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,14,Rectum,12,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,15,Anus,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,15,Anus,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,15,Anus,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,15,Anus,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,15,Anus,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,15,Anus,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,15,Anus,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,15,Anus,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,15,Anus,1,964181,0.1037
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,15,Anus,2,760050,0.2631
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,15,Anus,1,641815,0.1558
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,15,Anus,3,536567,0.5591
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,15,Anus,2,456396,0.4382
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,15,Anus,6,299347,2.0044
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,15,Anus,2,197559,1.0124
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,15,Anus,3,237704,1.2621
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,15,Anus,2,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,15,Anus,1,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,16,Liver,2,1197333,0.167
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,16,Liver,2,1112778,0.1797
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,16,Liver,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,16,Liver,1,1142065,0.0876
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,16,Liver,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,16,Liver,2,1790878,0.1117
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,16,Liver,4,1506026,0.2656
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,16,Liver,12,1224909,0.9797
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,16,Liver,4,964181,0.4149
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,16,Liver,14,760050,1.842
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,16,Liver,28,641815,4.3626
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,16,Liver,43,536567,8.0139
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,16,Liver,65,456396,14.242
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,16,Liver,83,299347,27.727
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,16,Liver,74,197559,37.4572
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,16,Liver,54,237704,22.7173
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,16,Liver,28,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,16,Liver,17,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,17,Gallbladder etc.,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,17,Gallbladder etc.,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,17,Gallbladder etc.,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,17,Gallbladder etc.,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,17,Gallbladder etc.,1,1686156,0.0593
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,17,Gallbladder etc.,1,1790878,0.0558
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,17,Gallbladder etc.,3,1506026,0.1992
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,17,Gallbladder etc.,1,1224909,0.0816
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,17,Gallbladder etc.,9,964181,0.9334
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,17,Gallbladder etc.,11,760050,1.4473
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,17,Gallbladder etc.,16,641815,2.4929
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,17,Gallbladder etc.,15,536567,2.7956
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,17,Gallbladder etc.,26,456396,5.6968
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,17,Gallbladder etc.,22,299347,7.3493
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,17,Gallbladder etc.,9,197559,4.5556
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,17,Gallbladder etc.,10,237704,4.2069
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,17,Gallbladder etc.,6,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,17,Gallbladder etc.,4,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,18,Pancreas,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,18,Pancreas,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,18,Pancreas,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,18,Pancreas,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,18,Pancreas,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,18,Pancreas,2,1790878,0.1117
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,18,Pancreas,8,1506026,0.5312
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,18,Pancreas,2,1224909,0.1633
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,18,Pancreas,12,964181,1.2446
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,18,Pancreas,15,760050,1.9736
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,18,Pancreas,27,641815,4.2068
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,18,Pancreas,26,536567,4.8456
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,18,Pancreas,42,456396,9.2025
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,18,Pancreas,40,299347,13.3624
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,18,Pancreas,21,197559,10.6297
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,18,Pancreas,19,237704,7.9931
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,18,Pancreas,19,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,18,Pancreas,7,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,19,"Nose, sinuses etc.",0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,19,"Nose, sinuses etc.",0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,19,"Nose, sinuses etc.",0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,19,"Nose, sinuses etc.",0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,19,"Nose, sinuses etc.",0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,19,"Nose, sinuses etc.",0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,19,"Nose, sinuses etc.",2,1506026,0.1328
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,19,"Nose, sinuses etc.",4,1224909,0.3266
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,19,"Nose, sinuses etc.",4,964181,0.4149
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,19,"Nose, sinuses etc.",4,760050,0.5263
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,19,"Nose, sinuses etc.",5,641815,0.779
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,19,"Nose, sinuses etc.",10,536567,1.8637
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,19,"Nose, sinuses etc.",6,456396,1.3146
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,19,"Nose, sinuses etc.",1,299347,0.3341
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,19,"Nose, sinuses etc.",3,197559,1.5185
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,19,"Nose, sinuses etc.",3,237704,1.2621
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,19,"Nose, sinuses etc.",3,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,19,"Nose, sinuses etc.",4,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,20,Larynx,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,20,Larynx,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,20,Larynx,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,20,Larynx,1,1142065,0.0876
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,20,Larynx,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,20,Larynx,1,1790878,0.0558
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,20,Larynx,1,1506026,0.0664
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,20,Larynx,5,1224909,0.4082
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,20,Larynx,10,964181,1.0371
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,20,Larynx,17,760050,2.2367
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,20,Larynx,39,641815,6.0765
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,20,Larynx,49,536567,9.1321
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,20,Larynx,79,456396,17.3095
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,20,Larynx,65,299347,21.7139
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,20,Larynx,61,197559,30.8769
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,20,Larynx,36,237704,15.1449
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,20,Larynx,22,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,20,Larynx,18,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,21,Lung (incl. trachea and bronchus),0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,21,Lung (incl. trachea and bronchus),0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,21,Lung (incl. trachea and bronchus),0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,21,Lung (incl. trachea and bronchus),0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,21,Lung (incl. trachea and bronchus),4,1686156,0.2372
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,21,Lung (incl. trachea and bronchus),4,1790878,0.2234
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,21,Lung (incl. trachea and bronchus),11,1506026,0.7304
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,21,Lung (incl. trachea and bronchus),7,1224909,0.5715
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,21,Lung (incl. trachea and bronchus),22,964181,2.2817
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,21,Lung (incl. trachea and bronchus),44,760050,5.7891
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,21,Lung (incl. trachea and bronchus),67,641815,10.4391
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,21,Lung (incl. trachea and bronchus),91,536567,16.9597
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,21,Lung (incl. trachea and bronchus),156,456396,34.1808
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,21,Lung (incl. trachea and bronchus),154,299347,51.4453
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,21,Lung (incl. trachea and bronchus),120,197559,60.7413
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,21,Lung (incl. trachea and bronchus),81,237704,34.076
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,21,Lung (incl. trachea and bronchus),30,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,21,Lung (incl. trachea and bronchus),21,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,22,Other thoracic organs,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,22,Other thoracic organs,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,22,Other thoracic organs,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,22,Other thoracic organs,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,22,Other thoracic organs,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,22,Other thoracic organs,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,22,Other thoracic organs,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,22,Other thoracic organs,2,1224909,0.1633
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,22,Other thoracic organs,1,964181,0.1037
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,22,Other thoracic organs,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,22,Other thoracic organs,1,641815,0.1558
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,22,Other thoracic organs,0,536567,0.0
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,22,Other thoracic organs,3,456396,0.6573
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,22,Other thoracic organs,0,299347,0.0
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,22,Other thoracic organs,1,197559,0.5062
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,22,Other thoracic organs,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,22,Other thoracic organs,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,22,Other thoracic organs,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,23,Bone,4,1197333,0.3341
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,23,Bone,10,1112778,0.8987
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,23,Bone,9,1031264,0.8727
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,23,Bone,22,1142065,1.9263
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,23,Bone,9,1686156,0.5338
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,23,Bone,6,1790878,0.335
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,23,Bone,11,1506026,0.7304
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,23,Bone,7,1224909,0.5715
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,23,Bone,9,964181,0.9334
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,23,Bone,4,760050,0.5263
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,23,Bone,4,641815,0.6232
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,23,Bone,6,536567,1.1182
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,23,Bone,6,456396,1.3146
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,23,Bone,2,299347,0.6681
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,23,Bone,2,197559,1.0124
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,23,Bone,2,237704,0.8414
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,23,Bone,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,23,Bone,3,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,24,Melanoma of skin,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,24,Melanoma of skin,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,24,Melanoma of skin,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,24,Melanoma of skin,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,24,Melanoma of skin,1,1686156,0.0593
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,24,Melanoma of skin,2,1790878,0.1117
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,24,Melanoma of skin,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,24,Melanoma of skin,2,1224909,0.1633
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,24,Melanoma of skin,0,964181,0.0
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,24,Melanoma of skin,3,760050,0.3947
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,24,Melanoma of skin,3,641815,0.4674
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,24,Melanoma of skin,6,536567,1.1182
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,24,Melanoma of skin,8,456396,1.7529
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,24,Melanoma of skin,4,299347,1.3362
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,24,Melanoma of skin,3,197559,1.5185
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,24,Melanoma of skin,5,237704,2.1035
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,24,Melanoma of skin,6,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,24,Melanoma of skin,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,25,Other skin,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,25,Other skin,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,25,Other skin,1,1031264,0.097
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,25,Other skin,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,25,Other skin,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,25,Other skin,2,1790878,0.1117
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,25,Other skin,1,1506026,0.0664
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,25,Other skin,1,1224909,0.0816
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,25,Other skin,2,964181,0.2074
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,25,Other skin,8,760050,1.0526
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,25,Other skin,8,641815,1.2465
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,25,Other skin,10,536567,1.8637
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,25,Other skin,8,456396,1.7529
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,25,Other skin,11,299347,3.6747
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,25,Other skin,5,197559,2.5309
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,25,Other skin,5,237704,2.1035
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,25,Other skin,3,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,25,Other skin,8,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,26,Mesothelioma,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,26,Mesothelioma,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,26,Mesothelioma,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,26,Mesothelioma,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,26,Mesothelioma,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,26,Mesothelioma,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,26,Mesothelioma,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,26,Mesothelioma,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,26,Mesothelioma,1,964181,0.1037
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,26,Mesothelioma,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,26,Mesothelioma,1,641815,0.1558
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,26,Mesothelioma,0,536567,0.0
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,26,Mesothelioma,2,456396,0.4382
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,26,Mesothelioma,1,299347,0.3341
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,26,Mesothelioma,1,197559,0.5062
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,26,Mesothelioma,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,26,Mesothelioma,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,26,Mesothelioma,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,27,Kaposi sarcoma,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,27,Kaposi sarcoma,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,27,Kaposi sarcoma,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,27,Kaposi sarcoma,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,27,Kaposi sarcoma,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,27,Kaposi sarcoma,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,27,Kaposi sarcoma,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,27,Kaposi sarcoma,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,27,Kaposi sarcoma,0,964181,0.0
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,27,Kaposi sarcoma,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,27,Kaposi sarcoma,0,641815,0.0
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,27,Kaposi sarcoma,0,536567,0.0
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,27,Kaposi sarcoma,0,456396,0.0
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,27,Kaposi sarcoma,0,299347,0.0
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,27,Kaposi sarcoma,0,197559,0.0
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,27,Kaposi sarcoma,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,27,Kaposi sarcoma,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,27,Kaposi sarcoma,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,28,Connective and soft tissue,5,1197333,0.4176
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,28,Connective and soft tissue,1,1112778,0.0899
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,28,Connective and soft tissue,3,1031264,0.2909
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,28,Connective and soft tissue,4,1142065,0.3502
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,28,Connective and soft tissue,4,1686156,0.2372
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,28,Connective and soft tissue,6,1790878,0.335
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,28,Connective and soft tissue,8,1506026,0.5312
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,28,Connective and soft tissue,6,1224909,0.4898
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,28,Connective and soft tissue,8,964181,0.8297
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,28,Connective and soft tissue,11,760050,1.4473
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,28,Connective and soft tissue,9,641815,1.4023
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,28,Connective and soft tissue,8,536567,1.491
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,28,Connective and soft tissue,14,456396,3.0675
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,28,Connective and soft tissue,18,299347,6.0131
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,28,Connective and soft tissue,14,197559,7.0865
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,28,Connective and soft tissue,6,237704,2.5241
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,28,Connective and soft tissue,6,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,28,Connective and soft tissue,4,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,29,Breast,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,29,Breast,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,29,Breast,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,29,Breast,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,29,Breast,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,29,Breast,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,29,Breast,5,1506026,0.332
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,29,Breast,4,1224909,0.3266
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,29,Breast,12,964181,1.2446
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,29,Breast,8,760050,1.0526
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,29,Breast,22,641815,3.4278
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,29,Breast,21,536567,3.9138
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,29,Breast,23,456396,5.0395
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,29,Breast,13,299347,4.3428
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,29,Breast,11,197559,5.568
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,29,Breast,6,237704,2.5241
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,29,Breast,7,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,29,Breast,5,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,30,Vulva,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,30,Vulva,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,30,Vulva,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,30,Vulva,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,30,Vulva,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,30,Vulva,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,30,Vulva,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,30,Vulva,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,30,Vulva,0,964181,0.0
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,30,Vulva,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,30,Vulva,0,641815,0.0
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,30,Vulva,0,536567,0.0
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,30,Vulva,0,456396,0.0
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,30,Vulva,0,299347,0.0
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,30,Vulva,0,197559,0.0
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,30,Vulva,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,30,Vulva,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,30,Vulva,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,31,Vagina,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,31,Vagina,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,31,Vagina,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,31,Vagina,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,31,Vagina,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,31,Vagina,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,31,Vagina,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,31,Vagina,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,31,Vagina,0,964181,0.0
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,31,Vagina,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,31,Vagina,0,641815,0.0
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,31,Vagina,0,536567,0.0
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,31,Vagina,0,456396,0.0
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,31,Vagina,0,299347,0.0
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,31,Vagina,0,197559,0.0
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,31,Vagina,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,31,Vagina,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,31,Vagina,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,32,Cervix uteri,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,32,Cervix uteri,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,32,Cervix uteri,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,32,Cervix uteri,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,32,Cervix uteri,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,32,Cervix uteri,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,32,Cervix uteri,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,32,Cervix uteri,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,32,Cervix uteri,0,964181,0.0
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,32,Cervix uteri,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,32,Cervix uteri,0,641815,0.0
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,32,Cervix uteri,0,536567,0.0
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,32,Cervix uteri,0,456396,0.0
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,32,Cervix uteri,0,299347,0.0
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,32,Cervix uteri,0,197559,0.0
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,32,Cervix uteri,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,32,Cervix uteri,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,32,Cervix uteri,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,33,Corpus uteri,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,33,Corpus uteri,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,33,Corpus uteri,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,33,Corpus uteri,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,33,Corpus uteri,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,33,Corpus uteri,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,33,Corpus uteri,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,33,Corpus uteri,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,33,Corpus uteri,0,964181,0.0
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,33,Corpus uteri,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,33,Corpus uteri,0,641815,0.0
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,33,Corpus uteri,0,536567,0.0
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,33,Corpus uteri,0,456396,0.0
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,33,Corpus uteri,0,299347,0.0
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,33,Corpus uteri,0,197559,0.0
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,33,Corpus uteri,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,33,Corpus uteri,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,33,Corpus uteri,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,34,Uterus unspecified,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,34,Uterus unspecified,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,34,Uterus unspecified,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,34,Uterus unspecified,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,34,Uterus unspecified,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,34,Uterus unspecified,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,34,Uterus unspecified,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,34,Uterus unspecified,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,34,Uterus unspecified,0,964181,0.0
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,34,Uterus unspecified,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,34,Uterus unspecified,0,641815,0.0
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,34,Uterus unspecified,0,536567,0.0
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,34,Uterus unspecified,0,456396,0.0
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,34,Uterus unspecified,0,299347,0.0
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,34,Uterus unspecified,0,197559,0.0
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,34,Uterus unspecified,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,34,Uterus unspecified,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,34,Uterus unspecified,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,35,Ovary,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,35,Ovary,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,35,Ovary,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,35,Ovary,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,35,Ovary,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,35,Ovary,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,35,Ovary,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,35,Ovary,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,35,Ovary,0,964181,0.0
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,35,Ovary,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,35,Ovary,0,641815,0.0
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,35,Ovary,0,536567,0.0
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,35,Ovary,0,456396,0.0
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,35,Ovary,0,299347,0.0
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,35,Ovary,0,197559,0.0
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,35,Ovary,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,35,Ovary,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,35,Ovary,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,36,Other female genital organs,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,36,Other female genital organs,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,36,Other female genital organs,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,36,Other female genital organs,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,36,Other female genital organs,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,36,Other female genital organs,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,36,Other female genital organs,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,36,Other female genital organs,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,36,Other female genital organs,0,964181,0.0
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,36,Other female genital organs,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,36,Other female genital organs,0,641815,0.0
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,36,Other female genital organs,0,536567,0.0
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,36,Other female genital organs,0,456396,0.0
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,36,Other female genital organs,0,299347,0.0
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,36,Other female genital organs,0,197559,0.0
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,36,Other female genital organs,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,36,Other female genital organs,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,36,Other female genital organs,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,37,Placenta,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,37,Placenta,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,37,Placenta,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,37,Placenta,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,37,Placenta,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,37,Placenta,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,37,Placenta,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,37,Placenta,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,37,Placenta,0,964181,0.0
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,37,Placenta,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,37,Placenta,0,641815,0.0
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,37,Placenta,0,536567,0.0
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,37,Placenta,0,456396,0.0
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,37,Placenta,0,299347,0.0
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,37,Placenta,0,197559,0.0
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,37,Placenta,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,37,Placenta,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,37,Placenta,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,38,Penis,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,38,Penis,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,38,Penis,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,38,Penis,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,38,Penis,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,38,Penis,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,38,Penis,2,1506026,0.1328
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,38,Penis,3,1224909,0.2449
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,38,Penis,5,964181,0.5186
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,38,Penis,4,760050,0.5263
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,38,Penis,13,641815,2.0255
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,38,Penis,4,536567,0.7455
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,38,Penis,19,456396,4.1631
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,38,Penis,19,299347,6.3471
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,38,Penis,13,197559,6.5803
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,38,Penis,14,237704,5.8897
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,38,Penis,5,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,38,Penis,4,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,39,Prostate,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,39,Prostate,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,39,Prostate,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,39,Prostate,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,39,Prostate,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,39,Prostate,1,1790878,0.0558
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,39,Prostate,1,1506026,0.0664
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,39,Prostate,1,1224909,0.0816
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,39,Prostate,3,964181,0.3111
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,39,Prostate,3,760050,0.3947
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,39,Prostate,19,641815,2.9604
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,39,Prostate,46,536567,8.573
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,39,Prostate,102,456396,22.349
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,39,Prostate,200,299347,66.8121
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,39,Prostate,204,197559,103.2603
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,39,Prostate,175,237704,73.621
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,39,Prostate,119,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,39,Prostate,78,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,40,Testis,1,1197333,0.0835
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,40,Testis,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,40,Testis,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,40,Testis,2,1142065,0.1751
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,40,Testis,9,1686156,0.5338
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,40,Testis,7,1790878,0.3909
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,40,Testis,10,1506026,0.664
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,40,Testis,6,1224909,0.4898
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,40,Testis,4,964181,0.4149
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,40,Testis,1,760050,0.1316
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,40,Testis,4,641815,0.6232
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,40,Testis,0,536567,0.0
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,40,Testis,2,456396,0.4382
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,40,Testis,2,299347,0.6681
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,40,Testis,1,197559,0.5062
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,40,Testis,2,237704,0.8414
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,40,Testis,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,40,Testis,1,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,41,Other male genital organs,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,41,Other male genital organs,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,41,Other male genital organs,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,41,Other male genital organs,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,41,Other male genital organs,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,41,Other male genital organs,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,41,Other male genital organs,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,41,Other male genital organs,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,41,Other male genital organs,0,964181,0.0
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,41,Other male genital organs,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,41,Other male genital organs,0,641815,0.0
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,41,Other male genital organs,0,536567,0.0
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,41,Other male genital organs,0,456396,0.0
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,41,Other male genital organs,0,299347,0.0
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,41,Other male genital organs,0,197559,0.0
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,41,Other male genital organs,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,41,Other male genital organs,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,41,Other male genital organs,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,42,Kidney,5,1197333,0.4176
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,42,Kidney,3,1112778,0.2696
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,42,Kidney,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,42,Kidney,1,1142065,0.0876
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,42,Kidney,4,1686156,0.2372
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,42,Kidney,2,1790878,0.1117
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,42,Kidney,6,1506026,0.3984
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,42,Kidney,13,1224909,1.0613
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,42,Kidney,13,964181,1.3483
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,42,Kidney,24,760050,3.1577
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,42,Kidney,34,641815,5.2975
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,42,Kidney,40,536567,7.4548
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,42,Kidney,46,456396,10.079
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,42,Kidney,49,299347,16.369
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,42,Kidney,22,197559,11.1359
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,42,Kidney,11,237704,4.6276
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,42,Kidney,9,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,42,Kidney,4,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,43,Renal pelvis,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,43,Renal pelvis,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,43,Renal pelvis,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,43,Renal pelvis,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,43,Renal pelvis,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,43,Renal pelvis,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,43,Renal pelvis,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,43,Renal pelvis,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,43,Renal pelvis,0,964181,0.0
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,43,Renal pelvis,1,760050,0.1316
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,43,Renal pelvis,0,641815,0.0
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,43,Renal pelvis,0,536567,0.0
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,43,Renal pelvis,0,456396,0.0
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,43,Renal pelvis,0,299347,0.0
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,43,Renal pelvis,0,197559,0.0
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,43,Renal pelvis,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,43,Renal pelvis,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,43,Renal pelvis,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,44,Ureter,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,44,Ureter,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,44,Ureter,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,44,Ureter,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,44,Ureter,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,44,Ureter,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,44,Ureter,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,44,Ureter,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,44,Ureter,0,964181,0.0
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,44,Ureter,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,44,Ureter,1,641815,0.1558
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,44,Ureter,1,536567,0.1864
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,44,Ureter,1,456396,0.2191
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,44,Ureter,0,299347,0.0
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,44,Ureter,1,197559,0.5062
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,44,Ureter,1,237704,0.4207
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,44,Ureter,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,44,Ureter,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,45,Bladder,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,45,Bladder,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,45,Bladder,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,45,Bladder,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,45,Bladder,1,1686156,0.0593
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,45,Bladder,4,1790878,0.2234
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,45,Bladder,2,1506026,0.1328
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,45,Bladder,5,1224909,0.4082
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,45,Bladder,9,964181,0.9334
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,45,Bladder,7,760050,0.921
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,45,Bladder,17,641815,2.6487
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,45,Bladder,46,536567,8.573
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,45,Bladder,57,456396,12.4892
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,45,Bladder,54,299347,18.0393
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,45,Bladder,74,197559,37.4572
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,45,Bladder,46,237704,19.3518
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,45,Bladder,41,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,45,Bladder,20,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,46,Other urinary organs,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,46,Other urinary organs,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,46,Other urinary organs,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,46,Other urinary organs,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,46,Other urinary organs,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,46,Other urinary organs,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,46,Other urinary organs,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,46,Other urinary organs,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,46,Other urinary organs,0,964181,0.0
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,46,Other urinary organs,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,46,Other urinary organs,0,641815,0.0
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,46,Other urinary organs,1,536567,0.1864
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,46,Other urinary organs,0,456396,0.0
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,46,Other urinary organs,0,299347,0.0
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,46,Other urinary organs,0,197559,0.0
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,46,Other urinary organs,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,46,Other urinary organs,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,46,Other urinary organs,1,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,47,Eye,3,1197333,0.2506
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,47,Eye,1,1112778,0.0899
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,47,Eye,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,47,Eye,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,47,Eye,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,47,Eye,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,47,Eye,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,47,Eye,1,1224909,0.0816
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,47,Eye,0,964181,0.0
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,47,Eye,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,47,Eye,0,641815,0.0
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,47,Eye,0,536567,0.0
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,47,Eye,0,456396,0.0
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,47,Eye,0,299347,0.0
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,47,Eye,0,197559,0.0
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,47,Eye,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,47,Eye,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,47,Eye,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,48,"Brain, nervous system",12,1197333,1.0022
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,48,"Brain, nervous system",19,1112778,1.7074
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,48,"Brain, nervous system",16,1031264,1.5515
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,48,"Brain, nervous system",14,1142065,1.2258
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,48,"Brain, nervous system",20,1686156,1.1861
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,48,"Brain, nervous system",27,1790878,1.5076
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,48,"Brain, nervous system",36,1506026,2.3904
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,48,"Brain, nervous system",26,1224909,2.1226
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,48,"Brain, nervous system",34,964181,3.5263
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,48,"Brain, nervous system",34,760050,4.4734
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,48,"Brain, nervous system",49,641815,7.6346
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,48,"Brain, nervous system",45,536567,8.3867
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,48,"Brain, nervous system",44,456396,9.6408
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,48,"Brain, nervous system",37,299347,12.3602
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,48,"Brain, nervous system",25,197559,12.6544
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,48,"Brain, nervous system",19,237704,7.9931
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,48,"Brain, nervous system",8,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,48,"Brain, nervous system",7,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,49,Thyroid,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,49,Thyroid,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,49,Thyroid,2,1031264,0.1939
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,49,Thyroid,1,1142065,0.0876
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,49,Thyroid,1,1686156,0.0593
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,49,Thyroid,8,1790878,0.4467
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,49,Thyroid,5,1506026,0.332
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,49,Thyroid,8,1224909,0.6531
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,49,Thyroid,10,964181,1.0371
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,49,Thyroid,9,760050,1.1841
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,49,Thyroid,13,641815,2.0255
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,49,Thyroid,11,536567,2.0501
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,49,Thyroid,10,456396,2.1911
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,49,Thyroid,11,299347,3.6747
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,49,Thyroid,8,197559,4.0494
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,49,Thyroid,6,237704,2.5241
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,49,Thyroid,2,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,49,Thyroid,2,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,50,Adrenal gland,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,50,Adrenal gland,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,50,Adrenal gland,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,50,Adrenal gland,1,1142065,0.0876
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,50,Adrenal gland,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,50,Adrenal gland,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,50,Adrenal gland,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,50,Adrenal gland,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,50,Adrenal gland,1,964181,0.1037
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,50,Adrenal gland,1,760050,0.1316
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,50,Adrenal gland,0,641815,0.0
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,50,Adrenal gland,1,536567,0.1864
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,50,Adrenal gland,2,456396,0.4382
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,50,Adrenal gland,0,299347,0.0
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,50,Adrenal gland,0,197559,0.0
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,50,Adrenal gland,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,50,Adrenal gland,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,50,Adrenal gland,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,51,Other endocrine,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,51,Other endocrine,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,51,Other endocrine,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,51,Other endocrine,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,51,Other endocrine,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,51,Other endocrine,2,1790878,0.1117
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,51,Other endocrine,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,51,Other endocrine,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,51,Other endocrine,1,964181,0.1037
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,51,Other endocrine,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,51,Other endocrine,0,641815,0.0
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,51,Other endocrine,0,536567,0.0
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,51,Other endocrine,1,456396,0.2191
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,51,Other endocrine,0,299347,0.0
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,51,Other endocrine,0,197559,0.0
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,51,Other endocrine,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,51,Other endocrine,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,51,Other endocrine,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,52,Hodgkin disease,1,1197333,0.0835
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,52,Hodgkin disease,5,1112778,0.4493
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,52,Hodgkin disease,6,1031264,0.5818
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,52,Hodgkin disease,4,1142065,0.3502
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,52,Hodgkin disease,5,1686156,0.2965
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,52,Hodgkin disease,14,1790878,0.7817
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,52,Hodgkin disease,9,1506026,0.5976
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,52,Hodgkin disease,2,1224909,0.1633
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,52,Hodgkin disease,7,964181,0.726
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,52,Hodgkin disease,9,760050,1.1841
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,52,Hodgkin disease,8,641815,1.2465
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,52,Hodgkin disease,9,536567,1.6773
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,52,Hodgkin disease,7,456396,1.5338
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,52,Hodgkin disease,10,299347,3.3406
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,52,Hodgkin disease,3,197559,1.5185
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,52,Hodgkin disease,2,237704,0.8414
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,52,Hodgkin disease,1,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,52,Hodgkin disease,1,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,53,Non-Hodgkin lymphoma,3,1197333,0.2506
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,53,Non-Hodgkin lymphoma,4,1112778,0.3595
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,53,Non-Hodgkin lymphoma,10,1031264,0.9697
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,53,Non-Hodgkin lymphoma,14,1142065,1.2258
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,53,Non-Hodgkin lymphoma,9,1686156,0.5338
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,53,Non-Hodgkin lymphoma,14,1790878,0.7817
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,53,Non-Hodgkin lymphoma,14,1506026,0.9296
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,53,Non-Hodgkin lymphoma,31,1224909,2.5308
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,53,Non-Hodgkin lymphoma,28,964181,2.904
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,53,Non-Hodgkin lymphoma,40,760050,5.2628
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,53,Non-Hodgkin lymphoma,33,641815,5.1417
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,53,Non-Hodgkin lymphoma,39,536567,7.2684
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,53,Non-Hodgkin lymphoma,66,456396,14.4611
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,53,Non-Hodgkin lymphoma,66,299347,22.048
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,53,Non-Hodgkin lymphoma,51,197559,25.8151
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,53,Non-Hodgkin lymphoma,40,237704,16.8277
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,53,Non-Hodgkin lymphoma,20,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,53,Non-Hodgkin lymphoma,18,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,54,Immunoproliferative diseases,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,54,Immunoproliferative diseases,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,54,Immunoproliferative diseases,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,54,Immunoproliferative diseases,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,54,Immunoproliferative diseases,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,54,Immunoproliferative diseases,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,54,Immunoproliferative diseases,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,54,Immunoproliferative diseases,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,54,Immunoproliferative diseases,0,964181,0.0
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,54,Immunoproliferative diseases,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,54,Immunoproliferative diseases,0,641815,0.0
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,54,Immunoproliferative diseases,0,536567,0.0
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,54,Immunoproliferative diseases,0,456396,0.0
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,54,Immunoproliferative diseases,0,299347,0.0
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,54,Immunoproliferative diseases,0,197559,0.0
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,54,Immunoproliferative diseases,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,54,Immunoproliferative diseases,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,54,Immunoproliferative diseases,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,55,Multiple myeloma,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,55,Multiple myeloma,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,55,Multiple myeloma,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,55,Multiple myeloma,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,55,Multiple myeloma,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,55,Multiple myeloma,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,55,Multiple myeloma,3,1506026,0.1992
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,55,Multiple myeloma,6,1224909,0.4898
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,55,Multiple myeloma,7,964181,0.726
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,55,Multiple myeloma,10,760050,1.3157
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,55,Multiple myeloma,11,641815,1.7139
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,55,Multiple myeloma,13,536567,2.4228
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,55,Multiple myeloma,22,456396,4.8204
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,55,Multiple myeloma,25,299347,8.3515
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,55,Multiple myeloma,20,197559,10.1236
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,55,Multiple myeloma,11,237704,4.6276
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,55,Multiple myeloma,6,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,55,Multiple myeloma,6,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,56,Lymphoid leukaemia,27,1197333,2.255
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,56,Lymphoid leukaemia,22,1112778,1.977
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,56,Lymphoid leukaemia,12,1031264,1.1636
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,56,Lymphoid leukaemia,13,1142065,1.1383
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,56,Lymphoid leukaemia,4,1686156,0.2372
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,56,Lymphoid leukaemia,4,1790878,0.2234
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,56,Lymphoid leukaemia,10,1506026,0.664
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,56,Lymphoid leukaemia,3,1224909,0.2449
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,56,Lymphoid leukaemia,4,964181,0.4149
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,56,Lymphoid leukaemia,4,760050,0.5263
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,56,Lymphoid leukaemia,2,641815,0.3116
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,56,Lymphoid leukaemia,5,536567,0.9319
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,56,Lymphoid leukaemia,7,456396,1.5338
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,56,Lymphoid leukaemia,4,299347,1.3362
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,56,Lymphoid leukaemia,9,197559,4.5556
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,56,Lymphoid leukaemia,4,237704,1.6828
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,56,Lymphoid leukaemia,4,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,56,Lymphoid leukaemia,2,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,57,Myeloid leukaemia,3,1197333,0.2506
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,57,Myeloid leukaemia,1,1112778,0.0899
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,57,Myeloid leukaemia,5,1031264,0.4848
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,57,Myeloid leukaemia,5,1142065,0.4378
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,57,Myeloid leukaemia,9,1686156,0.5338
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,57,Myeloid leukaemia,10,1790878,0.5584
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,57,Myeloid leukaemia,9,1506026,0.5976
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,57,Myeloid leukaemia,12,1224909,0.9797
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,57,Myeloid leukaemia,12,964181,1.2446
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,57,Myeloid leukaemia,10,760050,1.3157
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,57,Myeloid leukaemia,8,641815,1.2465
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,57,Myeloid leukaemia,9,536567,1.6773
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,57,Myeloid leukaemia,12,456396,2.6293
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,57,Myeloid leukaemia,12,299347,4.0087
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,57,Myeloid leukaemia,13,197559,6.5803
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,57,Myeloid leukaemia,14,237704,5.8897
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,57,Myeloid leukaemia,8,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,57,Myeloid leukaemia,7,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,58,Leukaemia unspecified,6,1197333,0.5011
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,58,Leukaemia unspecified,3,1112778,0.2696
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,58,Leukaemia unspecified,3,1031264,0.2909
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,58,Leukaemia unspecified,6,1142065,0.5254
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,58,Leukaemia unspecified,5,1686156,0.2965
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,58,Leukaemia unspecified,2,1790878,0.1117
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,58,Leukaemia unspecified,1,1506026,0.0664
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,58,Leukaemia unspecified,1,1224909,0.0816
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,58,Leukaemia unspecified,2,964181,0.2074
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,58,Leukaemia unspecified,1,760050,0.1316
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,58,Leukaemia unspecified,3,641815,0.4674
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,58,Leukaemia unspecified,2,536567,0.3727
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,58,Leukaemia unspecified,2,456396,0.4382
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,58,Leukaemia unspecified,4,299347,1.3362
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,58,Leukaemia unspecified,3,197559,1.5185
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,58,Leukaemia unspecified,2,237704,0.8414
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,58,Leukaemia unspecified,3,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,58,Leukaemia unspecified,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,59,Myeloproliferative disorders,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,59,Myeloproliferative disorders,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,59,Myeloproliferative disorders,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,59,Myeloproliferative disorders,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,59,Myeloproliferative disorders,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,59,Myeloproliferative disorders,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,59,Myeloproliferative disorders,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,59,Myeloproliferative disorders,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,59,Myeloproliferative disorders,0,964181,0.0
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,59,Myeloproliferative disorders,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,59,Myeloproliferative disorders,0,641815,0.0
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,59,Myeloproliferative disorders,0,536567,0.0
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,59,Myeloproliferative disorders,0,456396,0.0
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,59,Myeloproliferative disorders,1,299347,0.3341
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,59,Myeloproliferative disorders,0,197559,0.0
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,59,Myeloproliferative disorders,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,59,Myeloproliferative disorders,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,59,Myeloproliferative disorders,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,60,Myelodysplastic syndromes,0,1197333,0.0
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,60,Myelodysplastic syndromes,0,1112778,0.0
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,60,Myelodysplastic syndromes,0,1031264,0.0
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,60,Myelodysplastic syndromes,0,1142065,0.0
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,60,Myelodysplastic syndromes,0,1686156,0.0
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,60,Myelodysplastic syndromes,0,1790878,0.0
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,60,Myelodysplastic syndromes,0,1506026,0.0
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,60,Myelodysplastic syndromes,0,1224909,0.0
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,60,Myelodysplastic syndromes,0,964181,0.0
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,60,Myelodysplastic syndromes,0,760050,0.0
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,60,Myelodysplastic syndromes,0,641815,0.0
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,60,Myelodysplastic syndromes,0,536567,0.0
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,60,Myelodysplastic syndromes,0,456396,0.0
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,60,Myelodysplastic syndromes,0,299347,0.0
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,60,Myelodysplastic syndromes,0,197559,0.0
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,60,Myelodysplastic syndromes,0,237704,0.0
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,60,Myelodysplastic syndromes,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,60,Myelodysplastic syndromes,0,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,61,Other and unspecified,4,1197333,0.3341
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,61,Other and unspecified,1,1112778,0.0899
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,61,Other and unspecified,2,1031264,0.1939
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,61,Other and unspecified,1,1142065,0.0876
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,61,Other and unspecified,4,1686156,0.2372
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,61,Other and unspecified,3,1790878,0.1675
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,61,Other and unspecified,11,1506026,0.7304
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,61,Other and unspecified,20,1224909,1.6328
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,61,Other and unspecified,20,964181,2.0743
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,61,Other and unspecified,31,760050,4.0787
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,61,Other and unspecified,36,641815,5.6091
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,61,Other and unspecified,72,536567,13.4186
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,61,Other and unspecified,55,456396,12.0509
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,61,Other and unspecified,75,299347,25.0545
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,61,Other and unspecified,38,197559,19.2348
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,61,Other and unspecified,38,237704,15.9863
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,61,Other and unspecified,22,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,61,Other and unspecified,21,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,62,All sites,76,1197333,6.3474
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,62,All sites,73,1112778,6.5602
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,62,All sites,72,1031264,6.9817
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,62,All sites,98,1142065,8.5809
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,62,All sites,107,1686156,6.3458
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,62,All sites,175,1790878,9.7717
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,62,All sites,288,1506026,19.1232
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,62,All sites,432,1224909,35.2679
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,62,All sites,536,964181,55.5912
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,62,All sites,679,760050,89.3362
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,62,All sites,856,641815,133.3718
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,62,All sites,1128,536567,210.2254
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,62,All sites,1438,456396,315.0773
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,62,All sites,1505,299347,502.761
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,62,All sites,1177,197559,595.7714
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,62,All sites,843,237704,354.6427
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,62,All sites,540,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,62,All sites,372,0,
+XII,2013-2017,2015,Pune (Poona),Male,0-4,1,63,All sites but skin,76,1197333,6.3474
+XII,2013-2017,2015,Pune (Poona),Male,5-9,2,63,All sites but skin,73,1112778,6.5602
+XII,2013-2017,2015,Pune (Poona),Male,10-14,3,63,All sites but skin,71,1031264,6.8848
+XII,2013-2017,2015,Pune (Poona),Male,15-19,4,63,All sites but skin,98,1142065,8.5809
+XII,2013-2017,2015,Pune (Poona),Male,20-24,5,63,All sites but skin,107,1686156,6.3458
+XII,2013-2017,2015,Pune (Poona),Male,25-29,6,63,All sites but skin,173,1790878,9.6601
+XII,2013-2017,2015,Pune (Poona),Male,30-34,7,63,All sites but skin,287,1506026,19.0568
+XII,2013-2017,2015,Pune (Poona),Male,35-39,8,63,All sites but skin,431,1224909,35.1863
+XII,2013-2017,2015,Pune (Poona),Male,40-44,9,63,All sites but skin,534,964181,55.3838
+XII,2013-2017,2015,Pune (Poona),Male,45-49,10,63,All sites but skin,671,760050,88.2837
+XII,2013-2017,2015,Pune (Poona),Male,50-54,11,63,All sites but skin,848,641815,132.1253
+XII,2013-2017,2015,Pune (Poona),Male,55-59,12,63,All sites but skin,1118,536567,208.3617
+XII,2013-2017,2015,Pune (Poona),Male,60-64,13,63,All sites but skin,1430,456396,313.3244
+XII,2013-2017,2015,Pune (Poona),Male,65-69,14,63,All sites but skin,1494,299347,499.0863
+XII,2013-2017,2015,Pune (Poona),Male,70-74,15,63,All sites but skin,1172,197559,593.2405
+XII,2013-2017,2015,Pune (Poona),Male,75-79,16,63,All sites but skin,838,237704,352.5393
+XII,2013-2017,2015,Pune (Poona),Male,80-84,17,63,All sites but skin,537,0,
+XII,2013-2017,2015,Pune (Poona),Male,85+,18,63,All sites but skin,364,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,1,Lip,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,1,Lip,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,1,Lip,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,1,Lip,1,996311,0.1004
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,1,Lip,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,1,Lip,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,1,Lip,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,1,Lip,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,1,Lip,2,877902,0.2278
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,1,Lip,1,736162,0.1358
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,1,Lip,3,610618,0.4913
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,1,Lip,0,513842,0.0
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,1,Lip,2,439699,0.4549
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,1,Lip,4,273122,1.4645
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,1,Lip,2,193940,1.0312
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,1,Lip,1,261372,0.3826
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,1,Lip,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,1,Lip,2,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,2,Tongue,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,2,Tongue,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,2,Tongue,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,2,Tongue,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,2,Tongue,2,1541215,0.1298
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,2,Tongue,1,1650504,0.0606
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,2,Tongue,7,1297818,0.5394
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,2,Tongue,10,1062421,0.9412
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,2,Tongue,18,877902,2.0503
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,2,Tongue,27,736162,3.6677
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,2,Tongue,43,610618,7.042
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,2,Tongue,27,513842,5.2545
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,2,Tongue,24,439699,5.4583
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,2,Tongue,28,273122,10.2518
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,2,Tongue,16,193940,8.25
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,2,Tongue,12,261372,4.5912
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,2,Tongue,9,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,2,Tongue,4,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,3,Mouth,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,3,Mouth,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,3,Mouth,2,907697,0.2203
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,3,Mouth,1,996311,0.1004
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,3,Mouth,1,1541215,0.0649
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,3,Mouth,7,1650504,0.4241
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,3,Mouth,11,1297818,0.8476
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,3,Mouth,12,1062421,1.1295
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,3,Mouth,24,877902,2.7338
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,3,Mouth,38,736162,5.1619
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,3,Mouth,44,610618,7.2058
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,3,Mouth,55,513842,10.7037
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,3,Mouth,63,439699,14.328
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,3,Mouth,54,273122,19.7714
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,3,Mouth,43,193940,22.1718
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,3,Mouth,19,261372,7.2693
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,3,Mouth,9,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,3,Mouth,13,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,4,Salivary glands,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,4,Salivary glands,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,4,Salivary glands,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,4,Salivary glands,1,996311,0.1004
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,4,Salivary glands,1,1541215,0.0649
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,4,Salivary glands,2,1650504,0.1212
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,4,Salivary glands,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,4,Salivary glands,3,1062421,0.2824
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,4,Salivary glands,4,877902,0.4556
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,4,Salivary glands,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,4,Salivary glands,4,610618,0.6551
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,4,Salivary glands,3,513842,0.5838
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,4,Salivary glands,6,439699,1.3646
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,4,Salivary glands,7,273122,2.563
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,4,Salivary glands,2,193940,1.0312
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,4,Salivary glands,3,261372,1.1478
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,4,Salivary glands,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,4,Salivary glands,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,5,Tonsil,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,5,Tonsil,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,5,Tonsil,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,5,Tonsil,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,5,Tonsil,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,5,Tonsil,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,5,Tonsil,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,5,Tonsil,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,5,Tonsil,0,877902,0.0
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,5,Tonsil,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,5,Tonsil,0,610618,0.0
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,5,Tonsil,1,513842,0.1946
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,5,Tonsil,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,5,Tonsil,1,273122,0.3661
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,5,Tonsil,0,193940,0.0
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,5,Tonsil,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,5,Tonsil,1,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,5,Tonsil,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,6,Other oropharynx,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,6,Other oropharynx,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,6,Other oropharynx,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,6,Other oropharynx,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,6,Other oropharynx,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,6,Other oropharynx,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,6,Other oropharynx,1,1297818,0.0771
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,6,Other oropharynx,2,1062421,0.1882
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,6,Other oropharynx,1,877902,0.1139
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,6,Other oropharynx,3,736162,0.4075
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,6,Other oropharynx,6,610618,0.9826
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,6,Other oropharynx,4,513842,0.7784
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,6,Other oropharynx,4,439699,0.9097
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,6,Other oropharynx,1,273122,0.3661
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,6,Other oropharynx,3,193940,1.5469
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,6,Other oropharynx,5,261372,1.913
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,6,Other oropharynx,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,6,Other oropharynx,2,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,7,Nasopharynx,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,7,Nasopharynx,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,7,Nasopharynx,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,7,Nasopharynx,1,996311,0.1004
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,7,Nasopharynx,1,1541215,0.0649
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,7,Nasopharynx,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,7,Nasopharynx,1,1297818,0.0771
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,7,Nasopharynx,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,7,Nasopharynx,3,877902,0.3417
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,7,Nasopharynx,4,736162,0.5434
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,7,Nasopharynx,1,610618,0.1638
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,7,Nasopharynx,4,513842,0.7784
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,7,Nasopharynx,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,7,Nasopharynx,4,273122,1.4645
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,7,Nasopharynx,4,193940,2.0625
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,7,Nasopharynx,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,7,Nasopharynx,1,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,7,Nasopharynx,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,8,Hypopharynx,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,8,Hypopharynx,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,8,Hypopharynx,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,8,Hypopharynx,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,8,Hypopharynx,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,8,Hypopharynx,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,8,Hypopharynx,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,8,Hypopharynx,2,1062421,0.1882
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,8,Hypopharynx,5,877902,0.5695
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,8,Hypopharynx,9,736162,1.2226
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,8,Hypopharynx,12,610618,1.9652
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,8,Hypopharynx,13,513842,2.53
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,8,Hypopharynx,8,439699,1.8194
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,8,Hypopharynx,6,273122,2.1968
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,8,Hypopharynx,2,193940,1.0312
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,8,Hypopharynx,3,261372,1.1478
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,8,Hypopharynx,3,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,8,Hypopharynx,1,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,9,Pharynx unspecified,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,9,Pharynx unspecified,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,9,Pharynx unspecified,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,9,Pharynx unspecified,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,9,Pharynx unspecified,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,9,Pharynx unspecified,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,9,Pharynx unspecified,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,9,Pharynx unspecified,1,1062421,0.0941
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,9,Pharynx unspecified,0,877902,0.0
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,9,Pharynx unspecified,1,736162,0.1358
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,9,Pharynx unspecified,4,610618,0.6551
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,9,Pharynx unspecified,3,513842,0.5838
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,9,Pharynx unspecified,1,439699,0.2274
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,9,Pharynx unspecified,0,273122,0.0
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,9,Pharynx unspecified,0,193940,0.0
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,9,Pharynx unspecified,1,261372,0.3826
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,9,Pharynx unspecified,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,9,Pharynx unspecified,1,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,10,Oesophagus,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,10,Oesophagus,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,10,Oesophagus,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,10,Oesophagus,2,996311,0.2007
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,10,Oesophagus,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,10,Oesophagus,1,1650504,0.0606
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,10,Oesophagus,7,1297818,0.5394
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,10,Oesophagus,11,1062421,1.0354
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,10,Oesophagus,16,877902,1.8225
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,10,Oesophagus,30,736162,4.0752
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,10,Oesophagus,32,610618,5.2406
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,10,Oesophagus,34,513842,6.6168
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,10,Oesophagus,54,439699,12.2811
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,10,Oesophagus,51,273122,18.673
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,10,Oesophagus,24,193940,12.375
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,10,Oesophagus,31,261372,11.8605
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,10,Oesophagus,21,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,10,Oesophagus,19,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,11,Stomach,1,1074305,0.0931
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,11,Stomach,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,11,Stomach,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,11,Stomach,2,996311,0.2007
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,11,Stomach,1,1541215,0.0649
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,11,Stomach,5,1650504,0.3029
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,11,Stomach,5,1297818,0.3853
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,11,Stomach,8,1062421,0.753
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,11,Stomach,8,877902,0.9113
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,11,Stomach,15,736162,2.0376
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,11,Stomach,22,610618,3.6029
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,11,Stomach,18,513842,3.503
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,11,Stomach,33,439699,7.5051
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,11,Stomach,27,273122,9.8857
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,11,Stomach,17,193940,8.7656
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,11,Stomach,20,261372,7.6519
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,11,Stomach,13,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,11,Stomach,7,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,12,Small intestine,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,12,Small intestine,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,12,Small intestine,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,12,Small intestine,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,12,Small intestine,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,12,Small intestine,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,12,Small intestine,1,1297818,0.0771
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,12,Small intestine,1,1062421,0.0941
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,12,Small intestine,1,877902,0.1139
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,12,Small intestine,2,736162,0.2717
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,12,Small intestine,1,610618,0.1638
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,12,Small intestine,1,513842,0.1946
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,12,Small intestine,2,439699,0.4549
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,12,Small intestine,2,273122,0.7323
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,12,Small intestine,1,193940,0.5156
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,12,Small intestine,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,12,Small intestine,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,12,Small intestine,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,13,Colon,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,13,Colon,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,13,Colon,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,13,Colon,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,13,Colon,3,1541215,0.1947
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,13,Colon,5,1650504,0.3029
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,13,Colon,5,1297818,0.3853
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,13,Colon,12,1062421,1.1295
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,13,Colon,12,877902,1.3669
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,13,Colon,23,736162,3.1243
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,13,Colon,21,610618,3.4391
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,13,Colon,32,513842,6.2276
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,13,Colon,55,439699,12.5086
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,13,Colon,50,273122,18.3068
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,13,Colon,42,193940,21.6562
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,13,Colon,21,261372,8.0345
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,13,Colon,28,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,13,Colon,23,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,14,Rectum,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,14,Rectum,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,14,Rectum,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,14,Rectum,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,14,Rectum,4,1541215,0.2595
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,14,Rectum,9,1650504,0.5453
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,14,Rectum,8,1297818,0.6164
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,14,Rectum,16,1062421,1.506
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,14,Rectum,19,877902,2.1643
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,14,Rectum,25,736162,3.396
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,14,Rectum,25,610618,4.0942
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,14,Rectum,27,513842,5.2545
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,14,Rectum,38,439699,8.6423
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,14,Rectum,44,273122,16.11
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,14,Rectum,35,193940,18.0468
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,14,Rectum,16,261372,6.1215
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,14,Rectum,9,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,14,Rectum,7,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,15,Anus,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,15,Anus,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,15,Anus,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,15,Anus,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,15,Anus,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,15,Anus,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,15,Anus,1,1297818,0.0771
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,15,Anus,1,1062421,0.0941
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,15,Anus,1,877902,0.1139
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,15,Anus,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,15,Anus,4,610618,0.6551
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,15,Anus,3,513842,0.5838
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,15,Anus,3,439699,0.6823
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,15,Anus,4,273122,1.4645
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,15,Anus,1,193940,0.5156
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,15,Anus,2,261372,0.7652
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,15,Anus,3,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,15,Anus,1,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,16,Liver,3,1074305,0.2793
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,16,Liver,1,963313,0.1038
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,16,Liver,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,16,Liver,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,16,Liver,1,1541215,0.0649
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,16,Liver,1,1650504,0.0606
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,16,Liver,1,1297818,0.0771
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,16,Liver,3,1062421,0.2824
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,16,Liver,6,877902,0.6834
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,16,Liver,11,736162,1.4942
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,16,Liver,15,610618,2.4565
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,16,Liver,29,513842,5.6438
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,16,Liver,27,439699,6.1406
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,16,Liver,29,273122,10.618
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,16,Liver,22,193940,11.3437
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,16,Liver,18,261372,6.8867
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,16,Liver,10,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,16,Liver,7,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,17,Gallbladder etc.,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,17,Gallbladder etc.,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,17,Gallbladder etc.,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,17,Gallbladder etc.,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,17,Gallbladder etc.,1,1541215,0.0649
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,17,Gallbladder etc.,1,1650504,0.0606
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,17,Gallbladder etc.,6,1297818,0.4623
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,17,Gallbladder etc.,1,1062421,0.0941
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,17,Gallbladder etc.,9,877902,1.0252
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,17,Gallbladder etc.,12,736162,1.6301
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,17,Gallbladder etc.,16,610618,2.6203
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,17,Gallbladder etc.,20,513842,3.8922
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,17,Gallbladder etc.,28,439699,6.368
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,17,Gallbladder etc.,40,273122,14.6455
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,17,Gallbladder etc.,21,193940,10.8281
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,17,Gallbladder etc.,17,261372,6.5041
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,17,Gallbladder etc.,5,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,17,Gallbladder etc.,9,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,18,Pancreas,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,18,Pancreas,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,18,Pancreas,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,18,Pancreas,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,18,Pancreas,2,1541215,0.1298
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,18,Pancreas,2,1650504,0.1212
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,18,Pancreas,4,1297818,0.3082
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,18,Pancreas,4,1062421,0.3765
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,18,Pancreas,10,877902,1.1391
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,18,Pancreas,10,736162,1.3584
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,18,Pancreas,17,610618,2.7841
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,18,Pancreas,18,513842,3.503
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,18,Pancreas,24,439699,5.4583
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,18,Pancreas,26,273122,9.5196
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,18,Pancreas,18,193940,9.2812
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,18,Pancreas,14,261372,5.3564
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,18,Pancreas,5,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,18,Pancreas,10,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,19,"Nose, sinuses etc.",0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,19,"Nose, sinuses etc.",0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,19,"Nose, sinuses etc.",0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,19,"Nose, sinuses etc.",0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,19,"Nose, sinuses etc.",0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,19,"Nose, sinuses etc.",1,1650504,0.0606
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,19,"Nose, sinuses etc.",5,1297818,0.3853
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,19,"Nose, sinuses etc.",1,1062421,0.0941
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,19,"Nose, sinuses etc.",3,877902,0.3417
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,19,"Nose, sinuses etc.",3,736162,0.4075
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,19,"Nose, sinuses etc.",6,610618,0.9826
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,19,"Nose, sinuses etc.",6,513842,1.1677
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,19,"Nose, sinuses etc.",6,439699,1.3646
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,19,"Nose, sinuses etc.",2,273122,0.7323
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,19,"Nose, sinuses etc.",6,193940,3.0937
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,19,"Nose, sinuses etc.",1,261372,0.3826
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,19,"Nose, sinuses etc.",3,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,19,"Nose, sinuses etc.",0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,20,Larynx,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,20,Larynx,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,20,Larynx,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,20,Larynx,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,20,Larynx,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,20,Larynx,4,1650504,0.2424
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,20,Larynx,2,1297818,0.1541
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,20,Larynx,1,1062421,0.0941
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,20,Larynx,2,877902,0.2278
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,20,Larynx,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,20,Larynx,5,610618,0.8188
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,20,Larynx,5,513842,0.9731
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,20,Larynx,11,439699,2.5017
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,20,Larynx,11,273122,4.0275
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,20,Larynx,6,193940,3.0937
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,20,Larynx,3,261372,1.1478
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,20,Larynx,3,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,20,Larynx,2,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,21,Lung (incl. trachea and bronchus),0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,21,Lung (incl. trachea and bronchus),0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,21,Lung (incl. trachea and bronchus),0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,21,Lung (incl. trachea and bronchus),0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,21,Lung (incl. trachea and bronchus),2,1541215,0.1298
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,21,Lung (incl. trachea and bronchus),8,1650504,0.4847
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,21,Lung (incl. trachea and bronchus),8,1297818,0.6164
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,21,Lung (incl. trachea and bronchus),21,1062421,1.9766
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,21,Lung (incl. trachea and bronchus),24,877902,2.7338
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,21,Lung (incl. trachea and bronchus),40,736162,5.4336
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,21,Lung (incl. trachea and bronchus),43,610618,7.042
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,21,Lung (incl. trachea and bronchus),49,513842,9.536
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,21,Lung (incl. trachea and bronchus),82,439699,18.6491
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,21,Lung (incl. trachea and bronchus),88,273122,32.22
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,21,Lung (incl. trachea and bronchus),46,193940,23.7187
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,21,Lung (incl. trachea and bronchus),29,261372,11.0953
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,21,Lung (incl. trachea and bronchus),19,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,21,Lung (incl. trachea and bronchus),17,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,22,Other thoracic organs,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,22,Other thoracic organs,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,22,Other thoracic organs,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,22,Other thoracic organs,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,22,Other thoracic organs,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,22,Other thoracic organs,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,22,Other thoracic organs,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,22,Other thoracic organs,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,22,Other thoracic organs,0,877902,0.0
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,22,Other thoracic organs,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,22,Other thoracic organs,1,610618,0.1638
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,22,Other thoracic organs,1,513842,0.1946
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,22,Other thoracic organs,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,22,Other thoracic organs,1,273122,0.3661
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,22,Other thoracic organs,0,193940,0.0
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,22,Other thoracic organs,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,22,Other thoracic organs,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,22,Other thoracic organs,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,23,Bone,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,23,Bone,4,963313,0.4152
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,23,Bone,11,907697,1.2119
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,23,Bone,11,996311,1.1041
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,23,Bone,12,1541215,0.7786
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,23,Bone,6,1650504,0.3635
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,23,Bone,6,1297818,0.4623
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,23,Bone,7,1062421,0.6589
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,23,Bone,2,877902,0.2278
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,23,Bone,6,736162,0.815
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,23,Bone,7,610618,1.1464
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,23,Bone,3,513842,0.5838
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,23,Bone,4,439699,0.9097
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,23,Bone,6,273122,2.1968
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,23,Bone,1,193940,0.5156
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,23,Bone,6,261372,2.2956
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,23,Bone,4,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,23,Bone,2,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,24,Melanoma of skin,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,24,Melanoma of skin,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,24,Melanoma of skin,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,24,Melanoma of skin,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,24,Melanoma of skin,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,24,Melanoma of skin,1,1650504,0.0606
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,24,Melanoma of skin,1,1297818,0.0771
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,24,Melanoma of skin,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,24,Melanoma of skin,0,877902,0.0
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,24,Melanoma of skin,1,736162,0.1358
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,24,Melanoma of skin,3,610618,0.4913
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,24,Melanoma of skin,1,513842,0.1946
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,24,Melanoma of skin,2,439699,0.4549
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,24,Melanoma of skin,0,273122,0.0
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,24,Melanoma of skin,2,193940,1.0312
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,24,Melanoma of skin,2,261372,0.7652
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,24,Melanoma of skin,2,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,24,Melanoma of skin,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,25,Other skin,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,25,Other skin,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,25,Other skin,1,907697,0.1102
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,25,Other skin,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,25,Other skin,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,25,Other skin,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,25,Other skin,1,1297818,0.0771
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,25,Other skin,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,25,Other skin,5,877902,0.5695
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,25,Other skin,7,736162,0.9509
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,25,Other skin,5,610618,0.8188
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,25,Other skin,7,513842,1.3623
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,25,Other skin,12,439699,2.7291
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,25,Other skin,8,273122,2.9291
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,25,Other skin,9,193940,4.6406
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,25,Other skin,7,261372,2.6782
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,25,Other skin,2,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,25,Other skin,7,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,26,Mesothelioma,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,26,Mesothelioma,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,26,Mesothelioma,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,26,Mesothelioma,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,26,Mesothelioma,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,26,Mesothelioma,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,26,Mesothelioma,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,26,Mesothelioma,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,26,Mesothelioma,0,877902,0.0
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,26,Mesothelioma,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,26,Mesothelioma,0,610618,0.0
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,26,Mesothelioma,0,513842,0.0
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,26,Mesothelioma,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,26,Mesothelioma,0,273122,0.0
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,26,Mesothelioma,1,193940,0.5156
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,26,Mesothelioma,1,261372,0.3826
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,26,Mesothelioma,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,26,Mesothelioma,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,27,Kaposi sarcoma,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,27,Kaposi sarcoma,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,27,Kaposi sarcoma,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,27,Kaposi sarcoma,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,27,Kaposi sarcoma,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,27,Kaposi sarcoma,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,27,Kaposi sarcoma,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,27,Kaposi sarcoma,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,27,Kaposi sarcoma,0,877902,0.0
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,27,Kaposi sarcoma,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,27,Kaposi sarcoma,0,610618,0.0
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,27,Kaposi sarcoma,0,513842,0.0
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,27,Kaposi sarcoma,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,27,Kaposi sarcoma,0,273122,0.0
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,27,Kaposi sarcoma,0,193940,0.0
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,27,Kaposi sarcoma,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,27,Kaposi sarcoma,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,27,Kaposi sarcoma,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,28,Connective and soft tissue,9,1074305,0.8378
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,28,Connective and soft tissue,1,963313,0.1038
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,28,Connective and soft tissue,2,907697,0.2203
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,28,Connective and soft tissue,1,996311,0.1004
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,28,Connective and soft tissue,3,1541215,0.1947
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,28,Connective and soft tissue,5,1650504,0.3029
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,28,Connective and soft tissue,9,1297818,0.6935
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,28,Connective and soft tissue,7,1062421,0.6589
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,28,Connective and soft tissue,13,877902,1.4808
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,28,Connective and soft tissue,15,736162,2.0376
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,28,Connective and soft tissue,16,610618,2.6203
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,28,Connective and soft tissue,11,513842,2.1407
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,28,Connective and soft tissue,14,439699,3.184
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,28,Connective and soft tissue,6,273122,2.1968
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,28,Connective and soft tissue,9,193940,4.6406
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,28,Connective and soft tissue,5,261372,1.913
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,28,Connective and soft tissue,3,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,28,Connective and soft tissue,2,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,29,Breast,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,29,Breast,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,29,Breast,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,29,Breast,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,29,Breast,18,1541215,1.1679
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,29,Breast,53,1650504,3.2111
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,29,Breast,130,1297818,10.0168
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,29,Breast,255,1062421,24.0018
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,29,Breast,377,877902,42.9433
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,29,Breast,507,736162,68.8707
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,29,Breast,490,610618,80.2466
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,29,Breast,492,513842,95.7493
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,29,Breast,503,439699,114.3964
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,29,Breast,427,273122,156.3404
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,29,Breast,267,193940,137.6714
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,29,Breast,161,261372,61.598
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,29,Breast,89,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,29,Breast,104,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,30,Vulva,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,30,Vulva,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,30,Vulva,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,30,Vulva,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,30,Vulva,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,30,Vulva,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,30,Vulva,1,1297818,0.0771
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,30,Vulva,1,1062421,0.0941
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,30,Vulva,4,877902,0.4556
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,30,Vulva,2,736162,0.2717
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,30,Vulva,2,610618,0.3275
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,30,Vulva,4,513842,0.7784
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,30,Vulva,6,439699,1.3646
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,30,Vulva,3,273122,1.0984
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,30,Vulva,5,193940,2.5781
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,30,Vulva,3,261372,1.1478
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,30,Vulva,5,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,30,Vulva,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,31,Vagina,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,31,Vagina,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,31,Vagina,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,31,Vagina,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,31,Vagina,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,31,Vagina,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,31,Vagina,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,31,Vagina,2,1062421,0.1882
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,31,Vagina,4,877902,0.4556
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,31,Vagina,6,736162,0.815
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,31,Vagina,5,610618,0.8188
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,31,Vagina,8,513842,1.5569
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,31,Vagina,10,439699,2.2743
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,31,Vagina,7,273122,2.563
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,31,Vagina,5,193940,2.5781
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,31,Vagina,2,261372,0.7652
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,31,Vagina,4,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,31,Vagina,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,32,Cervix uteri,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,32,Cervix uteri,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,32,Cervix uteri,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,32,Cervix uteri,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,32,Cervix uteri,2,1541215,0.1298
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,32,Cervix uteri,7,1650504,0.4241
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,32,Cervix uteri,13,1297818,1.0017
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,32,Cervix uteri,45,1062421,4.2356
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,32,Cervix uteri,117,877902,13.3272
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,32,Cervix uteri,179,736162,24.3153
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,32,Cervix uteri,171,610618,28.0044
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,32,Cervix uteri,151,513842,29.3865
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,32,Cervix uteri,204,439699,46.3954
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,32,Cervix uteri,142,273122,51.9914
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,32,Cervix uteri,74,193940,38.1561
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,32,Cervix uteri,39,261372,14.9213
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,32,Cervix uteri,23,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,32,Cervix uteri,31,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,33,Corpus uteri,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,33,Corpus uteri,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,33,Corpus uteri,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,33,Corpus uteri,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,33,Corpus uteri,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,33,Corpus uteri,1,1650504,0.0606
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,33,Corpus uteri,3,1297818,0.2312
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,33,Corpus uteri,14,1062421,1.3177
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,33,Corpus uteri,19,877902,2.1643
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,33,Corpus uteri,38,736162,5.1619
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,33,Corpus uteri,69,610618,11.3
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,33,Corpus uteri,86,513842,16.7367
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,33,Corpus uteri,93,439699,21.1508
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,33,Corpus uteri,82,273122,30.0232
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,33,Corpus uteri,49,193940,25.2655
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,33,Corpus uteri,30,261372,11.4779
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,33,Corpus uteri,10,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,33,Corpus uteri,5,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,34,Uterus unspecified,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,34,Uterus unspecified,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,34,Uterus unspecified,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,34,Uterus unspecified,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,34,Uterus unspecified,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,34,Uterus unspecified,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,34,Uterus unspecified,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,34,Uterus unspecified,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,34,Uterus unspecified,2,877902,0.2278
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,34,Uterus unspecified,8,736162,1.0867
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,34,Uterus unspecified,1,610618,0.1638
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,34,Uterus unspecified,3,513842,0.5838
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,34,Uterus unspecified,7,439699,1.592
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,34,Uterus unspecified,9,273122,3.2952
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,34,Uterus unspecified,1,193940,0.5156
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,34,Uterus unspecified,1,261372,0.3826
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,34,Uterus unspecified,4,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,34,Uterus unspecified,2,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,35,Ovary,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,35,Ovary,1,963313,0.1038
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,35,Ovary,3,907697,0.3305
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,35,Ovary,4,996311,0.4015
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,35,Ovary,4,1541215,0.2595
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,35,Ovary,11,1650504,0.6665
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,35,Ovary,14,1297818,1.0787
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,35,Ovary,35,1062421,3.2944
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,35,Ovary,63,877902,7.1762
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,35,Ovary,92,736162,12.4972
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,35,Ovary,112,610618,18.3421
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,35,Ovary,104,513842,20.2397
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,35,Ovary,108,439699,24.5623
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,35,Ovary,96,273122,35.1491
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,35,Ovary,72,193940,37.1249
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,35,Ovary,40,261372,15.3039
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,35,Ovary,18,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,35,Ovary,11,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,36,Other female genital organs,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,36,Other female genital organs,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,36,Other female genital organs,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,36,Other female genital organs,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,36,Other female genital organs,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,36,Other female genital organs,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,36,Other female genital organs,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,36,Other female genital organs,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,36,Other female genital organs,0,877902,0.0
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,36,Other female genital organs,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,36,Other female genital organs,0,610618,0.0
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,36,Other female genital organs,0,513842,0.0
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,36,Other female genital organs,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,36,Other female genital organs,0,273122,0.0
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,36,Other female genital organs,0,193940,0.0
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,36,Other female genital organs,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,36,Other female genital organs,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,36,Other female genital organs,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,37,Placenta,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,37,Placenta,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,37,Placenta,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,37,Placenta,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,37,Placenta,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,37,Placenta,1,1650504,0.0606
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,37,Placenta,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,37,Placenta,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,37,Placenta,0,877902,0.0
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,37,Placenta,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,37,Placenta,0,610618,0.0
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,37,Placenta,0,513842,0.0
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,37,Placenta,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,37,Placenta,0,273122,0.0
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,37,Placenta,0,193940,0.0
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,37,Placenta,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,37,Placenta,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,37,Placenta,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,38,Penis,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,38,Penis,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,38,Penis,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,38,Penis,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,38,Penis,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,38,Penis,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,38,Penis,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,38,Penis,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,38,Penis,0,877902,0.0
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,38,Penis,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,38,Penis,0,610618,0.0
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,38,Penis,0,513842,0.0
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,38,Penis,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,38,Penis,0,273122,0.0
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,38,Penis,0,193940,0.0
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,38,Penis,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,38,Penis,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,38,Penis,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,39,Prostate,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,39,Prostate,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,39,Prostate,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,39,Prostate,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,39,Prostate,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,39,Prostate,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,39,Prostate,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,39,Prostate,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,39,Prostate,0,877902,0.0
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,39,Prostate,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,39,Prostate,0,610618,0.0
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,39,Prostate,0,513842,0.0
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,39,Prostate,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,39,Prostate,0,273122,0.0
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,39,Prostate,0,193940,0.0
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,39,Prostate,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,39,Prostate,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,39,Prostate,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,40,Testis,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,40,Testis,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,40,Testis,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,40,Testis,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,40,Testis,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,40,Testis,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,40,Testis,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,40,Testis,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,40,Testis,0,877902,0.0
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,40,Testis,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,40,Testis,0,610618,0.0
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,40,Testis,0,513842,0.0
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,40,Testis,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,40,Testis,0,273122,0.0
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,40,Testis,0,193940,0.0
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,40,Testis,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,40,Testis,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,40,Testis,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,41,Other male genital organs,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,41,Other male genital organs,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,41,Other male genital organs,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,41,Other male genital organs,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,41,Other male genital organs,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,41,Other male genital organs,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,41,Other male genital organs,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,41,Other male genital organs,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,41,Other male genital organs,0,877902,0.0
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,41,Other male genital organs,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,41,Other male genital organs,0,610618,0.0
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,41,Other male genital organs,0,513842,0.0
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,41,Other male genital organs,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,41,Other male genital organs,0,273122,0.0
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,41,Other male genital organs,0,193940,0.0
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,41,Other male genital organs,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,41,Other male genital organs,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,41,Other male genital organs,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,42,Kidney,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,42,Kidney,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,42,Kidney,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,42,Kidney,1,996311,0.1004
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,42,Kidney,1,1541215,0.0649
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,42,Kidney,2,1650504,0.1212
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,42,Kidney,3,1297818,0.2312
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,42,Kidney,8,1062421,0.753
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,42,Kidney,7,877902,0.7974
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,42,Kidney,8,736162,1.0867
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,42,Kidney,12,610618,1.9652
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,42,Kidney,20,513842,3.8922
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,42,Kidney,24,439699,5.4583
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,42,Kidney,13,273122,4.7598
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,42,Kidney,11,193940,5.6719
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,42,Kidney,3,261372,1.1478
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,42,Kidney,3,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,42,Kidney,2,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,43,Renal pelvis,1,1074305,0.0931
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,43,Renal pelvis,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,43,Renal pelvis,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,43,Renal pelvis,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,43,Renal pelvis,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,43,Renal pelvis,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,43,Renal pelvis,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,43,Renal pelvis,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,43,Renal pelvis,0,877902,0.0
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,43,Renal pelvis,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,43,Renal pelvis,0,610618,0.0
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,43,Renal pelvis,0,513842,0.0
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,43,Renal pelvis,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,43,Renal pelvis,0,273122,0.0
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,43,Renal pelvis,0,193940,0.0
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,43,Renal pelvis,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,43,Renal pelvis,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,43,Renal pelvis,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,44,Ureter,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,44,Ureter,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,44,Ureter,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,44,Ureter,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,44,Ureter,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,44,Ureter,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,44,Ureter,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,44,Ureter,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,44,Ureter,0,877902,0.0
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,44,Ureter,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,44,Ureter,0,610618,0.0
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,44,Ureter,0,513842,0.0
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,44,Ureter,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,44,Ureter,0,273122,0.0
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,44,Ureter,0,193940,0.0
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,44,Ureter,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,44,Ureter,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,44,Ureter,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,45,Bladder,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,45,Bladder,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,45,Bladder,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,45,Bladder,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,45,Bladder,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,45,Bladder,3,1650504,0.1818
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,45,Bladder,3,1297818,0.2312
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,45,Bladder,4,1062421,0.3765
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,45,Bladder,4,877902,0.4556
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,45,Bladder,7,736162,0.9509
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,45,Bladder,8,610618,1.3101
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,45,Bladder,11,513842,2.1407
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,45,Bladder,24,439699,5.4583
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,45,Bladder,16,273122,5.8582
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,45,Bladder,10,193940,5.1562
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,45,Bladder,13,261372,4.9738
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,45,Bladder,6,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,45,Bladder,8,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,46,Other urinary organs,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,46,Other urinary organs,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,46,Other urinary organs,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,46,Other urinary organs,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,46,Other urinary organs,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,46,Other urinary organs,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,46,Other urinary organs,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,46,Other urinary organs,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,46,Other urinary organs,1,877902,0.1139
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,46,Other urinary organs,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,46,Other urinary organs,0,610618,0.0
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,46,Other urinary organs,1,513842,0.1946
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,46,Other urinary organs,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,46,Other urinary organs,0,273122,0.0
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,46,Other urinary organs,0,193940,0.0
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,46,Other urinary organs,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,46,Other urinary organs,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,46,Other urinary organs,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,47,Eye,2,1074305,0.1862
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,47,Eye,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,47,Eye,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,47,Eye,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,47,Eye,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,47,Eye,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,47,Eye,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,47,Eye,1,1062421,0.0941
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,47,Eye,0,877902,0.0
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,47,Eye,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,47,Eye,1,610618,0.1638
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,47,Eye,1,513842,0.1946
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,47,Eye,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,47,Eye,0,273122,0.0
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,47,Eye,0,193940,0.0
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,47,Eye,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,47,Eye,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,47,Eye,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,48,"Brain, nervous system",12,1074305,1.117
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,48,"Brain, nervous system",16,963313,1.6609
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,48,"Brain, nervous system",10,907697,1.1017
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,48,"Brain, nervous system",9,996311,0.9033
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,48,"Brain, nervous system",7,1541215,0.4542
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,48,"Brain, nervous system",9,1650504,0.5453
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,48,"Brain, nervous system",22,1297818,1.6952
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,48,"Brain, nervous system",21,1062421,1.9766
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,48,"Brain, nervous system",12,877902,1.3669
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,48,"Brain, nervous system",26,736162,3.5318
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,48,"Brain, nervous system",25,610618,4.0942
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,48,"Brain, nervous system",18,513842,3.503
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,48,"Brain, nervous system",26,439699,5.9131
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,48,"Brain, nervous system",21,273122,7.6889
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,48,"Brain, nervous system",14,193940,7.2187
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,48,"Brain, nervous system",4,261372,1.5304
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,48,"Brain, nervous system",3,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,48,"Brain, nervous system",3,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,49,Thyroid,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,49,Thyroid,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,49,Thyroid,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,49,Thyroid,8,996311,0.803
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,49,Thyroid,5,1541215,0.3244
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,49,Thyroid,19,1650504,1.1512
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,49,Thyroid,25,1297818,1.9263
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,49,Thyroid,23,1062421,2.1649
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,49,Thyroid,16,877902,1.8225
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,49,Thyroid,16,736162,2.1734
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,49,Thyroid,20,610618,3.2754
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,49,Thyroid,13,513842,2.53
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,49,Thyroid,23,439699,5.2309
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,49,Thyroid,15,273122,5.4921
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,49,Thyroid,11,193940,5.6719
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,49,Thyroid,4,261372,1.5304
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,49,Thyroid,5,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,49,Thyroid,2,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,50,Adrenal gland,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,50,Adrenal gland,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,50,Adrenal gland,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,50,Adrenal gland,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,50,Adrenal gland,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,50,Adrenal gland,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,50,Adrenal gland,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,50,Adrenal gland,1,1062421,0.0941
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,50,Adrenal gland,1,877902,0.1139
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,50,Adrenal gland,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,50,Adrenal gland,0,610618,0.0
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,50,Adrenal gland,1,513842,0.1946
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,50,Adrenal gland,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,50,Adrenal gland,0,273122,0.0
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,50,Adrenal gland,1,193940,0.5156
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,50,Adrenal gland,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,50,Adrenal gland,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,50,Adrenal gland,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,51,Other endocrine,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,51,Other endocrine,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,51,Other endocrine,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,51,Other endocrine,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,51,Other endocrine,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,51,Other endocrine,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,51,Other endocrine,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,51,Other endocrine,1,1062421,0.0941
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,51,Other endocrine,0,877902,0.0
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,51,Other endocrine,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,51,Other endocrine,0,610618,0.0
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,51,Other endocrine,0,513842,0.0
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,51,Other endocrine,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,51,Other endocrine,1,273122,0.3661
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,51,Other endocrine,0,193940,0.0
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,51,Other endocrine,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,51,Other endocrine,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,51,Other endocrine,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,52,Hodgkin disease,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,52,Hodgkin disease,1,963313,0.1038
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,52,Hodgkin disease,3,907697,0.3305
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,52,Hodgkin disease,5,996311,0.5019
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,52,Hodgkin disease,7,1541215,0.4542
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,52,Hodgkin disease,4,1650504,0.2424
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,52,Hodgkin disease,7,1297818,0.5394
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,52,Hodgkin disease,3,1062421,0.2824
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,52,Hodgkin disease,3,877902,0.3417
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,52,Hodgkin disease,5,736162,0.6792
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,52,Hodgkin disease,5,610618,0.8188
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,52,Hodgkin disease,3,513842,0.5838
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,52,Hodgkin disease,1,439699,0.2274
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,52,Hodgkin disease,7,273122,2.563
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,52,Hodgkin disease,1,193940,0.5156
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,52,Hodgkin disease,2,261372,0.7652
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,52,Hodgkin disease,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,52,Hodgkin disease,2,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,53,Non-Hodgkin lymphoma,1,1074305,0.0931
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,53,Non-Hodgkin lymphoma,2,963313,0.2076
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,53,Non-Hodgkin lymphoma,2,907697,0.2203
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,53,Non-Hodgkin lymphoma,7,996311,0.7026
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,53,Non-Hodgkin lymphoma,5,1541215,0.3244
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,53,Non-Hodgkin lymphoma,2,1650504,0.1212
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,53,Non-Hodgkin lymphoma,11,1297818,0.8476
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,53,Non-Hodgkin lymphoma,22,1062421,2.0707
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,53,Non-Hodgkin lymphoma,19,877902,2.1643
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,53,Non-Hodgkin lymphoma,17,736162,2.3093
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,53,Non-Hodgkin lymphoma,31,610618,5.0768
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,53,Non-Hodgkin lymphoma,28,513842,5.4491
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,53,Non-Hodgkin lymphoma,40,439699,9.0971
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,53,Non-Hodgkin lymphoma,43,273122,15.7439
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,53,Non-Hodgkin lymphoma,45,193940,23.2031
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,53,Non-Hodgkin lymphoma,33,261372,12.6257
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,53,Non-Hodgkin lymphoma,17,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,53,Non-Hodgkin lymphoma,5,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,54,Immunoproliferative diseases,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,54,Immunoproliferative diseases,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,54,Immunoproliferative diseases,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,54,Immunoproliferative diseases,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,54,Immunoproliferative diseases,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,54,Immunoproliferative diseases,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,54,Immunoproliferative diseases,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,54,Immunoproliferative diseases,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,54,Immunoproliferative diseases,0,877902,0.0
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,54,Immunoproliferative diseases,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,54,Immunoproliferative diseases,0,610618,0.0
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,54,Immunoproliferative diseases,0,513842,0.0
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,54,Immunoproliferative diseases,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,54,Immunoproliferative diseases,0,273122,0.0
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,54,Immunoproliferative diseases,0,193940,0.0
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,54,Immunoproliferative diseases,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,54,Immunoproliferative diseases,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,54,Immunoproliferative diseases,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,55,Multiple myeloma,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,55,Multiple myeloma,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,55,Multiple myeloma,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,55,Multiple myeloma,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,55,Multiple myeloma,1,1541215,0.0649
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,55,Multiple myeloma,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,55,Multiple myeloma,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,55,Multiple myeloma,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,55,Multiple myeloma,3,877902,0.3417
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,55,Multiple myeloma,6,736162,0.815
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,55,Multiple myeloma,7,610618,1.1464
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,55,Multiple myeloma,11,513842,2.1407
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,55,Multiple myeloma,11,439699,2.5017
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,55,Multiple myeloma,12,273122,4.3936
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,55,Multiple myeloma,16,193940,8.25
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,55,Multiple myeloma,8,261372,3.0608
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,55,Multiple myeloma,5,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,55,Multiple myeloma,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,56,Lymphoid leukaemia,13,1074305,1.2101
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,56,Lymphoid leukaemia,15,963313,1.5571
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,56,Lymphoid leukaemia,12,907697,1.322
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,56,Lymphoid leukaemia,7,996311,0.7026
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,56,Lymphoid leukaemia,2,1541215,0.1298
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,56,Lymphoid leukaemia,1,1650504,0.0606
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,56,Lymphoid leukaemia,3,1297818,0.2312
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,56,Lymphoid leukaemia,2,1062421,0.1882
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,56,Lymphoid leukaemia,2,877902,0.2278
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,56,Lymphoid leukaemia,7,736162,0.9509
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,56,Lymphoid leukaemia,1,610618,0.1638
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,56,Lymphoid leukaemia,4,513842,0.7784
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,56,Lymphoid leukaemia,5,439699,1.1371
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,56,Lymphoid leukaemia,2,273122,0.7323
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,56,Lymphoid leukaemia,4,193940,2.0625
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,56,Lymphoid leukaemia,3,261372,1.1478
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,56,Lymphoid leukaemia,2,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,56,Lymphoid leukaemia,3,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,57,Myeloid leukaemia,3,1074305,0.2793
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,57,Myeloid leukaemia,2,963313,0.2076
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,57,Myeloid leukaemia,5,907697,0.5508
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,57,Myeloid leukaemia,1,996311,0.1004
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,57,Myeloid leukaemia,11,1541215,0.7137
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,57,Myeloid leukaemia,8,1650504,0.4847
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,57,Myeloid leukaemia,7,1297818,0.5394
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,57,Myeloid leukaemia,13,1062421,1.2236
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,57,Myeloid leukaemia,10,877902,1.1391
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,57,Myeloid leukaemia,8,736162,1.0867
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,57,Myeloid leukaemia,8,610618,1.3101
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,57,Myeloid leukaemia,10,513842,1.9461
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,57,Myeloid leukaemia,14,439699,3.184
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,57,Myeloid leukaemia,11,273122,4.0275
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,57,Myeloid leukaemia,4,193940,2.0625
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,57,Myeloid leukaemia,6,261372,2.2956
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,57,Myeloid leukaemia,6,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,57,Myeloid leukaemia,2,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,58,Leukaemia unspecified,5,1074305,0.4654
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,58,Leukaemia unspecified,4,963313,0.4152
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,58,Leukaemia unspecified,2,907697,0.2203
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,58,Leukaemia unspecified,1,996311,0.1004
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,58,Leukaemia unspecified,1,1541215,0.0649
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,58,Leukaemia unspecified,1,1650504,0.0606
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,58,Leukaemia unspecified,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,58,Leukaemia unspecified,3,1062421,0.2824
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,58,Leukaemia unspecified,3,877902,0.3417
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,58,Leukaemia unspecified,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,58,Leukaemia unspecified,3,610618,0.4913
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,58,Leukaemia unspecified,4,513842,0.7784
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,58,Leukaemia unspecified,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,58,Leukaemia unspecified,2,273122,0.7323
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,58,Leukaemia unspecified,1,193940,0.5156
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,58,Leukaemia unspecified,1,261372,0.3826
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,58,Leukaemia unspecified,1,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,58,Leukaemia unspecified,1,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,59,Myeloproliferative disorders,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,59,Myeloproliferative disorders,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,59,Myeloproliferative disorders,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,59,Myeloproliferative disorders,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,59,Myeloproliferative disorders,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,59,Myeloproliferative disorders,1,1650504,0.0606
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,59,Myeloproliferative disorders,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,59,Myeloproliferative disorders,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,59,Myeloproliferative disorders,0,877902,0.0
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,59,Myeloproliferative disorders,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,59,Myeloproliferative disorders,0,610618,0.0
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,59,Myeloproliferative disorders,0,513842,0.0
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,59,Myeloproliferative disorders,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,59,Myeloproliferative disorders,0,273122,0.0
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,59,Myeloproliferative disorders,0,193940,0.0
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,59,Myeloproliferative disorders,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,59,Myeloproliferative disorders,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,59,Myeloproliferative disorders,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,60,Myelodysplastic syndromes,0,1074305,0.0
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,60,Myelodysplastic syndromes,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,60,Myelodysplastic syndromes,0,907697,0.0
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,60,Myelodysplastic syndromes,0,996311,0.0
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,60,Myelodysplastic syndromes,0,1541215,0.0
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,60,Myelodysplastic syndromes,0,1650504,0.0
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,60,Myelodysplastic syndromes,0,1297818,0.0
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,60,Myelodysplastic syndromes,0,1062421,0.0
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,60,Myelodysplastic syndromes,0,877902,0.0
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,60,Myelodysplastic syndromes,0,736162,0.0
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,60,Myelodysplastic syndromes,0,610618,0.0
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,60,Myelodysplastic syndromes,0,513842,0.0
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,60,Myelodysplastic syndromes,0,439699,0.0
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,60,Myelodysplastic syndromes,0,273122,0.0
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,60,Myelodysplastic syndromes,0,193940,0.0
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,60,Myelodysplastic syndromes,0,261372,0.0
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,60,Myelodysplastic syndromes,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,60,Myelodysplastic syndromes,0,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,61,Other and unspecified,3,1074305,0.2793
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,61,Other and unspecified,0,963313,0.0
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,61,Other and unspecified,2,907697,0.2203
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,61,Other and unspecified,3,996311,0.3011
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,61,Other and unspecified,3,1541215,0.1947
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,61,Other and unspecified,7,1650504,0.4241
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,61,Other and unspecified,5,1297818,0.3853
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,61,Other and unspecified,14,1062421,1.3177
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,61,Other and unspecified,30,877902,3.4172
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,61,Other and unspecified,42,736162,5.7053
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,61,Other and unspecified,40,610618,6.5507
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,61,Other and unspecified,57,513842,11.0929
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,61,Other and unspecified,62,439699,14.1006
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,61,Other and unspecified,58,273122,21.2359
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,61,Other and unspecified,32,193940,16.4999
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,61,Other and unspecified,31,261372,11.8605
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,61,Other and unspecified,13,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,61,Other and unspecified,22,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,62,All sites,53,1074305,4.9334
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,62,All sites,47,963313,4.879
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,62,All sites,55,907697,6.0593
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,62,All sites,66,996311,6.6244
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,62,All sites,101,1541215,6.5533
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,62,All sites,189,1650504,11.451
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,62,All sites,337,1297818,25.9667
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,62,All sites,592,1062421,55.7218
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,62,All sites,885,877902,100.8085
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,62,All sites,1257,736162,170.7505
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,62,All sites,1367,610618,223.8716
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,62,All sites,1405,513842,273.4304
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,62,All sites,1664,439699,378.4407
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,62,All sites,1467,273122,537.1226
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,62,All sites,956,193940,492.936
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,62,All sites,621,261372,237.5924
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,62,All sites,367,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,62,All sites,339,0,
+XII,2013-2017,2015,Pune (Poona),Female,0-4,1,63,All sites but skin,53,1074305,4.9334
+XII,2013-2017,2015,Pune (Poona),Female,5-9,2,63,All sites but skin,47,963313,4.879
+XII,2013-2017,2015,Pune (Poona),Female,10-14,3,63,All sites but skin,54,907697,5.9491
+XII,2013-2017,2015,Pune (Poona),Female,15-19,4,63,All sites but skin,66,996311,6.6244
+XII,2013-2017,2015,Pune (Poona),Female,20-24,5,63,All sites but skin,101,1541215,6.5533
+XII,2013-2017,2015,Pune (Poona),Female,25-29,6,63,All sites but skin,189,1650504,11.451
+XII,2013-2017,2015,Pune (Poona),Female,30-34,7,63,All sites but skin,336,1297818,25.8896
+XII,2013-2017,2015,Pune (Poona),Female,35-39,8,63,All sites but skin,592,1062421,55.7218
+XII,2013-2017,2015,Pune (Poona),Female,40-44,9,63,All sites but skin,880,877902,100.239
+XII,2013-2017,2015,Pune (Poona),Female,45-49,10,63,All sites but skin,1250,736162,169.7996
+XII,2013-2017,2015,Pune (Poona),Female,50-54,11,63,All sites but skin,1362,610618,223.0527
+XII,2013-2017,2015,Pune (Poona),Female,55-59,12,63,All sites but skin,1398,513842,272.0681
+XII,2013-2017,2015,Pune (Poona),Female,60-64,13,63,All sites but skin,1652,439699,375.7116
+XII,2013-2017,2015,Pune (Poona),Female,65-69,14,63,All sites but skin,1459,273122,534.1935
+XII,2013-2017,2015,Pune (Poona),Female,70-74,15,63,All sites but skin,947,193940,488.2953
+XII,2013-2017,2015,Pune (Poona),Female,75-79,16,63,All sites but skin,614,261372,234.9142
+XII,2013-2017,2015,Pune (Poona),Female,80-84,17,63,All sites but skin,365,0,
+XII,2013-2017,2015,Pune (Poona),Female,85+,18,63,All sites but skin,332,0,
