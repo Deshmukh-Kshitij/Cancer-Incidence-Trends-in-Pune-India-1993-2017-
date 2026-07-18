@@ -38,3 +38,5 @@ All data originates from the International Agency for Research on Cancer's (IARC
 - All-sites crude cancer incidence rates per 100k increased with age in males and females within each registration period from 1993-2017.
 - Collective analysis of top 10 crude cancer incidence rates per 100k after filtering for consistent cancer names across registration periods, shows that colon, mouth, oesophagus, rectum, stomach, and tongue were tissues commonly diagnosed with cancer between males and females, whereas, bladder, larynx, liver, and prostate in males and breast, cervix uteri, corpus uteri, ovary in females were diagnosed at a higher rate.
 - Age-specific trends of crude cancer incidence rates per 100k for top 10 tissues between males and females show an overall increase in cancer incidence rates with age.
+  
+## TO RUN THE PROJECT, PLEASE PLACE THE PYTHON SCRIPT AND THE iarc_registeries_data ZIP FILES IN THE SAME FOLDER.
